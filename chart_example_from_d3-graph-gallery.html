@@ -42,11 +42,11 @@ function ready(error, topo) {
   let mouseOver = function(d) {
     d3.selectAll(".Country")
       .transition()
-      .duration(200)
+      .duration(0)
       .style("opacity", .5)
     d3.select(this)
       .transition()
-      .duration(200)
+      .duration(0)
       .style("opacity", 1)
       .style("stroke", "black")
   }
