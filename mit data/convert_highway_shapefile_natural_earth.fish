@@ -1,7 +1,7 @@
 #!/usr/local/bin/fish
 
 shp2json $argv[1] |
-geoproject 'd3.geoAlbersUsa().fitSize([975, 610], d)' |
+geoproject -n 'd3.geoAlbersUsa().scale(1300).translate([487.5, 305])' |
 ndjson-split 'd.features' |
 ndjson-filter 'd.properties.sov_a3 === "USA"' |
 ndjson-map 'delete d.properties.featurecla,
