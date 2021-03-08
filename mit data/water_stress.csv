@@ -1,0 +1,3108 @@
+FIPS,County_State,WaterStressERA
+1001,Autauga_Alabama,0.075
+1003,Baldwin_Alabama,0.034
+1005,Barbour_Alabama,0.009
+1007,Bibb_Alabama,0.008
+1009,Blount_Alabama,0.066
+1011,Bullock_Alabama,0.006
+1013,Butler_Alabama,0.005
+1015,Calhoun_Alabama,0.039
+1017,Chambers_Alabama,0.006
+1019,Cherokee_Alabama,0.008
+1021,Chilton_Alabama,0.007
+1023,Choctaw_Alabama,0.054
+1025,Clarke_Alabama,0.019
+1027,Clay_Alabama,0.004
+1029,Cleburne_Alabama,0.003
+1031,Coffee_Alabama,0.02
+1033,Colbert_Alabama,1.172
+1035,Conecuh_Alabama,0.002
+1037,Coosa_Alabama,0.001
+1039,Covington_Alabama,0.01
+1041,Crenshaw_Alabama,0.006
+1043,Cullman_Alabama,0.027
+1045,Dale_Alabama,0.015
+1047,Dallas_Alabama,0.047
+1049,DeKalb_Alabama,0.01
+1051,Elmore_Alabama,0.021
+1053,Escambia_Alabama,0.038
+1055,Etowah_Alabama,0.167
+1057,Fayette_Alabama,0.003
+1059,Franklin_Alabama,0.009
+1061,Geneva_Alabama,0.014
+1063,Greene_Alabama,0.51
+1065,Hale_Alabama,0.028
+1067,Henry_Alabama,0.012
+1069,Houston_Alabama,0.206
+1071,Jackson_Alabama,0.199
+1073,Jefferson_Alabama,0.038
+1075,Lamar_Alabama,0.003
+1077,Lauderdale_Alabama,0.016
+1079,Lawrence_Alabama,0.012
+1081,Lee_Alabama,0.023
+1083,Limestone_Alabama,3.409
+1085,Lowndes_Alabama,0.016
+1087,Macon_Alabama,0.014
+1089,Madison_Alabama,0.063
+1091,Marengo_Alabama,0.025
+1093,Marion_Alabama,0.007
+1095,Marshall_Alabama,0.03
+1097,Mobile_Alabama,0.465
+1099,Monroe_Alabama,0.043
+1101,Montgomery_Alabama,0.043
+1103,Morgan_Alabama,0.145
+1105,Perry_Alabama,0.009
+1107,Pickens_Alabama,0.006
+1109,Pike_Alabama,0.01
+1111,Randolph_Alabama,0.003
+1113,Russell_Alabama,0.054
+1115,St. Clair_Alabama,0.021
+1117,Shelby_Alabama,0.486
+1119,Sumter_Alabama,0.011
+1121,Talladega_Alabama,0.056
+1123,Tallapoosa_Alabama,0.013
+1125,Tuscaloosa_Alabama,0.023
+1127,Walker_Alabama,0.598
+1129,Washington_Alabama,0.046
+1131,Wilcox_Alabama,0.024
+1133,Winston_Alabama,0.002
+4001,Apache_Arizona,0.021
+4003,Cochise_Arizona,0.537
+4005,Coconino_Arizona,0.02
+4007,Gila_Arizona,0.03
+4009,Graham_Arizona,0.319
+4011,Greenlee_Arizona,0.035
+4012,La Paz_Arizona,30.85
+4013,Maricopa_Arizona,10.845
+4015,Mohave_Arizona,0.342
+4017,Navajo_Arizona,0.05
+4019,Pima_Arizona,1.248
+4021,Pinal_Arizona,4.227
+4023,Santa Cruz_Arizona,0.126
+4025,Yavapai_Arizona,0.132
+4027,Yuma_Arizona,52.476
+5001,Arkansas_Arkansas,1.184
+5003,Ashley_Arkansas,0.153
+5005,Baxter_Arkansas,0.006
+5007,Benton_Arkansas,0.323
+5009,Boone_Arkansas,0.003
+5011,Bradley_Arkansas,0.001
+5013,Calhoun_Arkansas,0
+5015,Carroll_Arkansas,0.012
+5017,Chicot_Arkansas,0.295
+5019,Clark_Arkansas,0.005
+5021,Clay_Arkansas,0.962
+5023,Cleburne_Arkansas,0.013
+5025,Cleveland_Arkansas,0.001
+5027,Columbia_Arkansas,0.004
+5029,Conway_Arkansas,0.016
+5031,Craighead_Arkansas,0.548
+5033,Crawford_Arkansas,0.029
+5035,Crittenden_Arkansas,0.331
+5037,Cross_Arkansas,0.72
+5039,Dallas_Arkansas,0
+5041,Desha_Arkansas,0.594
+5043,Drew_Arkansas,0.044
+5045,Faulkner_Arkansas,0.006
+5047,Franklin_Arkansas,0.007
+5049,Fulton_Arkansas,0.098
+5051,Garland_Arkansas,0.016
+5053,Grant_Arkansas,0.002
+5055,Greene_Arkansas,0.49
+5057,Hempstead_Arkansas,0.006
+5059,Hot Spring_Arkansas,0.071
+5061,Howard_Arkansas,0.007
+5063,Independence_Arkansas,0.144
+5065,Izard_Arkansas,0.002
+5067,Jackson_Arkansas,0.669
+5069,Jefferson_Arkansas,0.273
+5071,Johnson_Arkansas,0.004
+5073,Lafayette_Arkansas,0.018
+5075,Lawrence_Arkansas,0.311
+5077,Lee_Arkansas,0.411
+5079,Lincoln_Arkansas,0.313
+5081,Little River_Arkansas,0.051
+5083,Logan_Arkansas,0.004
+5085,Lonoke_Arkansas,0.762
+5087,Madison_Arkansas,0.001
+5089,Marion_Arkansas,0.002
+5091,Miller_Arkansas,0.001
+5093,Mississippi_Arkansas,0.041
+5095,Monroe_Arkansas,0.381
+5097,Montgomery_Arkansas,0.001
+5099,Nevada_Arkansas,0.001
+5101,Newton_Arkansas,0
+5103,Ouachita_Arkansas,0.014
+5105,Perry_Arkansas,0.002
+5107,Phillips_Arkansas,0.276
+5109,Pike_Arkansas,0.001
+5111,Poinsett_Arkansas,0.97
+5113,Polk_Arkansas,0.002
+5115,Pope_Arkansas,0.64
+5117,Prairie_Arkansas,0.563
+5119,Pulaski_Arkansas,0.076
+5121,Randolph_Arkansas,0.203
+5123,St. Francis_Arkansas,0.435
+5125,Saline_Arkansas,0.03
+5127,Scott_Arkansas,0.002
+5129,Searcy_Arkansas,0.001
+5131,Sebastian_Arkansas,0.002
+5133,Sevier_Arkansas,0.002
+5135,Sharp_Arkansas,0.002
+5137,Stone_Arkansas,0.003
+5139,Union_Arkansas,0.009
+5141,Van Buren_Arkansas,0.002
+5143,Washington_Arkansas,0.002
+5145,White_Arkansas,0.088
+5147,Woodruff_Arkansas,0.601
+5149,Yell_Arkansas,0.004
+6001,Alameda_California,1.341
+6003,Alpine_California,0.016
+6005,Amador_California,0.088
+6007,Butte_California,0.775
+6009,Calaveras_California,0.022
+6011,Colusa_California,2.014
+6013,Contra Costa_California,1.652
+6015,Del Norte_California,0.008
+6017,El Dorado_California,0.034
+6019,Fresno_California,1.142
+6021,Glenn_California,1.231
+6023,Humboldt_California,0.013
+6025,Imperial_California,263.062
+6027,Inyo_California,0.079
+6029,Kern_California,3.14
+6031,Kings_California,22.944
+6033,Lake_California,0.072
+6035,Lassen_California,0.058
+6037,Los Angeles_California,22.543
+6039,Madera_California,0.904
+6041,Marin_California,0.373
+6043,Mariposa_California,0.022
+6045,Mendocino_California,0.025
+6047,Merced_California,4.306
+6049,Modoc_California,0.098
+6051,Mono_California,0.07
+6053,Monterey_California,0.586
+6055,Napa_California,0.478
+6057,Nevada_California,0.069
+6059,Orange_California,37.974
+6061,Placer_California,0.148
+6063,Plumas_California,0.057
+6065,Riverside_California,11.946
+6067,Sacramento_California,2.877
+6069,San Benito_California,0.28
+6071,San Bernardino_California,1.584
+6073,San Diego_California,2.964
+6075,San Francisco_California,5.479
+6077,San Joaquin_California,3.826
+6079,San Luis Obispo_California,1.396
+6081,San Mateo_California,0.779
+6083,Santa Barbara_California,1.568
+6085,Santa Clara_California,0.778
+6087,Santa Cruz_California,0.392
+6089,Shasta_California,0.073
+6091,Sierra_California,0.032
+6093,Siskiyou_California,0.037
+6095,Solano_California,2.185
+6097,Sonoma_California,0.328
+6099,Stanislaus_California,3.556
+6101,Sutter_California,4.34
+6103,Tehama_California,0.315
+6105,Trinity_California,0.006
+6107,Tulare_California,1.17
+6109,Tuolumne_California,0.013
+6111,Ventura_California,4.549
+6113,Yolo_California,2.474
+6115,Yuba_California,0.765
+8001,Adams_Colorado,0.451
+8003,Alamosa_Colorado,1.961
+8005,Arapahoe_Colorado,0.56
+8007,Archuleta_Colorado,0.046
+8009,Baca_Colorado,0.217
+8011,Bent_Colorado,0.681
+8013,Boulder_Colorado,0.321
+8014,Broomfield_Colorado,0.346
+8015,Chaffee_Colorado,0.32
+8017,Cheyenne_Colorado,0.079
+8019,Clear Creek_Colorado,0.006
+8021,Conejos_Colorado,0.553
+8023,Costilla_Colorado,0.456
+8025,Crowley_Colorado,0.087
+8027,Custer_Colorado,0.126
+8029,Delta_Colorado,0.837
+8031,Denver_Colorado,2.462
+8033,Dolores_Colorado,0.011
+8035,Douglas_Colorado,0.119
+8037,Eagle_Colorado,0.157
+8039,Elbert_Colorado,0.028
+8041,El Paso_Colorado,0.112
+8043,Fremont_Colorado,0.227
+8045,Garfield_Colorado,0.221
+8047,Gilpin_Colorado,0.009
+8049,Grand_Colorado,0.253
+8051,Gunnison_Colorado,0.328
+8053,Hinsdale_Colorado,0.035
+8055,Huerfano_Colorado,0.066
+8057,Jackson_Colorado,0.477
+8059,Jefferson_Colorado,0.149
+8061,Kiowa_Colorado,0.006
+8063,Kit Carson_Colorado,0.239
+8065,Lake_Colorado,0.08
+8067,La Plata_Colorado,0.259
+8069,Larimer_Colorado,0.12
+8071,Las Animas_Colorado,0.021
+8073,Lincoln_Colorado,0.01
+8075,Logan_Colorado,0.251
+8077,Mesa_Colorado,0.976
+8079,Mineral_Colorado,0.014
+8081,Moffat_Colorado,0.163
+8083,Montezuma_Colorado,0.28
+8085,Montrose_Colorado,1.272
+8087,Morgan_Colorado,0.418
+8089,Otero_Colorado,1.686
+8091,Ouray_Colorado,0.47
+8093,Park_Colorado,0.039
+8095,Phillips_Colorado,0.362
+8097,Pitkin_Colorado,0.216
+8099,Prowers_Colorado,0.315
+8101,Pueblo_Colorado,0.512
+8103,Rio Blanco_Colorado,0.165
+8105,Rio Grande_Colorado,1.841
+8107,Routt_Colorado,0.157
+8109,Saguache_Colorado,0.408
+8111,San Juan_Colorado,0.001
+8113,San Miguel_Colorado,0.114
+8115,Sedgwick_Colorado,0.445
+8117,Summit_Colorado,0.165
+8119,Teller_Colorado,0.039
+8121,Washington_Colorado,0.079
+8123,Weld_Colorado,0.319
+8125,Yuma_Colorado,0.495
+9001,Fairfield_Connecticut,0.161
+9003,Hartford_Connecticut,0.348
+9005,Litchfield_Connecticut,0.026
+9007,Middlesex_Connecticut,0.202
+9009,New Haven_Connecticut,0.174
+9011,New London_Connecticut,0.032
+9013,Tolland_Connecticut,0.027
+9015,Windham_Connecticut,0.057
+10001,Kent_Delaware,0.066
+10003,New Castle_Delaware,0.819
+10005,Sussex_Delaware,0.099
+11001,District of Columbia_District of Columbia,0.001
+12001,Alachua_Florida,0.066
+12003,Baker_Florida,0.009
+12005,Bay_Florida,0.057
+12007,Bradford_Florida,0.023
+12009,Brevard_Florida,0.075
+12011,Broward_Florida,0.251
+12013,Calhoun_Florida,0.009
+12015,Charlotte_Florida,0.046
+12017,Citrus_Florida,0.05
+12019,Clay_Florida,0.05
+12021,Collier_Florida,0.17
+12023,Columbia_Florida,0.017
+12027,DeSoto_Florida,0.18
+12029,Dixie_Florida,0.011
+12031,Duval_Florida,0.217
+12033,Escambia_Florida,0.241
+12035,Flagler_Florida,0.056
+12037,Franklin_Florida,0.003
+12039,Gadsden_Florida,0.036
+12041,Gilchrist_Florida,0.068
+12043,Glades_Florida,0.245
+12045,Gulf_Florida,0.004
+12047,Hamilton_Florida,0.13
+12049,Hardee_Florida,0.086
+12051,Hendry_Florida,0.628
+12053,Hernando_Florida,0.077
+12055,Highlands_Florida,0.129
+12057,Hillsborough_Florida,0.321
+12059,Holmes_Florida,0.006
+12061,Indian River_Florida,0.127
+12063,Jackson_Florida,0.091
+12065,Jefferson_Florida,0.014
+12067,Lafayette_Florida,0.028
+12069,Lake_Florida,0.137
+12071,Lee_Florida,0.262
+12073,Leon_Florida,0.069
+12075,Levy_Florida,0.019
+12077,Liberty_Florida,0.002
+12079,Madison_Florida,0.039
+12081,Manatee_Florida,0.196
+12083,Marion_Florida,0.047
+12085,Martin_Florida,0.325
+12086,Miami-Dade_Florida,0.33
+12087,Monroe_Florida,0.002
+12089,Nassau_Florida,0.088
+12091,Okaloosa_Florida,0.021
+12093,Okeechobee_Florida,0.032
+12095,Orange_Florida,0.358
+12097,Osceola_Florida,0.066
+12099,Palm Beach_Florida,0.458
+12101,Pasco_Florida,0.127
+12103,Pinellas_Florida,0.067
+12105,Polk_Florida,0.162
+12107,Putnam_Florida,0.12
+12109,St. Johns_Florida,0.114
+12111,St. Lucie_Florida,0.119
+12113,Santa Rosa_Florida,0.014
+12115,Sarasota_Florida,0.048
+12117,Seminole_Florida,0.257
+12119,Sumter_Florida,0.095
+12121,Suwannee_Florida,0.408
+12123,Taylor_Florida,0.047
+12125,Union_Florida,0.015
+12127,Volusia_Florida,0.105
+12129,Wakulla_Florida,0.008
+12131,Walton_Florida,0.012
+12133,Washington_Florida,0.006
+13001,Appling_Georgia,0.181
+13003,Atkinson_Georgia,0.013
+13005,Bacon_Georgia,0.029
+13007,Baker_Georgia,0.083
+13009,Baldwin_Georgia,0.015
+13011,Banks_Georgia,0.01
+13013,Barrow_Georgia,0.028
+13015,Bartow_Georgia,0.131
+13017,Ben Hill_Georgia,0.04
+13019,Berrien_Georgia,0.028
+13021,Bibb_Georgia,0.176
+13023,Bleckley_Georgia,0.039
+13025,Brantley_Georgia,0.005
+13027,Brooks_Georgia,0.045
+13029,Bryan_Georgia,0.009
+13031,Bulloch_Georgia,0.021
+13033,Burke_Georgia,0.09
+13035,Butts_Georgia,0.012
+13037,Calhoun_Georgia,0.061
+13039,Camden_Georgia,0.01
+13043,Candler_Georgia,0.017
+13045,Carroll_Georgia,0.019
+13047,Catoosa_Georgia,0.022
+13049,Charlton_Georgia,0.003
+13051,Chatham_Georgia,0.15
+13053,Chattahoochee_Georgia,0.003
+13055,Chattooga_Georgia,0.018
+13057,Cherokee_Georgia,0.029
+13059,Clarke_Georgia,0.064
+13061,Clay_Georgia,0.017
+13063,Clayton_Georgia,0.056
+13065,Clinch_Georgia,0.002
+13067,Cobb_Georgia,0.101
+13069,Coffee_Georgia,0.037
+13071,Colquitt_Georgia,0.084
+13073,Columbia_Georgia,0.045
+13075,Cook_Georgia,0.079
+13077,Coweta_Georgia,0.05
+13079,Crawford_Georgia,0.01
+13081,Crisp_Georgia,0.086
+13083,Dade_Georgia,0.008
+13085,Dawson_Georgia,0.005
+13087,Decatur_Georgia,0.153
+13089,DeKalb_Georgia,0.004
+13091,Dodge_Georgia,0.028
+13093,Dooly_Georgia,0.05
+13095,Dougherty_Georgia,0.191
+13097,Douglas_Georgia,0.057
+13099,Early_Georgia,0.241
+13101,Echols_Georgia,0.007
+13103,Effingham_Georgia,0.291
+13105,Elbert_Georgia,0.007
+13107,Emanuel_Georgia,0.01
+13109,Evans_Georgia,0.041
+13111,Fannin_Georgia,0.063
+13113,Fayette_Georgia,0.042
+13115,Floyd_Georgia,0.321
+13117,Forsyth_Georgia,0.058
+13119,Franklin_Georgia,0.01
+13121,Fulton_Georgia,0.23
+13123,Gilmer_Georgia,0.009
+13125,Glascock_Georgia,0.002
+13127,Glynn_Georgia,0.103
+13129,Gordon_Georgia,0.024
+13131,Grady_Georgia,0.031
+13133,Greene_Georgia,0.006
+13135,Gwinnett_Georgia,0.003
+13137,Habersham_Georgia,0.012
+13139,Hall_Georgia,0.111
+13141,Hancock_Georgia,0.003
+13143,Haralson_Georgia,0.008
+13145,Harris_Georgia,0.01
+13147,Hart_Georgia,0.011
+13149,Heard_Georgia,0.035
+13151,Henry_Georgia,0.085
+13153,Houston_Georgia,0.096
+13155,Irwin_Georgia,0.077
+13157,Jackson_Georgia,0.02
+13159,Jasper_Georgia,0.004
+13161,Jeff Davis_Georgia,0.018
+13163,Jefferson_Georgia,0.045
+13165,Jenkins_Georgia,0.026
+13167,Johnson_Georgia,0.009
+13169,Jones_Georgia,0.01
+13171,Lamar_Georgia,0.017
+13173,Lanier_Georgia,0.02
+13175,Laurens_Georgia,0.034
+13177,Lee_Georgia,0.097
+13179,Liberty_Georgia,0.038
+13181,Lincoln_Georgia,0.001
+13183,Long_Georgia,0.005
+13185,Lowndes_Georgia,0.1
+13187,Lumpkin_Georgia,0.006
+13189,McDuffie_Georgia,0.01
+13191,McIntosh_Georgia,0.003
+13193,Macon_Georgia,0.065
+13195,Madison_Georgia,0.007
+13197,Marion_Georgia,0.012
+13199,Meriwether_Georgia,0.002
+13201,Miller_Georgia,0.152
+13205,Mitchell_Georgia,0.206
+13207,Monroe_Georgia,0.102
+13209,Montgomery_Georgia,0.011
+13211,Morgan_Georgia,0.009
+13213,Murray_Georgia,0.006
+13215,Muscogee_Georgia,0.145
+13217,Newton_Georgia,0.039
+13219,Oconee_Georgia,0.016
+13221,Oglethorpe_Georgia,0.006
+13223,Paulding_Georgia,0.007
+13225,Peach_Georgia,0.051
+13227,Pickens_Georgia,0.012
+13229,Pierce_Georgia,0.021
+13231,Pike_Georgia,0.019
+13233,Polk_Georgia,0.018
+13235,Pulaski_Georgia,0.065
+13237,Putnam_Georgia,0.415
+13239,Quitman_Georgia,0.001
+13241,Rabun_Georgia,0.004
+13243,Randolph_Georgia,0.041
+13245,Richmond_Georgia,0.243
+13247,Rockdale_Georgia,0.068
+13249,Schley_Georgia,0.004
+13251,Screven_Georgia,0.026
+13253,Seminole_Georgia,0.233
+13255,Spalding_Georgia,0.028
+13257,Stephens_Georgia,0.011
+13259,Stewart_Georgia,0.003
+13261,Sumter_Georgia,0.056
+13263,Talbot_Georgia,0.004
+13265,Taliaferro_Georgia,0
+13267,Tattnall_Georgia,0.034
+13269,Taylor_Georgia,0.008
+13271,Telfair_Georgia,0.016
+13273,Terrell_Georgia,0.048
+13275,Thomas_Georgia,0.037
+13277,Tift_Georgia,0.116
+13279,Toombs_Georgia,0.049
+13281,Towns_Georgia,0.006
+13283,Treutlen_Georgia,0.017
+13285,Troup_Georgia,0.016
+13287,Turner_Georgia,0.068
+13289,Twiggs_Georgia,0.017
+13291,Union_Georgia,0.003
+13293,Upson_Georgia,0.012
+13295,Walker_Georgia,0.011
+13297,Walton_Georgia,0.014
+13299,Ware_Georgia,0.008
+13301,Warren_Georgia,0.003
+13303,Washington_Georgia,0.026
+13305,Wayne_Georgia,0.118
+13307,Webster_Georgia,0.021
+13309,Wheeler_Georgia,0.013
+13311,White_Georgia,0.006
+13313,Whitfield_Georgia,0.058
+13315,Wilcox_Georgia,0.074
+13317,Wilkes_Georgia,0.003
+13319,Wilkinson_Georgia,0.035
+13321,Worth_Georgia,0.07
+16001,Ada_Idaho,1.292
+16003,Adams_Idaho,0.032
+16005,Bannock_Idaho,0.682
+16007,Bear Lake_Idaho,0.495
+16009,Benewah_Idaho,0.017
+16011,Bingham_Idaho,1.828
+16013,Blaine_Idaho,0.196
+16015,Boise_Idaho,0.003
+16017,Bonner_Idaho,0.008
+16019,Bonneville_Idaho,0.92
+16021,Boundary_Idaho,0.093
+16023,Butte_Idaho,0.321
+16025,Camas_Idaho,0.445
+16027,Canyon_Idaho,9.233
+16029,Caribou_Idaho,0.574
+16031,Cassia_Idaho,1.347
+16033,Clark_Idaho,0.236
+16035,Clearwater_Idaho,0.055
+16037,Custer_Idaho,0.057
+16039,Elmore_Idaho,0.246
+16041,Franklin_Idaho,1.34
+16043,Fremont_Idaho,0.373
+16045,Gem_Idaho,0.656
+16047,Gooding_Idaho,4.61
+16049,Idaho_Idaho,0.014
+16051,Jefferson_Idaho,3.012
+16053,Jerome_Idaho,5.296
+16055,Kootenai_Idaho,0.114
+16057,Latah_Idaho,0.218
+16059,Lemhi_Idaho,0.044
+16061,Lewis_Idaho,0.149
+16063,Lincoln_Idaho,0.76
+16065,Madison_Idaho,2.24
+16067,Minidoka_Idaho,5.005
+16069,Nez Perce_Idaho,0.594
+16071,Oneida_Idaho,1.938
+16073,Owyhee_Idaho,0.431
+16075,Payette_Idaho,4.552
+16077,Power_Idaho,1.59
+16079,Shoshone_Idaho,0.002
+16081,Teton_Idaho,1.475
+16083,Twin Falls_Idaho,3.534
+16085,Valley_Idaho,0.005
+16087,Washington_Idaho,0.563
+17001,Adams_Illinois,0.018
+17003,Alexander_Illinois,0.01
+17005,Bond_Illinois,0.003
+17007,Boone_Illinois,0.023
+17009,Brown_Illinois,0.001
+17011,Bureau_Illinois,0.01
+17013,Calhoun_Illinois,0.002
+17015,Carroll_Illinois,0.011
+17017,Cass_Illinois,0.031
+17019,Champaign_Illinois,0.033
+17021,Christian_Illinois,1.07
+17023,Clark_Illinois,0.012
+17025,Clay_Illinois,0.001
+17027,Clinton_Illinois,0.013
+17029,Coles_Illinois,0.008
+17031,Cook_Illinois,0.888
+17033,Crawford_Illinois,0.023
+17035,Cumberland_Illinois,0.003
+17037,DeKalb_Illinois,0.019
+17039,De Witt_Illinois,1.808
+17041,Douglas_Illinois,0.01
+17043,DuPage_Illinois,0.048
+17045,Edgar_Illinois,0.004
+17047,Edwards_Illinois,0
+17049,Effingham_Illinois,0.007
+17051,Fayette_Illinois,0.002
+17053,Ford_Illinois,0.008
+17055,Franklin_Illinois,0.032
+17057,Fulton_Illinois,0.286
+17059,Gallatin_Illinois,0.024
+17061,Greene_Illinois,0.002
+17063,Grundy_Illinois,0.925
+17065,Hamilton_Illinois,0
+17067,Hancock_Illinois,0.003
+17069,Hardin_Illinois,0.002
+17071,Henderson_Illinois,0.024
+17073,Henry_Illinois,0.011
+17075,Iroquois_Illinois,0.004
+17077,Jackson_Illinois,0.094
+17079,Jasper_Illinois,0.739
+17081,Jefferson_Illinois,0.001
+17083,Jersey_Illinois,0.003
+17085,Jo Daviess_Illinois,0.009
+17087,Johnson_Illinois,0.003
+17089,Kane_Illinois,0.128
+17091,Kankakee_Illinois,0.031
+17093,Kendall_Illinois,0.034
+17095,Knox_Illinois,0.003
+17097,Lake_Illinois,0.735
+17099,LaSalle_Illinois,0.088
+17101,Lawrence_Illinois,0.028
+17103,Lee_Illinois,0.013
+17105,Livingston_Illinois,0.006
+17107,Logan_Illinois,0.008
+17109,McDonough_Illinois,0.005
+17111,McHenry_Illinois,0.058
+17113,McLean_Illinois,0.01
+17115,Macon_Illinois,0.052
+17117,Macoupin_Illinois,0.004
+17119,Madison_Illinois,0.311
+17121,Marion_Illinois,0.002
+17123,Marshall_Illinois,0.007
+17125,Mason_Illinois,0.122
+17127,Massac_Illinois,1.411
+17129,Menard_Illinois,0.008
+17131,Mercer_Illinois,0.01
+17133,Monroe_Illinois,0.004
+17135,Montgomery_Illinois,0.472
+17137,Morgan_Illinois,0.006
+17139,Moultrie_Illinois,0.002
+17141,Ogle_Illinois,0.084
+17143,Peoria_Illinois,0.587
+17145,Perry_Illinois,0.003
+17147,Piatt_Illinois,0.012
+17149,Pike_Illinois,0.003
+17151,Pope_Illinois,0.001
+17153,Pulaski_Illinois,0.004
+17155,Putnam_Illinois,0.961
+17157,Randolph_Illinois,0.03
+17159,Richland_Illinois,0.004
+17161,Rock Island_Illinois,2.138
+17163,St. Clair_Illinois,0.036
+17165,Saline_Illinois,0.005
+17167,Sangamon_Illinois,0.308
+17169,Schuyler_Illinois,0.003
+17171,Scott_Illinois,0.019
+17173,Shelby_Illinois,0.003
+17175,Stark_Illinois,0.002
+17177,Stephenson_Illinois,0.013
+17179,Tazewell_Illinois,0.122
+17181,Union_Illinois,0.003
+17183,Vermilion_Illinois,0.013
+17185,Wabash_Illinois,0.01
+17187,Warren_Illinois,0.006
+17189,Washington_Illinois,0.002
+17191,Wayne_Illinois,0.002
+17193,White_Illinois,0.02
+17195,Whiteside_Illinois,0.023
+17197,Will_Illinois,1.694
+17199,Williamson_Illinois,0.399
+17201,Winnebago_Illinois,0.065
+17203,Woodford_Illinois,0.014
+18001,Adams_Indiana,0.023
+18003,Allen_Indiana,0.073
+18005,Bartholomew_Indiana,0.037
+18007,Benton_Indiana,0.003
+18009,Blackford_Indiana,0.012
+18011,Boone_Indiana,0.011
+18013,Brown_Indiana,0.001
+18015,Carroll_Indiana,0.026
+18017,Cass_Indiana,0.064
+18019,Clark_Indiana,0.065
+18021,Clay_Indiana,0.002
+18023,Clinton_Indiana,0.014
+18025,Crawford_Indiana,0.006
+18027,Daviess_Indiana,0.02
+18029,Dearborn_Indiana,0.573
+18031,Decatur_Indiana,0.01
+18033,DeKalb_Indiana,0.026
+18035,Delaware_Indiana,0.038
+18037,Dubois_Indiana,0.013
+18039,Elkhart_Indiana,0.069
+18041,Fayette_Indiana,0.012
+18043,Floyd_Indiana,0.431
+18045,Fountain_Indiana,0.009
+18047,Franklin_Indiana,0.009
+18049,Fulton_Indiana,0.03
+18051,Gibson_Indiana,0.055
+18053,Grant_Indiana,0.023
+18055,Greene_Indiana,0.005
+18057,Hamilton_Indiana,0.155
+18059,Hancock_Indiana,0.02
+18061,Harrison_Indiana,0.006
+18063,Hendricks_Indiana,0.023
+18065,Henry_Indiana,0.017
+18067,Howard_Indiana,0.059
+18069,Huntington_Indiana,0.015
+18071,Jackson_Indiana,0.015
+18073,Jasper_Indiana,0.082
+18075,Jay_Indiana,0.014
+18077,Jefferson_Indiana,2.561
+18079,Jennings_Indiana,0.005
+18081,Johnson_Indiana,0.04
+18083,Knox_Indiana,0.035
+18085,Kosciusko_Indiana,0.044
+18087,LaGrange_Indiana,0.045
+18089,Lake_Indiana,2.563
+18091,LaPorte_Indiana,0.089
+18093,Lawrence_Indiana,0.013
+18095,Madison_Indiana,0.038
+18097,Marion_Indiana,0.592
+18099,Marshall_Indiana,0.018
+18101,Martin_Indiana,0.003
+18103,Miami_Indiana,0.022
+18105,Monroe_Indiana,0.034
+18107,Montgomery_Indiana,0.012
+18109,Morgan_Indiana,0.12
+18111,Newton_Indiana,0.011
+18113,Noble_Indiana,0.023
+18115,Ohio_Indiana,0.009
+18117,Orange_Indiana,0.002
+18119,Owen_Indiana,0.005
+18121,Parke_Indiana,0.005
+18123,Perry_Indiana,0.005
+18125,Pike_Indiana,0.873
+18127,Porter_Indiana,1.958
+18129,Posey_Indiana,0.032
+18131,Pulaski_Indiana,0.026
+18133,Putnam_Indiana,0.014
+18135,Randolph_Indiana,0.015
+18137,Ripley_Indiana,0.005
+18139,Rush_Indiana,0.006
+18141,St. Joseph_Indiana,0.102
+18143,Scott_Indiana,0.019
+18145,Shelby_Indiana,0.023
+18147,Spencer_Indiana,0.052
+18149,Starke_Indiana,0.024
+18151,Steuben_Indiana,0.018
+18153,Sullivan_Indiana,0.739
+18155,Switzerland_Indiana,0.006
+18157,Tippecanoe_Indiana,0.058
+18159,Tipton_Indiana,0.007
+18161,Union_Indiana,0.004
+18163,Vanderburgh_Indiana,0.062
+18165,Vermillion_Indiana,2.01
+18167,Vigo_Indiana,0.76
+18169,Wabash_Indiana,0.017
+18171,Warren_Indiana,0.005
+18173,Warrick_Indiana,1.198
+18175,Washington_Indiana,0.006
+18177,Wayne_Indiana,0.025
+18179,Wells_Indiana,0.018
+18181,White_Indiana,0.015
+18183,Whitley_Indiana,0.014
+19001,Adair_Iowa,0.003
+19003,Adams_Iowa,0.004
+19005,Allamakee_Iowa,0.274
+19007,Appanoose_Iowa,0.021
+19009,Audubon_Iowa,0.005
+19011,Benton_Iowa,0.005
+19013,Black Hawk_Iowa,0.076
+19015,Boone_Iowa,0.007
+19017,Bremer_Iowa,0.01
+19019,Buchanan_Iowa,0.008
+19021,Buena Vista_Iowa,0.016
+19023,Butler_Iowa,0.009
+19025,Calhoun_Iowa,0.006
+19027,Carroll_Iowa,0.011
+19029,Cass_Iowa,0.004
+19031,Cedar_Iowa,0.007
+19033,Cerro Gordo_Iowa,0.02
+19035,Cherokee_Iowa,0.013
+19037,Chickasaw_Iowa,0.01
+19039,Clarke_Iowa,0.004
+19041,Clay_Iowa,0.01
+19043,Clayton_Iowa,0.009
+19045,Clinton_Iowa,0.238
+19047,Crawford_Iowa,0.008
+19049,Dallas_Iowa,0.005
+19051,Davis_Iowa,0.003
+19053,Decatur_Iowa,0.002
+19055,Delaware_Iowa,0.013
+19057,Des Moines_Iowa,0.214
+19059,Dickinson_Iowa,0.027
+19061,Dubuque_Iowa,0.022
+19063,Emmet_Iowa,0.009
+19065,Fayette_Iowa,0.007
+19067,Floyd_Iowa,0.01
+19069,Franklin_Iowa,0.009
+19071,Fremont_Iowa,0.004
+19073,Greene_Iowa,0.005
+19075,Grundy_Iowa,0.004
+19077,Guthrie_Iowa,0.003
+19079,Hamilton_Iowa,0.01
+19081,Hancock_Iowa,0.01
+19083,Hardin_Iowa,0.017
+19085,Harrison_Iowa,0.009
+19087,Henry_Iowa,0.006
+19089,Howard_Iowa,0.014
+19091,Humboldt_Iowa,0.01
+19093,Ida_Iowa,0.007
+19095,Iowa_Iowa,0.004
+19097,Jackson_Iowa,0.005
+19099,Jasper_Iowa,0.009
+19101,Jefferson_Iowa,0.005
+19103,Johnson_Iowa,0.055
+19105,Jones_Iowa,0.005
+19107,Keokuk_Iowa,0.005
+19109,Kossuth_Iowa,0.008
+19111,Lee_Iowa,0.047
+19113,Linn_Iowa,0.221
+19115,Louisa_Iowa,0.027
+19117,Lucas_Iowa,0.002
+19119,Lyon_Iowa,0.026
+19121,Madison_Iowa,0.002
+19123,Mahaska_Iowa,0.007
+19125,Marion_Iowa,0.006
+19127,Marshall_Iowa,0.017
+19129,Mills_Iowa,0.005
+19131,Mitchell_Iowa,0.019
+19133,Monona_Iowa,0.018
+19135,Monroe_Iowa,0.006
+19137,Montgomery_Iowa,0.004
+19139,Muscatine_Iowa,0.316
+19141,O'Brien_Iowa,0.019
+19143,Osceola_Iowa,0.036
+19145,Page_Iowa,0.006
+19147,Palo Alto_Iowa,0.012
+19149,Plymouth_Iowa,0.016
+19151,Pocahontas_Iowa,0.004
+19153,Polk_Iowa,0.09
+19155,Pottawattamie_Iowa,0.4
+19157,Poweshiek_Iowa,0.005
+19159,Ringgold_Iowa,0.003
+19161,Sac_Iowa,0.011
+19163,Scott_Iowa,0.165
+19165,Shelby_Iowa,0.006
+19167,Sioux_Iowa,0.049
+19169,Story_Iowa,0.02
+19171,Tama_Iowa,0.008
+19173,Taylor_Iowa,0.003
+19175,Union_Iowa,0.014
+19177,Van Buren_Iowa,0.002
+19179,Wapello_Iowa,0.044
+19181,Warren_Iowa,0.002
+19183,Washington_Iowa,0.013
+19185,Wayne_Iowa,0.003
+19187,Webster_Iowa,0.028
+19189,Winnebago_Iowa,0.008
+19191,Winneshiek_Iowa,0.012
+19193,Woodbury_Iowa,0.875
+19195,Worth_Iowa,0.038
+19197,Wright_Iowa,0.012
+20001,Allen_Kansas,0.005
+20003,Anderson_Kansas,0.004
+20005,Atchison_Kansas,0.011
+20007,Barber_Kansas,0.008
+20009,Barton_Kansas,0.095
+20011,Bourbon_Kansas,0.005
+20013,Brown_Kansas,0.007
+20015,Butler_Kansas,0.016
+20017,Chase_Kansas,0.003
+20019,Chautauqua_Kansas,0.002
+20021,Cherokee_Kansas,0.004
+20023,Cheyenne_Kansas,0.203
+20025,Clark_Kansas,0.006
+20027,Clay_Kansas,0.03
+20029,Cloud_Kansas,0.028
+20031,Coffey_Kansas,0.048
+20033,Comanche_Kansas,0.015
+20035,Cowley_Kansas,0.01
+20037,Crawford_Kansas,0.009
+20039,Decatur_Kansas,0.043
+20041,Dickinson_Kansas,0.011
+20043,Doniphan_Kansas,0.002
+20045,Douglas_Kansas,0.054
+20047,Edwards_Kansas,0.411
+20049,Elk_Kansas,0.001
+20051,Ellis_Kansas,0.012
+20053,Ellsworth_Kansas,0.008
+20055,Finney_Kansas,0.437
+20057,Ford_Kansas,0.165
+20059,Franklin_Kansas,0.009
+20061,Geary_Kansas,0.044
+20063,Gove_Kansas,0.046
+20065,Graham_Kansas,0.048
+20067,Grant_Kansas,0.49
+20069,Gray_Kansas,0.355
+20071,Greeley_Kansas,0.069
+20073,Greenwood_Kansas,0.002
+20075,Hamilton_Kansas,0.142
+20077,Harper_Kansas,0.006
+20079,Harvey_Kansas,0.1
+20081,Haskell_Kansas,0.628
+20083,Hodgeman_Kansas,0.048
+20085,Jackson_Kansas,0.004
+20087,Jefferson_Kansas,0.005
+20089,Jewell_Kansas,0.06
+20091,Johnson_Kansas,0.032
+20093,Kearny_Kansas,0.452
+20095,Kingman_Kansas,0.033
+20097,Kiowa_Kansas,0.178
+20099,Labette_Kansas,0.005
+20101,Lane_Kansas,0.044
+20103,Leavenworth_Kansas,0.063
+20105,Lincoln_Kansas,0.004
+20107,Linn_Kansas,1.109
+20109,Logan_Kansas,0.022
+20111,Lyon_Kansas,0.01
+20113,McPherson_Kansas,0.061
+20115,Marion_Kansas,0.007
+20117,Marshall_Kansas,0.004
+20119,Meade_Kansas,0.28
+20121,Miami_Kansas,0.013
+20123,Mitchell_Kansas,0.038
+20125,Montgomery_Kansas,0.022
+20127,Morris_Kansas,0.007
+20129,Morton_Kansas,0.202
+20131,Nemaha_Kansas,0.006
+20133,Neosho_Kansas,0.003
+20135,Ness_Kansas,0.008
+20137,Norton_Kansas,0.046
+20139,Osage_Kansas,0.006
+20141,Osborne_Kansas,0.007
+20143,Ottawa_Kansas,0.011
+20145,Pawnee_Kansas,0.203
+20147,Phillips_Kansas,0.054
+20149,Pottawatomie_Kansas,0.057
+20151,Pratt_Kansas,0.234
+20153,Rawlins_Kansas,0.061
+20155,Reno_Kansas,0.088
+20157,Republic_Kansas,0.042
+20159,Rice_Kansas,0.064
+20161,Riley_Kansas,0.013
+20163,Rooks_Kansas,0.007
+20165,Rush_Kansas,0.034
+20167,Russell_Kansas,0.002
+20169,Saline_Kansas,0.025
+20171,Scott_Kansas,0.133
+20173,Sedgwick_Kansas,0.128
+20175,Seward_Kansas,0.648
+20177,Shawnee_Kansas,0.059
+20179,Sheridan_Kansas,0.232
+20181,Sherman_Kansas,0.404
+20183,Smith_Kansas,0.007
+20185,Stafford_Kansas,0.231
+20187,Stanton_Kansas,0.446
+20189,Stevens_Kansas,0.822
+20191,Sumner_Kansas,0.011
+20193,Thomas_Kansas,0.259
+20195,Trego_Kansas,0.015
+20197,Wabaunsee_Kansas,0.006
+20199,Wallace_Kansas,0.147
+20201,Washington_Kansas,0.013
+20203,Wichita_Kansas,0.149
+20205,Wilson_Kansas,0.004
+20207,Woodson_Kansas,0.003
+20209,Wyandotte_Kansas,1.453
+21001,Adair_Kentucky,0.002
+21003,Allen_Kentucky,0.004
+21005,Anderson_Kentucky,0.009
+21007,Ballard_Kentucky,0.058
+21009,Barren_Kentucky,0.014
+21011,Bath_Kentucky,0.017
+21013,Bell_Kentucky,0.009
+21015,Boone_Kentucky,0.056
+21017,Bourbon_Kentucky,0.009
+21019,Boyd_Kentucky,0.205
+21021,Boyle_Kentucky,0.024
+21023,Bracken_Kentucky,0.005
+21025,Breathitt_Kentucky,0.019
+21027,Breckinridge_Kentucky,0.004
+21029,Bullitt_Kentucky,0.012
+21031,Butler_Kentucky,0.003
+21033,Caldwell_Kentucky,0.005
+21035,Calloway_Kentucky,0.012
+21037,Campbell_Kentucky,0.135
+21039,Carlisle_Kentucky,0.003
+21041,Carroll_Kentucky,0.223
+21043,Carter_Kentucky,0.009
+21045,Casey_Kentucky,0.003
+21047,Christian_Kentucky,0.016
+21049,Clark_Kentucky,0.038
+21051,Clay_Kentucky,0.009
+21053,Clinton_Kentucky,0.015
+21055,Crittenden_Kentucky,0.002
+21057,Cumberland_Kentucky,0.002
+21059,Daviess_Kentucky,0.285
+21061,Edmonson_Kentucky,0.004
+21063,Elliott_Kentucky,0.002
+21065,Estill_Kentucky,0.005
+21067,Fayette_Kentucky,0.092
+21069,Fleming_Kentucky,0.003
+21071,Floyd_Kentucky,0.011
+21073,Franklin_Kentucky,0.059
+21075,Fulton_Kentucky,0.007
+21077,Gallatin_Kentucky,0.014
+21079,Garrard_Kentucky,0.007
+21081,Grant_Kentucky,0.006
+21083,Graves_Kentucky,0.013
+21085,Grayson_Kentucky,0.005
+21087,Green_Kentucky,0.008
+21089,Greenup_Kentucky,0.051
+21091,Hancock_Kentucky,0.102
+21093,Hardin_Kentucky,0.018
+21095,Harlan_Kentucky,0.005
+21097,Harrison_Kentucky,0.01
+21099,Hart_Kentucky,0.008
+21101,Henderson_Kentucky,0.026
+21103,Henry_Kentucky,0.002
+21105,Hickman_Kentucky,0.01
+21107,Hopkins_Kentucky,0.036
+21109,Jackson_Kentucky,0.004
+21111,Jefferson_Kentucky,0.768
+21113,Jessamine_Kentucky,0.024
+21115,Johnson_Kentucky,0.009
+21117,Kenton_Kentucky,0.003
+21119,Knott_Kentucky,0.006
+21121,Knox_Kentucky,0.001
+21123,Larue_Kentucky,0.003
+21125,Laurel_Kentucky,0.015
+21127,Lawrence_Kentucky,0.026
+21129,Lee_Kentucky,0.004
+21131,Leslie_Kentucky,0.003
+21133,Letcher_Kentucky,0.006
+21135,Lewis_Kentucky,0.005
+21137,Lincoln_Kentucky,0.007
+21139,Livingston_Kentucky,0.029
+21141,Logan_Kentucky,0.004
+21143,Lyon_Kentucky,0.009
+21145,McCracken_Kentucky,2.206
+21147,McCreary_Kentucky,0.003
+21149,McLean_Kentucky,0.005
+21151,Madison_Kentucky,0.022
+21153,Magoffin_Kentucky,0.003
+21155,Marion_Kentucky,0.01
+21157,Marshall_Kentucky,0.041
+21159,Martin_Kentucky,0.019
+21161,Mason_Kentucky,0.037
+21163,Meade_Kentucky,0.025
+21165,Menifee_Kentucky,0.005
+21167,Mercer_Kentucky,0.023
+21169,Metcalfe_Kentucky,0.002
+21171,Monroe_Kentucky,0.005
+21173,Montgomery_Kentucky,0.014
+21175,Morgan_Kentucky,0.003
+21177,Muhlenberg_Kentucky,0.638
+21179,Nelson_Kentucky,0.014
+21181,Nicholas_Kentucky,0.008
+21183,Ohio_Kentucky,0.012
+21185,Oldham_Kentucky,0.034
+21187,Owen_Kentucky,0.001
+21189,Owsley_Kentucky,0.002
+21191,Pendleton_Kentucky,0.007
+21193,Perry_Kentucky,0.016
+21195,Pike_Kentucky,0.01
+21197,Powell_Kentucky,0.007
+21199,Pulaski_Kentucky,0.103
+21201,Robertson_Kentucky,0.001
+21203,Rockcastle_Kentucky,0.005
+21205,Rowan_Kentucky,0.018
+21207,Russell_Kentucky,0.05
+21209,Scott_Kentucky,0.011
+21211,Shelby_Kentucky,0.008
+21213,Simpson_Kentucky,0.006
+21215,Spencer_Kentucky,0.002
+21217,Taylor_Kentucky,0.014
+21219,Todd_Kentucky,0.003
+21221,Trigg_Kentucky,0.004
+21223,Trimble_Kentucky,0.063
+21225,Union_Kentucky,0.016
+21227,Warren_Kentucky,0.027
+21229,Washington_Kentucky,0.005
+21231,Wayne_Kentucky,0.005
+21233,Webster_Kentucky,0.018
+21235,Whitley_Kentucky,0.01
+21237,Wolfe_Kentucky,0.003
+21239,Woodford_Kentucky,0.013
+22001,Acadia_Louisiana,0.322
+22003,Allen_Louisiana,0.041
+22005,Ascension_Louisiana,0.426
+22007,Assumption_Louisiana,0.04
+22009,Avoyelles_Louisiana,0.053
+22011,Beauregard_Louisiana,0.024
+22013,Bienville_Louisiana,0.007
+22015,Bossier_Louisiana,0.01
+22017,Caddo_Louisiana,0.054
+22019,Calcasieu_Louisiana,0.142
+22021,Caldwell_Louisiana,0.005
+22023,Cameron_Louisiana,0.013
+22025,Catahoula_Louisiana,0.018
+22027,Claiborne_Louisiana,0.003
+22029,Concordia_Louisiana,0.032
+22031,De Soto_Louisiana,0.019
+22033,East Baton Rouge_Louisiana,0.287
+22035,East Carroll_Louisiana,0.036
+22037,East Feliciana_Louisiana,0.005
+22039,Evangeline_Louisiana,0.33
+22041,Franklin_Louisiana,0.033
+22043,Grant_Louisiana,0.007
+22045,Iberia_Louisiana,0.037
+22047,Iberville_Louisiana,0.587
+22049,Jackson_Louisiana,0.004
+22051,Jefferson_Louisiana,0.935
+22053,Jefferson Davis_Louisiana,0.311
+22055,Lafayette_Louisiana,0.11
+22057,Lafourche_Louisiana,0.025
+22059,La Salle_Louisiana,0.002
+22061,Lincoln_Louisiana,0.012
+22063,Livingston_Louisiana,0.014
+22065,Madison_Louisiana,0.036
+22067,Morehouse_Louisiana,0.069
+22069,Natchitoches_Louisiana,0.02
+22071,Orleans_Louisiana,0.276
+22073,Ouachita_Louisiana,0.072
+22075,Plaquemines_Louisiana,0.038
+22077,Pointe Coupee_Louisiana,0.41
+22079,Rapides_Louisiana,0.382
+22081,Red River_Louisiana,0.008
+22083,Richland_Louisiana,0.034
+22085,Sabine_Louisiana,0.002
+22087,St. Bernard_Louisiana,0.213
+22089,St. Charles_Louisiana,3.278
+22091,St. Helena_Louisiana,0.003
+22093,St. James_Louisiana,0.464
+22095,St. John the Baptist_Louisiana,0.141
+22097,St. Landry_Louisiana,0.08
+22099,St. Martin_Louisiana,0.041
+22101,St. Mary_Louisiana,0.045
+22103,St. Tammany_Louisiana,0.023
+22105,Tangipahoa_Louisiana,0.018
+22107,Tensas_Louisiana,0.031
+22109,Terrebonne_Louisiana,0.002
+22111,Union_Louisiana,0.004
+22113,Vermilion_Louisiana,0.081
+22115,Vernon_Louisiana,0.003
+22117,Washington_Louisiana,0.035
+22119,Webster_Louisiana,0.006
+22121,West Baton Rouge_Louisiana,0.047
+22123,West Carroll_Louisiana,0.024
+22125,West Feliciana_Louisiana,0.113
+22127,Winn_Louisiana,0.002
+23001,Androscoggin_Maine,0.033
+23003,Aroostook_Maine,0.003
+23005,Cumberland_Maine,0.057
+23007,Franklin_Maine,0.021
+23009,Hancock_Maine,0.011
+23011,Kennebec_Maine,0.013
+23013,Knox_Maine,0.01
+23015,Lincoln_Maine,0.004
+23017,Oxford_Maine,0.018
+23019,Penobscot_Maine,0.007
+23021,Piscataquis_Maine,0
+23023,Sagadahoc_Maine,0.01
+23025,Somerset_Maine,0.012
+23027,Waldo_Maine,0.006
+23029,Washington_Maine,0.013
+23031,York_Maine,0.025
+24001,Allegany_Maryland,0.084
+24003,Anne Arundel_Maryland,0.135
+24005,Baltimore County_Maryland,0.447
+24009,Calvert_Maryland,0.036
+24011,Caroline_Maryland,0.048
+24013,Carroll_Maryland,0.046
+24015,Cecil_Maryland,0.03
+24017,Charles_Maryland,0.034
+24019,Dorchester_Maryland,0.027
+24021,Frederick_Maryland,0.068
+24023,Garrett_Maryland,0.008
+24025,Harford_Maryland,0.039
+24027,Howard_Maryland,0.031
+24029,Kent_Maryland,0.02
+24031,Montgomery_Maryland,1.365
+24033,Prince George's_Maryland,0.196
+24035,Queen Anne's_Maryland,0.031
+24037,St. Mary's_Maryland,0.023
+24039,Somerset_Maryland,0.01
+24041,Talbot_Maryland,0.019
+24043,Washington_Maryland,0.074
+24045,Wicomico_Maryland,0.04
+24047,Worcester_Maryland,0.031
+24510,Baltimore City_Maryland,0.552
+25001,Barnstable_Massachusetts,0.092
+25003,Berkshire_Massachusetts,0.029
+25005,Bristol_Massachusetts,0.076
+25007,Dukes_Massachusetts,0.04
+25009,Essex_Massachusetts,0.281
+25011,Franklin_Massachusetts,0.015
+25013,Hampden_Massachusetts,0.076
+25015,Hampshire_Massachusetts,0.043
+25017,Middlesex_Massachusetts,0.129
+25021,Norfolk_Massachusetts,0.111
+25023,Plymouth_Massachusetts,0.237
+25025,Suffolk_Massachusetts,0.014
+25027,Worcester_Massachusetts,0.194
+26001,Alcona_Michigan,0.013
+26003,Alger_Michigan,0.005
+26005,Allegan_Michigan,0.042
+26007,Alpena_Michigan,0.243
+26009,Antrim_Michigan,0.067
+26011,Arenac_Michigan,0.194
+26013,Baraga_Michigan,0.021
+26015,Barry_Michigan,0.023
+26017,Bay_Michigan,2.075
+26019,Benzie_Michigan,0.006
+26021,Berrien_Michigan,3.954
+26023,Branch_Michigan,0.056
+26025,Calhoun_Michigan,0.049
+26027,Cass_Michigan,0.078
+26029,Charlevoix_Michigan,0.033
+26031,Cheboygan_Michigan,0.005
+26033,Chippewa_Michigan,0.01
+26035,Clare_Michigan,0.011
+26037,Clinton_Michigan,0.035
+26039,Crawford_Michigan,0.005
+26041,Delta_Michigan,0.047
+26043,Dickinson_Michigan,0.048
+26045,Eaton_Michigan,0.023
+26047,Emmet_Michigan,0.01
+26049,Genesee_Michigan,0.043
+26051,Gladwin_Michigan,0.007
+26053,Gogebic_Michigan,0.008
+26055,Grand Traverse_Michigan,0.033
+26057,Gratiot_Michigan,0.039
+26059,Hillsdale_Michigan,0.022
+26061,Houghton_Michigan,0.005
+26063,Huron_Michigan,0.012
+26065,Ingham_Michigan,0.312
+26067,Ionia_Michigan,0.033
+26069,Iosco_Michigan,0.007
+26071,Iron_Michigan,0.002
+26073,Isabella_Michigan,0.044
+26075,Jackson_Michigan,0.047
+26077,Kalamazoo_Michigan,0.134
+26079,Kalkaska_Michigan,0.013
+26081,Kent_Michigan,0.045
+26083,Keweenaw_Michigan,0
+26085,Lake_Michigan,0.003
+26087,Lapeer_Michigan,0.02
+26089,Leelanau_Michigan,No Data
+26091,Lenawee_Michigan,0.023
+26093,Livingston_Michigan,0.065
+26095,Luce_Michigan,0.003
+26097,Mackinac_Michigan,0.014
+26099,Macomb_Michigan,0.031
+26101,Manistee_Michigan,0.061
+26103,Marquette_Michigan,0.178
+26105,Mason_Michigan,0.076
+26107,Mecosta_Michigan,0.039
+26109,Menominee_Michigan,0.005
+26111,Midland_Michigan,0.025
+26113,Missaukee_Michigan,0.016
+26115,Monroe_Michigan,4.755
+26117,Montcalm_Michigan,0.125
+26119,Montmorency_Michigan,0.003
+26121,Muskegon_Michigan,0.599
+26123,Newaygo_Michigan,0.016
+26125,Oakland_Michigan,0.092
+26127,Oceana_Michigan,0.019
+26129,Ogemaw_Michigan,0.006
+26131,Ontonagon_Michigan,0
+26133,Osceola_Michigan,0.009
+26135,Oscoda_Michigan,0.002
+26137,Otsego_Michigan,0.01
+26139,Ottawa_Michigan,1.624
+26141,Presque Isle_Michigan,0.045
+26143,Roscommon_Michigan,0.007
+26145,Saginaw_Michigan,0.009
+26147,St. Clair_Michigan,2.987
+26149,St. Joseph_Michigan,0.116
+26151,Sanilac_Michigan,0.01
+26153,Schoolcraft_Michigan,0.004
+26155,Shiawassee_Michigan,0.024
+26157,Tuscola_Michigan,0.018
+26159,Van Buren_Michigan,0.265
+26161,Washtenaw_Michigan,0.065
+26163,Wayne_Michigan,3.492
+26165,Wexford_Michigan,0.045
+27001,Aitkin_Minnesota,0.004
+27003,Anoka_Minnesota,0.462
+27005,Becker_Minnesota,0.017
+27007,Beltrami_Minnesota,0.004
+27009,Benton_Minnesota,0.056
+27011,Big Stone_Minnesota,0.01
+27013,Blue Earth_Minnesota,0.072
+27015,Brown_Minnesota,0.013
+27017,Carlton_Minnesota,0.018
+27019,Carver_Minnesota,0.046
+27021,Cass_Minnesota,0.005
+27023,Chippewa_Minnesota,0.011
+27025,Chisago_Minnesota,0.018
+27027,Clay_Minnesota,0.021
+27029,Clearwater_Minnesota,0.017
+27031,Cook_Minnesota,0.127
+27033,Cottonwood_Minnesota,0.012
+27035,Crow Wing_Minnesota,0.013
+27037,Dakota_Minnesota,0.497
+27039,Dodge_Minnesota,0.007
+27041,Douglas_Minnesota,0.021
+27043,Faribault_Minnesota,0.005
+27045,Fillmore_Minnesota,0.019
+27047,Freeborn_Minnesota,0.01
+27049,Goodhue_Minnesota,0.841
+27051,Grant_Minnesota,0.009
+27053,Hennepin_Minnesota,0.506
+27055,Houston_Minnesota,0.005
+27057,Hubbard_Minnesota,0.031
+27059,Isanti_Minnesota,0.015
+27061,Itasca_Minnesota,0.073
+27063,Jackson_Minnesota,0.005
+27065,Kanabec_Minnesota,0.004
+27067,Kandiyohi_Minnesota,0.033
+27069,Kittson_Minnesota,0.004
+27071,Koochiching_Minnesota,0.02
+27073,Lac qui Parle_Minnesota,0.012
+27075,Lake_Minnesota,0.078
+27077,Lake of the Woods_Minnesota,0.001
+27079,Le Sueur_Minnesota,0.016
+27081,Lincoln_Minnesota,0.006
+27083,Lyon_Minnesota,0.018
+27085,McLeod_Minnesota,0.02
+27087,Mahnomen_Minnesota,0.003
+27089,Marshall_Minnesota,0.001
+27091,Martin_Minnesota,0.018
+27093,Meeker_Minnesota,0.017
+27095,Mille Lacs_Minnesota,0.005
+27097,Morrison_Minnesota,0.029
+27099,Mower_Minnesota,0.015
+27101,Murray_Minnesota,0.005
+27103,Nicollet_Minnesota,0.022
+27105,Nobles_Minnesota,0.011
+27107,Norman_Minnesota,0.003
+27109,Olmsted_Minnesota,0.032
+27111,Otter Tail_Minnesota,0.079
+27113,Pennington_Minnesota,0.008
+27115,Pine_Minnesota,0.003
+27117,Pipestone_Minnesota,0.015
+27119,Polk_Minnesota,0.02
+27121,Pope_Minnesota,0.069
+27123,Ramsey_Minnesota,1.863
+27125,Red Lake_Minnesota,0.012
+27127,Redwood_Minnesota,0.005
+27129,Renville_Minnesota,0.006
+27131,Rice_Minnesota,0.022
+27133,Rock_Minnesota,0.013
+27135,Roseau_Minnesota,0.002
+27137,St. Louis_Minnesota,0.02
+27139,Scott_Minnesota,0.052
+27141,Sherburne_Minnesota,0.36
+27143,Sibley_Minnesota,0.009
+27145,Stearns_Minnesota,0.061
+27147,Steele_Minnesota,0.016
+27149,Stevens_Minnesota,0.035
+27151,Swift_Minnesota,0.053
+27153,Todd_Minnesota,0.024
+27155,Traverse_Minnesota,0.002
+27157,Wabasha_Minnesota,0.01
+27159,Wadena_Minnesota,0.064
+27161,Waseca_Minnesota,0.012
+27163,Washington_Minnesota,1.267
+27165,Watonwan_Minnesota,0.016
+27167,Wilkin_Minnesota,0.003
+27169,Winona_Minnesota,0.02
+27171,Wright_Minnesota,0.887
+27173,Yellow Medicine_Minnesota,0.009
+28001,Adams_Mississippi,0.012
+28003,Alcorn_Mississippi,0.01
+28005,Amite_Mississippi,0.003
+28007,Attala_Mississippi,0.006
+28009,Benton_Mississippi,0.009
+28011,Bolivar_Mississippi,0.267
+28013,Calhoun_Mississippi,0.005
+28015,Carroll_Mississippi,0.015
+28017,Chickasaw_Mississippi,0.009
+28019,Choctaw_Mississippi,0.015
+28021,Claiborne_Mississippi,0.044
+28023,Clarke_Mississippi,0.004
+28025,Clay_Mississippi,0.009
+28027,Coahoma_Mississippi,0.16
+28029,Copiah_Mississippi,0.008
+28031,Covington_Mississippi,0.012
+28033,DeSoto_Mississippi,0.054
+28035,Forrest_Mississippi,0.033
+28037,Franklin_Mississippi,0.002
+28039,George_Mississippi,0.006
+28041,Greene_Mississippi,0.004
+28043,Grenada_Mississippi,0.016
+28045,Hancock_Mississippi,0.016
+28047,Harrison_Mississippi,0.049
+28049,Hinds_Mississippi,0.055
+28051,Holmes_Mississippi,0.044
+28053,Humphreys_Mississippi,0.18
+28055,Issaquena_Mississippi,0.057
+28057,Itawamba_Mississippi,0.014
+28059,Jackson_Mississippi,0.053
+28061,Jasper_Mississippi,0.011
+28063,Jefferson_Mississippi,0.002
+28065,Jefferson Davis_Mississippi,0.005
+28067,Jones_Mississippi,0.026
+28069,Kemper_Mississippi,0.014
+28071,Lafayette_Mississippi,0.007
+28073,Lamar_Mississippi,0.016
+28075,Lauderdale_Mississippi,0.018
+28077,Lawrence_Mississippi,0.078
+28079,Leake_Mississippi,0.009
+28081,Lee_Mississippi,0.009
+28083,Leflore_Mississippi,0.237
+28085,Lincoln_Mississippi,0.01
+28087,Lowndes_Mississippi,0.063
+28089,Madison_Mississippi,0.019
+28091,Marion_Mississippi,0.008
+28093,Marshall_Mississippi,0.009
+28095,Monroe_Mississippi,0.018
+28097,Montgomery_Mississippi,0.004
+28099,Neshoba_Mississippi,0.01
+28101,Newton_Mississippi,0.007
+28103,Noxubee_Mississippi,0.045
+28105,Oktibbeha_Mississippi,0.016
+28107,Panola_Mississippi,0.022
+28109,Pearl River_Mississippi,0.01
+28111,Perry_Mississippi,0.04
+28113,Pike_Mississippi,0.017
+28115,Pontotoc_Mississippi,0.008
+28117,Prentiss_Mississippi,0.005
+28119,Quitman_Mississippi,0.135
+28121,Rankin_Mississippi,0.024
+28123,Scott_Mississippi,0.016
+28125,Sharkey_Mississippi,0.123
+28127,Simpson_Mississippi,0.009
+28129,Smith_Mississippi,0.004
+28131,Stone_Mississippi,0.008
+28133,Sunflower_Mississippi,0.279
+28135,Tallahatchie_Mississippi,0.101
+28137,Tate_Mississippi,0.016
+28139,Tippah_Mississippi,0.006
+28141,Tishomingo_Mississippi,0.005
+28143,Tunica_Mississippi,0.168
+28145,Union_Mississippi,0.006
+28147,Walthall_Mississippi,0.006
+28149,Warren_Mississippi,0.049
+28151,Washington_Mississippi,0.287
+28153,Wayne_Mississippi,0.005
+28155,Webster_Mississippi,0.004
+28157,Wilkinson_Mississippi,0.002
+28159,Winston_Mississippi,0.004
+28161,Yalobusha_Mississippi,0.009
+28163,Yazoo_Mississippi,0.046
+29001,Adair_Missouri,0.005
+29003,Andrew_Missouri,0.05
+29005,Atchison_Missouri,0.034
+29007,Audrain_Missouri,0.022
+29009,Barry_Missouri,0.015
+29011,Barton_Missouri,0.024
+29013,Bates_Missouri,0.006
+29015,Benton_Missouri,0.003
+29017,Bollinger_Missouri,0.01
+29019,Boone_Missouri,0.025
+29021,Buchanan_Missouri,0.102
+29023,Butler_Missouri,0.146
+29025,Caldwell_Missouri,0.002
+29027,Callaway_Missouri,0.031
+29029,Camden_Missouri,0.013
+29031,Cape Girardeau_Missouri,0.048
+29033,Carroll_Missouri,0.008
+29035,Carter_Missouri,0.001
+29037,Cass_Missouri,0.01
+29039,Cedar_Missouri,0.004
+29041,Chariton_Missouri,0.006
+29043,Christian_Missouri,0.012
+29045,Clark_Missouri,0.008
+29047,Clay_Missouri,0.318
+29049,Clinton_Missouri,0.002
+29051,Cole_Missouri,0.018
+29053,Cooper_Missouri,0.004
+29055,Crawford_Missouri,0.003
+29057,Dade_Missouri,0.014
+29059,Dallas_Missouri,0.003
+29061,Daviess_Missouri,0.003
+29063,DeKalb_Missouri,0.001
+29065,Dent_Missouri,0.028
+29067,Douglas_Missouri,0.041
+29069,Dunklin_Missouri,0.248
+29071,Franklin_Missouri,0.915
+29073,Gasconade_Missouri,0.003
+29075,Gentry_Missouri,0.004
+29077,Greene_Missouri,0.103
+29079,Grundy_Missouri,0.005
+29081,Harrison_Missouri,0.002
+29083,Henry_Missouri,0.445
+29085,Hickory_Missouri,0.003
+29087,Holt_Missouri,0.059
+29089,Howard_Missouri,0.008
+29091,Howell_Missouri,0.004
+29093,Iron_Missouri,0.003
+29095,Jackson_Missouri,0.987
+29097,Jasper_Missouri,0.033
+29099,Jefferson_Missouri,1.017
+29101,Johnson_Missouri,0.013
+29103,Knox_Missouri,0.003
+29105,Laclede_Missouri,0.015
+29107,Lafayette_Missouri,0.011
+29109,Lawrence_Missouri,0.012
+29111,Lewis_Missouri,0.006
+29113,Lincoln_Missouri,0.007
+29115,Linn_Missouri,0.007
+29117,Livingston_Missouri,0.005
+29119,McDonald_Missouri,0.009
+29121,Macon_Missouri,0.004
+29123,Madison_Missouri,0.002
+29125,Maries_Missouri,0.002
+29127,Marion_Missouri,0.018
+29129,Mercer_Missouri,0.004
+29131,Miller_Missouri,0.005
+29133,Mississippi_Missouri,0.153
+29135,Moniteau_Missouri,0.006
+29137,Monroe_Missouri,0.008
+29139,Montgomery_Missouri,0.007
+29141,Morgan_Missouri,0.013
+29143,New Madrid_Missouri,0.941
+29145,Newton_Missouri,0.011
+29147,Nodaway_Missouri,0.004
+29149,Oregon_Missouri,0.002
+29151,Osage_Missouri,0.005
+29153,Ozark_Missouri,0.012
+29155,Pemiscot_Missouri,0.212
+29157,Perry_Missouri,0.005
+29159,Pettis_Missouri,0.01
+29161,Phelps_Missouri,0.009
+29163,Pike_Missouri,0.008
+29165,Platte_Missouri,0.681
+29167,Polk_Missouri,0.006
+29169,Pulaski_Missouri,0.008
+29171,Putnam_Missouri,0.003
+29173,Ralls_Missouri,0.004
+29175,Randolph_Missouri,1.182
+29177,Ray_Missouri,0.02
+29179,Reynolds_Missouri,0.004
+29181,Ripley_Missouri,0.017
+29183,St. Charles_Missouri,0.786
+29185,St. Clair_Missouri,0.003
+29186,Ste. Genevieve_Missouri,0.012
+29187,St. Francois_Missouri,0.011
+29189,St. Louis County_Missouri,0.743
+29195,Saline_Missouri,0.009
+29197,Schuyler_Missouri,0.001
+29199,Scotland_Missouri,0.002
+29201,Scott_Missouri,0.145
+29203,Shannon_Missouri,0.001
+29205,Shelby_Missouri,0.004
+29207,Stoddard_Missouri,0.216
+29209,Stone_Missouri,0.007
+29211,Sullivan_Missouri,0.005
+29213,Taney_Missouri,0.026
+29215,Texas_Missouri,0.002
+29217,Vernon_Missouri,0.012
+29219,Warren_Missouri,0.007
+29221,Washington_Missouri,0.004
+29223,Wayne_Missouri,0.002
+29225,Webster_Missouri,0.005
+29227,Worth_Missouri,0.001
+29229,Wright_Missouri,0.003
+29510,St. Louis City_Missouri,0.988
+30001,Beaverhead_Montana,0.351
+30003,Big Horn_Montana,0.363
+30005,Blaine_Montana,0.491
+30007,Broadwater_Montana,0.58
+30009,Carbon_Montana,0.561
+30011,Carter_Montana,0.077
+30013,Cascade_Montana,0.304
+30015,Chouteau_Montana,0.145
+30017,Custer_Montana,0.509
+30019,Daniels_Montana,0.027
+30021,Dawson_Montana,0.366
+30023,Deer Lodge_Montana,0.179
+30025,Fallon_Montana,0.012
+30027,Fergus_Montana,0.124
+30029,Flathead_Montana,0.021
+30031,Gallatin_Montana,0.448
+30033,Garfield_Montana,0.018
+30035,Glacier_Montana,0.058
+30037,Golden Valley_Montana,0.103
+30039,Granite_Montana,0.148
+30041,Hill_Montana,0.138
+30043,Jefferson_Montana,0.146
+30045,Judith Basin_Montana,0.183
+30047,Lake_Montana,0.223
+30049,Lewis and Clark_Montana,0.124
+30051,Liberty_Montana,0.181
+30053,Lincoln_Montana,0.005
+30055,McCone_Montana,0.107
+30057,Madison_Montana,0.539
+30059,Meagher_Montana,0.228
+30061,Mineral_Montana,0.002
+30063,Missoula_Montana,0.104
+30065,Musselshell_Montana,0.231
+30067,Park_Montana,0.178
+30069,Petroleum_Montana,0.199
+30071,Phillips_Montana,0.423
+30073,Pondera_Montana,0.327
+30075,Powder River_Montana,0.203
+30077,Powell_Montana,0.148
+30079,Prairie_Montana,0.488
+30081,Ravalli_Montana,0.228
+30083,Richland_Montana,1.598
+30085,Roosevelt_Montana,0.357
+30087,Rosebud_Montana,0.386
+30089,Sanders_Montana,0.027
+30091,Sheridan_Montana,0.057
+30093,Silver Bow_Montana,0.088
+30095,Stillwater_Montana,0.202
+30097,Sweet Grass_Montana,0.297
+30099,Teton_Montana,0.583
+30101,Toole_Montana,0.075
+30103,Treasure_Montana,1.091
+30105,Valley_Montana,0.353
+30107,Wheatland_Montana,0.378
+30109,Wibaux_Montana,0.022
+30111,Yellowstone_Montana,1.239
+31001,Adams_Nebraska,0.616
+31003,Antelope_Nebraska,0.299
+31005,Arthur_Nebraska,0.049
+31007,Banner_Nebraska,0.083
+31009,Blaine_Nebraska,0.061
+31011,Boone_Nebraska,0.198
+31013,Box Butte_Nebraska,0.198
+31015,Boyd_Nebraska,0.08
+31017,Brown_Nebraska,0.193
+31019,Buffalo_Nebraska,0.45
+31021,Burt_Nebraska,0.059
+31023,Butler_Nebraska,0.067
+31025,Cass_Nebraska,0.032
+31027,Cedar_Nebraska,0.158
+31029,Chase_Nebraska,0.648
+31031,Cherry_Nebraska,0.044
+31033,Cheyenne_Nebraska,0.074
+31035,Clay_Nebraska,0.376
+31037,Colfax_Nebraska,0.08
+31039,Cuming_Nebraska,0.07
+31041,Custer_Nebraska,0.143
+31043,Dakota_Nebraska,0.098
+31045,Dawes_Nebraska,0.03
+31047,Dawson_Nebraska,0.386
+31049,Deuel_Nebraska,0.145
+31051,Dixon_Nebraska,0.06
+31053,Dodge_Nebraska,0.106
+31055,Douglas_Nebraska,1.86
+31057,Dundy_Nebraska,0.399
+31059,Fillmore_Nebraska,0.217
+31061,Franklin_Nebraska,0.278
+31063,Frontier_Nebraska,0.118
+31065,Furnas_Nebraska,0.139
+31067,Gage_Nebraska,0.09
+31069,Garden_Nebraska,0.064
+31071,Garfield_Nebraska,0.079
+31073,Gosper_Nebraska,0.36
+31075,Grant_Nebraska,0.007
+31077,Greeley_Nebraska,0.211
+31079,Hall_Nebraska,0.833
+31081,Hamilton_Nebraska,0.544
+31083,Harlan_Nebraska,0.261
+31085,Hayes_Nebraska,0.222
+31087,Hitchcock_Nebraska,0.125
+31089,Holt_Nebraska,0.307
+31091,Hooker_Nebraska,0.02
+31093,Howard_Nebraska,0.354
+31095,Jefferson_Nebraska,0.22
+31097,Johnson_Nebraska,0.053
+31099,Kearney_Nebraska,0.805
+31101,Keith_Nebraska,0.302
+31103,Keya Paha_Nebraska,0.149
+31105,Kimball_Nebraska,0.059
+31107,Knox_Nebraska,0.104
+31109,Lancaster_Nebraska,0.015
+31111,Lincoln_Nebraska,0.715
+31113,Logan_Nebraska,0.111
+31115,Loup_Nebraska,0.051
+31117,McPherson_Nebraska,0.034
+31119,Madison_Nebraska,0.046
+31121,Merrick_Nebraska,0.516
+31123,Morrill_Nebraska,0.234
+31125,Nance_Nebraska,0.144
+31127,Nemaha_Nebraska,2.552
+31129,Nuckolls_Nebraska,0.176
+31131,Otoe_Nebraska,0.959
+31133,Pawnee_Nebraska,0.011
+31135,Perkins_Nebraska,0.394
+31137,Phelps_Nebraska,0.836
+31139,Pierce_Nebraska,0.227
+31141,Platte_Nebraska,0.266
+31143,Polk_Nebraska,0.172
+31145,Red Willow_Nebraska,0.181
+31147,Richardson_Nebraska,0.016
+31149,Rock_Nebraska,0.168
+31151,Saline_Nebraska,0.178
+31153,Sarpy_Nebraska,0.143
+31155,Saunders_Nebraska,0.097
+31157,Scotts Bluff_Nebraska,0.659
+31159,Seward_Nebraska,0.137
+31161,Sheridan_Nebraska,0.054
+31163,Sherman_Nebraska,0.223
+31165,Sioux_Nebraska,0.032
+31167,Stanton_Nebraska,0.061
+31169,Thayer_Nebraska,0.288
+31171,Thomas_Nebraska,0.011
+31173,Thurston_Nebraska,0.031
+31175,Valley_Nebraska,0.256
+31177,Washington_Nebraska,1.26
+31179,Wayne_Nebraska,0.115
+31181,Webster_Nebraska,0.138
+31183,Wheeler_Nebraska,0.191
+31185,York_Nebraska,0.356
+32001,Churchill_Nevada,0.425
+32003,Clark_Nevada,2.899
+32005,Douglas_Nevada,0.31
+32007,Elko_Nevada,0.085
+32009,Esmeralda_Nevada,0.215
+32011,Eureka_Nevada,0.247
+32013,Humboldt_Nevada,0.282
+32015,Lander_Nevada,0.151
+32017,Lincoln_Nevada,0.187
+32019,Lyon_Nevada,0.97
+32021,Mineral_Nevada,0.032
+32023,Nye_Nevada,0.063
+32027,Pershing_Nevada,0.22
+32029,Storey_Nevada,0.04
+32031,Washoe_Nevada,0.078
+32033,White Pine_Nevada,0.085
+32510,Carson City_Nevada,0.239
+33001,Belknap_New Hampshire,0.019
+33003,Carroll_New Hampshire,0.006
+33005,Cheshire_New Hampshire,0.011
+33007,Coos_New Hampshire,0.005
+33009,Grafton_New Hampshire,0.007
+33011,Hillsborough_New Hampshire,0.074
+33013,Merrimack_New Hampshire,0.108
+33015,Rockingham_New Hampshire,0.049
+33017,Strafford_New Hampshire,0.052
+33019,Sullivan_New Hampshire,0.011
+34001,Atlantic_New Jersey,0.086
+34003,Bergen_New Jersey,0.558
+34005,Burlington_New Jersey,0.108
+34007,Camden_New Jersey,0.221
+34009,Cape May_New Jersey,0.079
+34011,Cumberland_New Jersey,0.152
+34013,Essex_New Jersey,0.257
+34015,Gloucester_New Jersey,0.173
+34017,Hudson_New Jersey,4.877
+34019,Hunterdon_New Jersey,0.325
+34021,Mercer_New Jersey,0.64
+34023,Middlesex_New Jersey,0.177
+34025,Monmouth_New Jersey,0.166
+34027,Morris_New Jersey,0.23
+34029,Ocean_New Jersey,0.135
+34031,Passaic_New Jersey,1.505
+34033,Salem_New Jersey,0.082
+34035,Somerset_New Jersey,0.034
+34037,Sussex_New Jersey,0.055
+34039,Union_New Jersey,1.298
+34041,Warren_New Jersey,0.084
+35001,Bernalillo_New Mexico,1.167
+35003,Catron_New Mexico,0.018
+35005,Chaves_New Mexico,0.135
+35006,Cibola_New Mexico,0.015
+35007,Colfax_New Mexico,0.038
+35009,Curry_New Mexico,0.309
+35011,De Baca_New Mexico,0.092
+35013,Dona Ana_New Mexico,1.342
+35015,Eddy_New Mexico,0.406
+35017,Grant_New Mexico,0.131
+35019,Guadalupe_New Mexico,0.045
+35021,Harding_New Mexico,0.006
+35023,Hidalgo_New Mexico,0.377
+35025,Lea_New Mexico,0.282
+35027,Lincoln_New Mexico,0.038
+35028,Los Alamos_New Mexico,0.053
+35029,Luna_New Mexico,0.749
+35031,McKinley_New Mexico,0.018
+35033,Mora_New Mexico,0.015
+35035,Otero_New Mexico,0.031
+35037,Quay_New Mexico,0.053
+35039,Rio Arriba_New Mexico,0.046
+35041,Roosevelt_New Mexico,0.291
+35043,Sandoval_New Mexico,0.085
+35045,San Juan_New Mexico,0.274
+35047,San Miguel_New Mexico,0.027
+35049,Santa Fe_New Mexico,0.103
+35051,Sierra_New Mexico,0.059
+35053,Socorro_New Mexico,0.17
+35055,Taos_New Mexico,0.176
+35057,Torrance_New Mexico,0.1
+35059,Union_New Mexico,0.039
+35061,Valencia_New Mexico,1.786
+36001,Albany_New York,0.117
+36003,Allegany_New York,0.006
+36005,Bronx_New York,0
+36007,Broome_New York,0.041
+36009,Cattaraugus_New York,0.011
+36011,Cayuga_New York,0.012
+36013,Chautauqua_New York,0.083
+36015,Chemung_New York,0.044
+36017,Chenango_New York,0.009
+36019,Clinton_New York,0.007
+36021,Columbia_New York,0.013
+36023,Cortland_New York,0.01
+36025,Delaware_New York,0.312
+36027,Dutchess_New York,0.077
+36029,Erie_New York,0.343
+36031,Essex_New York,0.011
+36033,Franklin_New York,0.006
+36035,Fulton_New York,0.011
+36037,Genesee_New York,0.038
+36039,Greene_New York,0.01
+36041,Hamilton_New York,0
+36043,Herkimer_New York,0.017
+36045,Jefferson_New York,0.016
+36047,Kings_New York,0.001
+36049,Lewis_New York,0.004
+36051,Livingston_New York,0.029
+36053,Madison_New York,0.005
+36055,Monroe_New York,0.12
+36057,Montgomery_New York,0.01
+36059,Nassau_New York,0.647
+36061,New York_New York,0
+36063,Niagara_New York,0.53
+36065,Oneida_New York,0.029
+36067,Onondaga_New York,0.087
+36069,Ontario_New York,0.088
+36071,Orange_New York,0.281
+36073,Orleans_New York,0.013
+36075,Oswego_New York,0.774
+36077,Otsego_New York,0.005
+36079,Putnam_New York,0.039
+36081,Queens_New York,0.002
+36083,Rensselaer_New York,0.052
+36085,Richmond_New York,0.003
+36087,Rockland_New York,0.211
+36089,St. Lawrence_New York,0.011
+36091,Saratoga_New York,0.059
+36093,Schenectady_New York,0.159
+36095,Schoharie_New York,0.305
+36097,Schuyler_New York,0.044
+36099,Seneca_New York,0.047
+36101,Steuben_New York,0.017
+36103,Suffolk_New York,0.228
+36105,Sullivan_New York,0.1
+36107,Tioga_New York,0.015
+36109,Tompkins_New York,0.356
+36111,Ulster_New York,0.336
+36113,Warren_New York,0.042
+36115,Washington_New York,0.041
+36117,Wayne_New York,0.607
+36119,Westchester_New York,0.165
+36121,Wyoming_New York,0.014
+36123,Yates_New York,0.009
+37001,Alamance_North Carolina,0.05
+37003,Alexander_North Carolina,0.011
+37005,Alleghany_North Carolina,0.011
+37007,Anson_North Carolina,0.027
+37009,Ashe_North Carolina,0.011
+37011,Avery_North Carolina,0.081
+37013,Beaufort_North Carolina,0.024
+37015,Bertie_North Carolina,0.009
+37017,Bladen_North Carolina,0.049
+37019,Brunswick_North Carolina,0.008
+37021,Buncombe_North Carolina,0.34
+37023,Burke_North Carolina,0.041
+37025,Cabarrus_North Carolina,0.06
+37027,Caldwell_North Carolina,0.022
+37029,Camden_North Carolina,0.003
+37031,Carteret_North Carolina,0.009
+37033,Caswell_North Carolina,0.008
+37035,Catawba_North Carolina,1.636
+37037,Chatham_North Carolina,0.042
+37039,Cherokee_North Carolina,0.017
+37041,Chowan_North Carolina,0.02
+37043,Clay_North Carolina,0.002
+37045,Cleveland_North Carolina,0.035
+37047,Columbus_North Carolina,0.031
+37049,Craven_North Carolina,0.025
+37051,Cumberland_North Carolina,0.057
+37053,Currituck_North Carolina,0.018
+37055,Dare_North Carolina,0.011
+37057,Davidson_North Carolina,0.034
+37059,Davie_North Carolina,0.021
+37061,Duplin_North Carolina,0.022
+37063,Durham_North Carolina,0.096
+37065,Edgecombe_North Carolina,0.016
+37067,Forsyth_North Carolina,0.155
+37069,Franklin_North Carolina,0.012
+37071,Gaston_North Carolina,0.866
+37073,Gates_North Carolina,0.011
+37075,Graham_North Carolina,0.137
+37077,Granville_North Carolina,0.011
+37079,Greene_North Carolina,0.024
+37081,Guilford_North Carolina,0.094
+37083,Halifax_North Carolina,0.04
+37085,Harnett_North Carolina,0.05
+37087,Haywood_North Carolina,0.067
+37089,Henderson_North Carolina,0.037
+37091,Hertford_North Carolina,0.022
+37093,Hoke_North Carolina,0.016
+37095,Hyde_North Carolina,0.001
+37097,Iredell_North Carolina,0.033
+37099,Jackson_North Carolina,0.006
+37101,Johnston_North Carolina,0.024
+37103,Jones_North Carolina,0.007
+37105,Lee_North Carolina,0.041
+37107,Lenoir_North Carolina,0.026
+37109,Lincoln_North Carolina,0.03
+37111,McDowell_North Carolina,0.024
+37113,Macon_North Carolina,0.527
+37115,Madison_North Carolina,0.005
+37117,Martin_North Carolina,0.086
+37119,Mecklenburg_North Carolina,4.693
+37121,Mitchell_North Carolina,0.01
+37123,Montgomery_North Carolina,0.015
+37125,Moore_North Carolina,0.026
+37127,Nash_North Carolina,0.025
+37129,New Hanover_North Carolina,0.049
+37131,Northampton_North Carolina,0.009
+37133,Onslow_North Carolina,0.022
+37135,Orange_North Carolina,0.032
+37137,Pamlico_North Carolina,0.007
+37139,Pasquotank_North Carolina,0.012
+37141,Pender_North Carolina,0.008
+37143,Perquimans_North Carolina,0.01
+37145,Person_North Carolina,1.75
+37147,Pitt_North Carolina,0.028
+37149,Polk_North Carolina,0.009
+37151,Randolph_North Carolina,0.033
+37153,Richmond_North Carolina,0.033
+37155,Robeson_North Carolina,0.03
+37157,Rockingham_North Carolina,0.036
+37159,Rowan_North Carolina,0.046
+37161,Rutherford_North Carolina,0.012
+37163,Sampson_North Carolina,0.023
+37165,Scotland_North Carolina,0.022
+37167,Stanly_North Carolina,0.022
+37169,Stokes_North Carolina,2.764
+37171,Surry_North Carolina,0.049
+37173,Swain_North Carolina,0.031
+37175,Transylvania_North Carolina,0.309
+37177,Tyrrell_North Carolina,0.001
+37179,Union_North Carolina,0.025
+37181,Vance_North Carolina,0.033
+37183,Wake_North Carolina,0.106
+37185,Warren_North Carolina,0.003
+37187,Washington_North Carolina,0.009
+37189,Watauga_North Carolina,0.013
+37191,Wayne_North Carolina,0.032
+37193,Wilkes_North Carolina,0.012
+37195,Wilson_North Carolina,0.033
+37197,Yadkin_North Carolina,0.039
+37199,Yancey_North Carolina,0.007
+38001,Adams_North Dakota,0.002
+38003,Barnes_North Dakota,0.004
+38005,Benson_North Dakota,0.003
+38007,Billings_North Dakota,0.006
+38009,Bottineau_North Dakota,0.002
+38011,Bowman_North Dakota,0.01
+38013,Burke_North Dakota,0.003
+38015,Burleigh_North Dakota,0.046
+38017,Cass_North Dakota,0.036
+38019,Cavalier_North Dakota,0.001
+38021,Dickey_North Dakota,0.031
+38023,Divide_North Dakota,0.009
+38025,Dunn_North Dakota,0.012
+38027,Eddy_North Dakota,0.011
+38029,Emmons_North Dakota,0.02
+38031,Foster_North Dakota,0.018
+38033,Golden Valley_North Dakota,0.003
+38035,Grand Forks_North Dakota,0.033
+38037,Grant_North Dakota,0.004
+38039,Griggs_North Dakota,0.01
+38041,Hettinger_North Dakota,0.001
+38043,Kidder_North Dakota,0.04
+38045,LaMoure_North Dakota,0.014
+38047,Logan_North Dakota,0.007
+38049,McHenry_North Dakota,0.043
+38051,McIntosh_North Dakota,0.004
+38053,McKenzie_North Dakota,0.209
+38055,McLean_North Dakota,0.045
+38057,Mercer_North Dakota,1.941
+38059,Morton_North Dakota,0.143
+38061,Mountrail_North Dakota,0.013
+38063,Nelson_North Dakota,0.006
+38065,Oliver_North Dakota,3.01
+38067,Pembina_North Dakota,0.004
+38069,Pierce_North Dakota,0.004
+38071,Ramsey_North Dakota,0.001
+38073,Ransom_North Dakota,0.066
+38075,Renville_North Dakota,0
+38077,Richland_North Dakota,0.014
+38079,Rolette_North Dakota,0.007
+38081,Sargent_North Dakota,0.04
+38083,Sheridan_North Dakota,0.001
+38085,Sioux_North Dakota,0.003
+38087,Slope_North Dakota,0.006
+38089,Stark_North Dakota,0.01
+38091,Steele_North Dakota,0.008
+38093,Stutsman_North Dakota,0.014
+38095,Towner_North Dakota,0.001
+38097,Traill_North Dakota,0.004
+38099,Walsh_North Dakota,0.004
+38101,Ward_North Dakota,0.02
+38103,Wells_North Dakota,0.003
+38105,Williams_North Dakota,0.092
+39001,Adams_Ohio,0.721
+39003,Allen_Ohio,0.073
+39005,Ashland_Ohio,0.014
+39007,Ashtabula_Ohio,0.26
+39009,Athens_Ohio,0.014
+39011,Auglaize_Ohio,0.025
+39013,Belmont_Ohio,0.02
+39015,Brown_Ohio,0.009
+39017,Butler_Ohio,0.138
+39019,Carroll_Ohio,0.008
+39021,Champaign_Ohio,0.018
+39023,Clark_Ohio,0.053
+39025,Clermont_Ohio,0.084
+39027,Clinton_Ohio,0.006
+39029,Columbiana_Ohio,0.027
+39031,Coshocton_Ohio,0.071
+39033,Crawford_Ohio,0.014
+39035,Cuyahoga_Ohio,0.714
+39037,Darke_Ohio,0.015
+39039,Defiance_Ohio,0.028
+39041,Delaware_Ohio,0.048
+39043,Erie_Ohio,0.156
+39045,Fairfield_Ohio,0.027
+39047,Fayette_Ohio,0.009
+39049,Franklin_Ohio,0.331
+39051,Fulton_Ohio,0.015
+39053,Gallia_Ohio,1.744
+39055,Geauga_Ohio,0.016
+39057,Greene_Ohio,0.035
+39059,Guernsey_Ohio,0.016
+39061,Hamilton_Ohio,0.479
+39063,Hancock_Ohio,0.032
+39065,Hardin_Ohio,0.011
+39067,Harrison_Ohio,0.007
+39069,Henry_Ohio,0.034
+39071,Highland_Ohio,0.004
+39073,Hocking_Ohio,0.007
+39075,Holmes_Ohio,0.016
+39077,Huron_Ohio,0.014
+39079,Jackson_Ohio,0.004
+39081,Jefferson_Ohio,4.212
+39083,Knox_Ohio,0.019
+39085,Lake_Ohio,0.523
+39087,Lawrence_Ohio,0.026
+39089,Licking_Ohio,0.027
+39091,Logan_Ohio,0.014
+39093,Lorain_Ohio,0.783
+39095,Lucas_Ohio,1.283
+39097,Madison_Ohio,0.008
+39099,Mahoning_Ohio,0.016
+39101,Marion_Ohio,0.027
+39103,Medina_Ohio,0.023
+39105,Meigs_Ohio,0.011
+39107,Mercer_Ohio,0.018
+39109,Miami_Ohio,0.042
+39111,Monroe_Ohio,0.008
+39113,Montgomery_Ohio,0.169
+39115,Morgan_Ohio,0.035
+39117,Morrow_Ohio,0.006
+39119,Muskingum_Ohio,0.034
+39121,Noble_Ohio,0.006
+39123,Ottawa_Ohio,0.253
+39125,Paulding_Ohio,0.009
+39127,Perry_Ohio,0.004
+39129,Pickaway_Ohio,0.027
+39131,Pike_Ohio,0.015
+39133,Portage_Ohio,0.096
+39135,Preble_Ohio,0.01
+39137,Putnam_Ohio,0.018
+39139,Richland_Ohio,0.033
+39141,Ross_Ohio,0.056
+39143,Sandusky_Ohio,0.053
+39145,Scioto_Ohio,0.016
+39147,Seneca_Ohio,0.015
+39149,Shelby_Ohio,0.025
+39151,Stark_Ohio,0.086
+39153,Summit_Ohio,0.055
+39155,Trumbull_Ohio,0.076
+39157,Tuscarawas_Ohio,0.065
+39159,Union_Ohio,0.018
+39161,Van Wert_Ohio,0.014
+39163,Vinton_Ohio,0.002
+39165,Warren_Ohio,0.039
+39167,Washington_Ohio,0.194
+39169,Wayne_Ohio,0.031
+39171,Williams_Ohio,0.015
+39173,Wood_Ohio,0.023
+39175,Wyandot_Ohio,0.02
+40001,Adair_Oklahoma,0.008
+40003,Alfalfa_Oklahoma,0.01
+40005,Atoka_Oklahoma,0.024
+40007,Beaver_Oklahoma,0.087
+40009,Beckham_Oklahoma,0.027
+40011,Blaine_Oklahoma,0.026
+40013,Bryan_Oklahoma,0.012
+40015,Caddo_Oklahoma,0.098
+40017,Canadian_Oklahoma,0.026
+40019,Carter_Oklahoma,0.006
+40021,Cherokee_Oklahoma,0.008
+40023,Choctaw_Oklahoma,0.006
+40025,Cimarron_Oklahoma,0.269
+40027,Cleveland_Oklahoma,0.043
+40029,Coal_Oklahoma,0.001
+40031,Comanche_Oklahoma,0.027
+40033,Cotton_Oklahoma,0.002
+40035,Craig_Oklahoma,0.001
+40037,Creek_Oklahoma,0.006
+40039,Custer_Oklahoma,0.032
+40041,Delaware_Oklahoma,0.029
+40043,Dewey_Oklahoma,0.01
+40045,Ellis_Oklahoma,0.02
+40047,Garfield_Oklahoma,0.011
+40049,Garvin_Oklahoma,0.004
+40051,Grady_Oklahoma,0.043
+40053,Grant_Oklahoma,0.006
+40055,Greer_Oklahoma,0.018
+40057,Harmon_Oklahoma,0.077
+40059,Harper_Oklahoma,0.037
+40061,Haskell_Oklahoma,0.002
+40063,Hughes_Oklahoma,0.007
+40065,Jackson_Oklahoma,0.118
+40067,Jefferson_Oklahoma,0.018
+40069,Johnston_Oklahoma,0.009
+40071,Kay_Oklahoma,0.046
+40073,Kingfisher_Oklahoma,0.038
+40075,Kiowa_Oklahoma,0.014
+40077,Latimer_Oklahoma,0.002
+40079,Le Flore_Oklahoma,0.006
+40081,Lincoln_Oklahoma,0.004
+40083,Logan_Oklahoma,0.014
+40085,Love_Oklahoma,0.005
+40087,McClain_Oklahoma,0.008
+40089,McCurtain_Oklahoma,0.011
+40091,McIntosh_Oklahoma,0.004
+40093,Major_Oklahoma,0.049
+40095,Marshall_Oklahoma,0.008
+40097,Mayes_Oklahoma,0.047
+40099,Murray_Oklahoma,0.014
+40101,Muskogee_Oklahoma,0.02
+40103,Noble_Oklahoma,0.046
+40105,Nowata_Oklahoma,0.003
+40107,Okfuskee_Oklahoma,0.002
+40109,Oklahoma_Oklahoma,0.209
+40111,Okmulgee_Oklahoma,0.005
+40113,Osage_Oklahoma,0.01
+40115,Ottawa_Oklahoma,0.006
+40117,Pawnee_Oklahoma,0.004
+40119,Payne_Oklahoma,0.01
+40121,Pittsburg_Oklahoma,0.004
+40123,Pontotoc_Oklahoma,0.007
+40125,Pottawatomie_Oklahoma,0.012
+40127,Pushmataha_Oklahoma,0.001
+40129,Roger Mills_Oklahoma,0.007
+40131,Rogers_Oklahoma,0.078
+40133,Seminole_Oklahoma,0.005
+40135,Sequoyah_Oklahoma,0.005
+40137,Stephens_Oklahoma,0.005
+40139,Texas_Oklahoma,0.495
+40141,Tillman_Oklahoma,0.029
+40143,Tulsa_Oklahoma,0.009
+40145,Wagoner_Oklahoma,0.03
+40147,Washington_Oklahoma,0.007
+40149,Washita_Oklahoma,0.029
+40151,Woods_Oklahoma,0.01
+40153,Woodward_Oklahoma,0.021
+41001,Baker_Oregon,0.14
+41003,Benton_Oregon,0.07
+41005,Clackamas_Oregon,0.066
+41007,Clatsop_Oregon,0.021
+41009,Columbia_Oregon,0.025
+41011,Coos_Oregon,0.009
+41013,Crook_Oregon,0.104
+41015,Curry_Oregon,0.005
+41017,Deschutes_Oregon,0.048
+41019,Douglas_Oregon,0.013
+41021,Gilliam_Oregon,0.053
+41023,Grant_Oregon,0.016
+41025,Harney_Oregon,0.14
+41027,Hood River_Oregon,0.069
+41029,Jackson_Oregon,0.15
+41031,Jefferson_Oregon,0.125
+41033,Josephine_Oregon,0.02
+41035,Klamath_Oregon,0.128
+41037,Lake_Oregon,0.109
+41039,Lane_Oregon,0.031
+41041,Lincoln_Oregon,0.011
+41043,Linn_Oregon,0.032
+41045,Malheur_Oregon,0.302
+41047,Marion_Oregon,0.181
+41049,Morrow_Oregon,0.392
+41051,Multnomah_Oregon,0.048
+41053,Polk_Oregon,0.046
+41055,Sherman_Oregon,0.016
+41057,Tillamook_Oregon,0.013
+41059,Umatilla_Oregon,0.259
+41061,Union_Oregon,0.137
+41063,Wallowa_Oregon,0.069
+41065,Wasco_Oregon,0.033
+41067,Washington_Oregon,0.135
+41069,Wheeler_Oregon,0.035
+41071,Yamhill_Oregon,0.082
+42001,Adams_Pennsylvania,0.047
+42003,Allegheny_Pennsylvania,0.585
+42005,Armstrong_Pennsylvania,0.03
+42007,Beaver_Pennsylvania,0.413
+42009,Bedford_Pennsylvania,0.017
+42011,Berks_Pennsylvania,0.062
+42013,Blair_Pennsylvania,0.035
+42015,Bradford_Pennsylvania,0.013
+42017,Bucks_Pennsylvania,0.423
+42019,Butler_Pennsylvania,0.014
+42021,Cambria_Pennsylvania,0.022
+42023,Cameron_Pennsylvania,0.002
+42025,Carbon_Pennsylvania,0.074
+42027,Centre_Pennsylvania,0.041
+42029,Chester_Pennsylvania,0.085
+42031,Clarion_Pennsylvania,0.006
+42033,Clearfield_Pennsylvania,0.095
+42035,Clinton_Pennsylvania,0.02
+42037,Columbia_Pennsylvania,0.023
+42039,Crawford_Pennsylvania,0.01
+42041,Cumberland_Pennsylvania,0.073
+42043,Dauphin_Pennsylvania,0.22
+42045,Delaware_Pennsylvania,2.244
+42047,Elk_Pennsylvania,0.021
+42049,Erie_Pennsylvania,0.043
+42051,Fayette_Pennsylvania,0.046
+42053,Forest_Pennsylvania,0.004
+42055,Franklin_Pennsylvania,0.03
+42057,Fulton_Pennsylvania,0.006
+42059,Greene_Pennsylvania,0.023
+42061,Huntingdon_Pennsylvania,0.01
+42063,Indiana_Pennsylvania,0.039
+42065,Jefferson_Pennsylvania,0.006
+42067,Juniata_Pennsylvania,0.012
+42069,Lackawanna_Pennsylvania,0.121
+42071,Lancaster_Pennsylvania,3.182
+42073,Lawrence_Pennsylvania,0.153
+42075,Lebanon_Pennsylvania,0.051
+42077,Lehigh_Pennsylvania,0.153
+42079,Luzerne_Pennsylvania,0.168
+42081,Lycoming_Pennsylvania,0.013
+42083,McKean_Pennsylvania,0.01
+42085,Mercer_Pennsylvania,0.039
+42087,Mifflin_Pennsylvania,0.025
+42089,Monroe_Pennsylvania,0.058
+42091,Montgomery_Pennsylvania,0.271
+42093,Montour_Pennsylvania,0.008
+42095,Northampton_Pennsylvania,0.116
+42097,Northumberland_Pennsylvania,0.084
+42099,Perry_Pennsylvania,0.011
+42101,Philadelphia_Pennsylvania,2.32
+42103,Pike_Pennsylvania,0.01
+42105,Potter_Pennsylvania,0.005
+42107,Schuylkill_Pennsylvania,0.049
+42109,Snyder_Pennsylvania,0.019
+42111,Somerset_Pennsylvania,0.019
+42113,Sullivan_Pennsylvania,0.003
+42115,Susquehanna_Pennsylvania,0.006
+42117,Tioga_Pennsylvania,0.009
+42119,Union_Pennsylvania,0.022
+42121,Venango_Pennsylvania,0.007
+42123,Warren_Pennsylvania,0.011
+42125,Washington_Pennsylvania,0.043
+42127,Wayne_Pennsylvania,0.009
+42129,Westmoreland_Pennsylvania,0.022
+42131,Wyoming_Pennsylvania,0.035
+42133,York_Pennsylvania,0.123
+44001,Bristol_Rhode Island,0.011
+44003,Kent_Rhode Island,0.013
+44005,Newport_Rhode Island,0.077
+44007,Providence_Rhode Island,0.227
+44009,Washington_Rhode Island,0.061
+45001,Abbeville_South Carolina,0.004
+45003,Aiken_South Carolina,0.12
+45005,Allendale_South Carolina,0.022
+45007,Anderson_South Carolina,0.052
+45009,Bamberg_South Carolina,0.013
+45011,Barnwell_South Carolina,0.009
+45013,Beaufort_South Carolina,0.023
+45015,Berkeley_South Carolina,0.265
+45017,Calhoun_South Carolina,0.147
+45019,Charleston_South Carolina,0.013
+45021,Cherokee_South Carolina,0.025
+45023,Chester_South Carolina,0.008
+45025,Chesterfield_South Carolina,0.013
+45027,Clarendon_South Carolina,0.009
+45029,Colleton_South Carolina,0.007
+45031,Darlington_South Carolina,1.234
+45033,Dillon_South Carolina,0.015
+45035,Dorchester_South Carolina,0.047
+45037,Edgefield_South Carolina,0.017
+45039,Fairfield_South Carolina,0.737
+45041,Florence_South Carolina,0.048
+45043,Georgetown_South Carolina,0.212
+45045,Greenville_South Carolina,0.04
+45047,Greenwood_South Carolina,0.011
+45049,Hampton_South Carolina,0.013
+45051,Horry_South Carolina,0.038
+45053,Jasper_South Carolina,0.041
+45055,Kershaw_South Carolina,0.015
+45057,Lancaster_South Carolina,0.04
+45059,Laurens_South Carolina,0.007
+45061,Lee_South Carolina,0.016
+45063,Lexington_South Carolina,0.279
+45065,McCormick_South Carolina,0.003
+45067,Marion_South Carolina,0.009
+45069,Marlboro_South Carolina,0.05
+45071,Newberry_South Carolina,0.012
+45073,Oconee_South Carolina,1.897
+45075,Orangeburg_South Carolina,0.024
+45077,Pickens_South Carolina,0.036
+45079,Richland_South Carolina,0.09
+45081,Saluda_South Carolina,0.014
+45083,Spartanburg_South Carolina,0.036
+45085,Sumter_South Carolina,0.04
+45087,Union_South Carolina,0.006
+45089,Williamsburg_South Carolina,0.005
+45091,York_South Carolina,0.208
+46003,Aurora_South Dakota,0.004
+46005,Beadle_South Dakota,0.031
+46007,Bennett_South Dakota,0.028
+46009,Bon Homme_South Dakota,0.034
+46011,Brookings_South Dakota,0.051
+46013,Brown_South Dakota,0.03
+46015,Brule_South Dakota,0.015
+46017,Buffalo_South Dakota,0.065
+46019,Butte_South Dakota,0.015
+46021,Campbell_South Dakota,0.031
+46023,Charles Mix_South Dakota,0.027
+46025,Clark_South Dakota,0.013
+46027,Clay_South Dakota,0.043
+46029,Codington_South Dakota,0.056
+46031,Corson_South Dakota,0.003
+46033,Custer_South Dakota,0.013
+46035,Davison_South Dakota,0.018
+46037,Day_South Dakota,0.006
+46039,Deuel_South Dakota,0.006
+46041,Dewey_South Dakota,0.002
+46043,Douglas_South Dakota,0.017
+46045,Edmunds_South Dakota,0.004
+46047,Fall River_South Dakota,0.004
+46049,Faulk_South Dakota,0.003
+46051,Grant_South Dakota,0.045
+46053,Gregory_South Dakota,0.005
+46055,Haakon_South Dakota,0.002
+46057,Hamlin_South Dakota,0.029
+46059,Hand_South Dakota,0.005
+46061,Hanson_South Dakota,0.007
+46063,Harding_South Dakota,0.004
+46065,Hughes_South Dakota,0.103
+46067,Hutchinson_South Dakota,0.011
+46069,Hyde_South Dakota,0.004
+46071,Jackson_South Dakota,0.002
+46073,Jerauld_South Dakota,0.015
+46075,Jones_South Dakota,0.002
+46077,Kingsbury_South Dakota,0.009
+46079,Lake_South Dakota,0.006
+46081,Lawrence_South Dakota,0.048
+46083,Lincoln_South Dakota,0.017
+46085,Lyman_South Dakota,0.007
+46087,McCook_South Dakota,0.005
+46089,McPherson_South Dakota,0.009
+46091,Marshall_South Dakota,0.007
+46093,Meade_South Dakota,0.009
+46095,Mellette_South Dakota,0.004
+46097,Miner_South Dakota,0.003
+46099,Minnehaha_South Dakota,0.048
+46101,Moody_South Dakota,0.005
+46102,Oglala Lakota_South Dakota,0.002
+46103,Pennington_South Dakota,0.019
+46105,Perkins_South Dakota,0.003
+46107,Potter_South Dakota,0.011
+46109,Roberts_South Dakota,0.012
+46111,Sanborn_South Dakota,0.004
+46115,Spink_South Dakota,0.043
+46117,Stanley_South Dakota,0.003
+46119,Sully_South Dakota,0.044
+46121,Todd_South Dakota,0.033
+46123,Tripp_South Dakota,0.009
+46125,Turner_South Dakota,0.054
+46127,Union_South Dakota,0.027
+46129,Walworth_South Dakota,0.009
+46135,Yankton_South Dakota,0.044
+46137,Ziebach_South Dakota,0.002
+47001,Anderson_Tennessee,0.355
+47003,Bedford_Tennessee,0.011
+47005,Benton_Tennessee,0.012
+47007,Bledsoe_Tennessee,0.005
+47009,Blount_Tennessee,0.018
+47011,Bradley_Tennessee,0.036
+47013,Campbell_Tennessee,0.005
+47015,Cannon_Tennessee,0.003
+47017,Carroll_Tennessee,0.008
+47019,Carter_Tennessee,0.047
+47021,Cheatham_Tennessee,0.009
+47023,Chester_Tennessee,0.005
+47025,Claiborne_Tennessee,0.006
+47027,Clay_Tennessee,0.036
+47029,Cocke_Tennessee,0.013
+47031,Coffee_Tennessee,0.057
+47033,Crockett_Tennessee,0.01
+47035,Cumberland_Tennessee,0.006
+47037,Davidson_Tennessee,0.261
+47039,Decatur_Tennessee,0.004
+47041,DeKalb_Tennessee,0.006
+47043,Dickson_Tennessee,0.011
+47045,Dyer_Tennessee,0.014
+47047,Fayette_Tennessee,0.008
+47049,Fentress_Tennessee,0.003
+47051,Franklin_Tennessee,0.006
+47053,Gibson_Tennessee,0.01
+47055,Giles_Tennessee,0.006
+47057,Grainger_Tennessee,0.013
+47059,Greene_Tennessee,0.015
+47061,Grundy_Tennessee,0.003
+47063,Hamblen_Tennessee,0.04
+47065,Hamilton_Tennessee,1.641
+47067,Hancock_Tennessee,0.002
+47069,Hardeman_Tennessee,0.004
+47071,Hardin_Tennessee,0.039
+47073,Hawkins_Tennessee,0.015
+47075,Haywood_Tennessee,0.017
+47077,Henderson_Tennessee,0.001
+47079,Henry_Tennessee,0.007
+47081,Hickman_Tennessee,0.013
+47083,Houston_Tennessee,0.004
+47085,Humphreys_Tennessee,0.506
+47087,Jackson_Tennessee,0.002
+47089,Jefferson_Tennessee,0.03
+47091,Johnson_Tennessee,0.008
+47093,Knox_Tennessee,0.081
+47095,Lake_Tennessee,0.026
+47097,Lauderdale_Tennessee,0.011
+47099,Lawrence_Tennessee,0.007
+47101,Lewis_Tennessee,0.005
+47103,Lincoln_Tennessee,0.011
+47105,Loudon_Tennessee,0.05
+47107,McMinn_Tennessee,0.048
+47109,McNairy_Tennessee,0.004
+47111,Macon_Tennessee,0.007
+47113,Madison_Tennessee,0.03
+47115,Marion_Tennessee,0.005
+47117,Marshall_Tennessee,0.009
+47119,Maury_Tennessee,0.02
+47121,Meigs_Tennessee,0.003
+47123,Monroe_Tennessee,0.009
+47125,Montgomery_Tennessee,0.035
+47127,Moore_Tennessee,0.007
+47129,Morgan_Tennessee,0.003
+47131,Obion_Tennessee,0.011
+47133,Overton_Tennessee,0.005
+47135,Perry_Tennessee,0.003
+47137,Pickett_Tennessee,0.004
+47139,Polk_Tennessee,0.003
+47141,Putnam_Tennessee,0.022
+47143,Rhea_Tennessee,0.032
+47145,Roane_Tennessee,0.53
+47147,Robertson_Tennessee,0.014
+47149,Rutherford_Tennessee,0.048
+47151,Scott_Tennessee,0.003
+47153,Sequatchie_Tennessee,0.013
+47155,Sevier_Tennessee,0.019
+47157,Shelby_Tennessee,0.522
+47159,Smith_Tennessee,0.013
+47161,Stewart_Tennessee,1.88
+47163,Sullivan_Tennessee,1.001
+47165,Sumner_Tennessee,0.556
+47167,Tipton_Tennessee,0.01
+47169,Trousdale_Tennessee,0.008
+47171,Unicoi_Tennessee,0.023
+47173,Union_Tennessee,0.004
+47175,Van Buren_Tennessee,0
+47177,Warren_Tennessee,0.011
+47179,Washington_Tennessee,0.051
+47181,Wayne_Tennessee,0.002
+47183,Weakley_Tennessee,0.007
+47185,White_Tennessee,0.006
+47187,Williamson_Tennessee,0.005
+47189,Wilson_Tennessee,0.024
+48001,Anderson_Texas,0.006
+48003,Andrews_Texas,0.071
+48005,Angelina_Texas,0.012
+48007,Aransas_Texas,0.001
+48009,Archer_Texas,0.009
+48011,Armstrong_Texas,0.009
+48013,Atascosa_Texas,0.03
+48015,Austin_Texas,0.009
+48017,Bailey_Texas,0.252
+48019,Bandera_Texas,0.005
+48021,Bastrop_Texas,0.286
+48023,Baylor_Texas,0.008
+48025,Bee_Texas,0.005
+48027,Bell_Texas,0.014
+48029,Bexar_Texas,0.905
+48031,Blanco_Texas,0.007
+48033,Borden_Texas,0.009
+48035,Bosque_Texas,0.007
+48037,Bowie_Texas,0.032
+48039,Brazoria_Texas,0.094
+48041,Brazos_Texas,0.076
+48043,Brewster_Texas,0.009
+48045,Briscoe_Texas,0.033
+48047,Brooks_Texas,0.003
+48049,Brown_Texas,0.012
+48051,Burleson_Texas,0.016
+48053,Burnet_Texas,0.009
+48055,Caldwell_Texas,0.008
+48057,Calhoun_Texas,0.029
+48059,Callahan_Texas,0.003
+48061,Cameron_Texas,0.382
+48063,Camp_Texas,0.015
+48065,Carson_Texas,0.204
+48067,Cass_Texas,0.002
+48069,Castro_Texas,0.63
+48071,Chambers_Texas,0.125
+48073,Cherokee_Texas,0.207
+48075,Childress_Texas,0.021
+48077,Clay_Texas,0.009
+48079,Cochran_Texas,0.35
+48081,Coke_Texas,0.002
+48083,Coleman_Texas,0.003
+48085,Collin_Texas,0.116
+48087,Collingsworth_Texas,0.05
+48089,Colorado_Texas,0.051
+48091,Comal_Texas,0.049
+48093,Comanche_Texas,0.031
+48095,Concho_Texas,0.011
+48097,Cooke_Texas,0.005
+48099,Coryell_Texas,0.001
+48101,Cottle_Texas,0.008
+48103,Crane_Texas,0.016
+48105,Crockett_Texas,0.004
+48107,Crosby_Texas,0.119
+48109,Culberson_Texas,0.26
+48111,Dallam_Texas,0.563
+48113,Dallas_Texas,0.281
+48115,Dawson_Texas,0.223
+48117,Deaf Smith_Texas,0.171
+48119,Delta_Texas,0.02
+48121,Denton_Texas,0.028
+48123,DeWitt_Texas,0.009
+48125,Dickens_Texas,0.025
+48127,Dimmit_Texas,0.021
+48129,Donley_Texas,0.04
+48131,Duval_Texas,0.004
+48133,Eastland_Texas,0.007
+48135,Ector_Texas,0.054
+48137,Edwards_Texas,0.001
+48139,Ellis_Texas,0.013
+48141,El Paso_Texas,8.868
+48143,Erath_Texas,0.014
+48145,Falls_Texas,0.009
+48147,Fannin_Texas,0.01
+48149,Fayette_Texas,0.011
+48151,Fisher_Texas,0.01
+48153,Floyd_Texas,0.187
+48155,Foard_Texas,0.005
+48157,Fort Bend_Texas,0.82
+48159,Franklin_Texas,0.009
+48161,Freestone_Texas,0.439
+48163,Frio_Texas,0.076
+48165,Gaines_Texas,0.894
+48167,Galveston_Texas,0.009
+48169,Garza_Texas,0.054
+48171,Gillespie_Texas,0.011
+48173,Glasscock_Texas,0.129
+48175,Goliad_Texas,0.339
+48177,Gonzales_Texas,0.032
+48179,Gray_Texas,0.058
+48181,Grayson_Texas,0.019
+48183,Gregg_Texas,0.048
+48185,Grimes_Texas,0.178
+48187,Guadalupe_Texas,0.015
+48189,Hale_Texas,0.491
+48191,Hall_Texas,0.045
+48193,Hamilton_Texas,0.003
+48195,Hansford_Texas,0.353
+48197,Hardeman_Texas,0.025
+48199,Hardin_Texas,0.004
+48201,Harris_Texas,0.127
+48203,Harrison_Texas,0.018
+48205,Hartley_Texas,0.572
+48207,Haskell_Texas,0.08
+48209,Hays_Texas,0.024
+48211,Hemphill_Texas,0.009
+48213,Henderson_Texas,0.006
+48215,Hidalgo_Texas,0.466
+48217,Hill_Texas,0.004
+48219,Hockley_Texas,0.415
+48221,Hood_Texas,0.03
+48223,Hopkins_Texas,0.012
+48225,Houston_Texas,0.003
+48227,Howard_Texas,0.03
+48229,Hudspeth_Texas,0.502
+48231,Hunt_Texas,0.006
+48233,Hutchinson_Texas,0.136
+48235,Irion_Texas,0.009
+48237,Jack_Texas,0.002
+48239,Jackson_Texas,0.036
+48241,Jasper_Texas,0.032
+48243,Jeff Davis_Texas,0.008
+48245,Jefferson_Texas,0.049
+48247,Jim Hogg_Texas,0.004
+48249,Jim Wells_Texas,0.011
+48251,Johnson_Texas,0.012
+48253,Jones_Texas,0.033
+48255,Karnes_Texas,0.01
+48257,Kaufman_Texas,0.002
+48259,Kendall_Texas,0.012
+48261,Kenedy_Texas,0.001
+48263,Kent_Texas,0.003
+48265,Kerr_Texas,0.015
+48267,Kimble_Texas,0.007
+48269,King_Texas,0.001
+48271,Kinney_Texas,0.006
+48273,Kleberg_Texas,0.007
+48275,Knox_Texas,0.055
+48277,Lamar_Texas,0.013
+48279,Lamb_Texas,0.477
+48281,Lampasas_Texas,0.005
+48283,La Salle_Texas,0.015
+48285,Lavaca_Texas,0.008
+48287,Lee_Texas,0.013
+48289,Leon_Texas,0.006
+48291,Liberty_Texas,0.012
+48293,Limestone_Texas,0.013
+48295,Lipscomb_Texas,0.064
+48297,Live Oak_Texas,0.007
+48299,Llano_Texas,0.165
+48301,Loving_Texas,0.019
+48303,Lubbock_Texas,0.507
+48305,Lynn_Texas,0.198
+48307,McCulloch_Texas,0.018
+48309,McLennan_Texas,0.032
+48311,McMullen_Texas,0.006
+48313,Madison_Texas,0.006
+48315,Marion_Texas,0.109
+48317,Martin_Texas,0.221
+48319,Mason_Texas,0.012
+48321,Matagorda_Texas,0.059
+48323,Maverick_Texas,0.058
+48325,Medina_Texas,0.044
+48327,Menard_Texas,0.012
+48329,Midland_Texas,0.063
+48331,Milam_Texas,0.193
+48333,Mills_Texas,0.013
+48335,Mitchell_Texas,0.042
+48337,Montague_Texas,0.003
+48339,Montgomery_Texas,0.044
+48341,Moore_Texas,0.365
+48343,Morris_Texas,0.043
+48345,Motley_Texas,0.019
+48347,Nacogdoches_Texas,0.014
+48349,Navarro_Texas,0.003
+48351,Newton_Texas,0.004
+48353,Nolan_Texas,0.028
+48355,Nueces_Texas,0.115
+48357,Ochiltree_Texas,0.179
+48359,Oldham_Texas,0.008
+48361,Orange_Texas,0.023
+48363,Palo Pinto_Texas,0.067
+48365,Panola_Texas,0.007
+48367,Parker_Texas,0.012
+48369,Parmer_Texas,0.436
+48371,Pecos_Texas,0.186
+48373,Polk_Texas,0.351
+48375,Potter_Texas,0.019
+48377,Presidio_Texas,0.028
+48379,Rains_Texas,0.003
+48381,Randall_Texas,0.025
+48383,Reagan_Texas,0.104
+48385,Real_Texas,0.002
+48387,Red River_Texas,0.003
+48389,Reeves_Texas,0.246
+48391,Refugio_Texas,0.003
+48393,Roberts_Texas,0.016
+48395,Robertson_Texas,0.863
+48397,Rockwall_Texas,0.001
+48399,Runnels_Texas,0.014
+48401,Rusk_Texas,0.701
+48403,Sabine_Texas,0.002
+48405,San Augustine_Texas,0.004
+48407,San Jacinto_Texas,0.003
+48409,San Patricio_Texas,0.014
+48411,San Saba_Texas,0.013
+48413,Schleicher_Texas,0.006
+48415,Scurry_Texas,0.024
+48417,Shackelford_Texas,0.001
+48419,Shelby_Texas,0.013
+48421,Sherman_Texas,0.616
+48423,Smith_Texas,0.026
+48425,Somervell_Texas,9.644
+48427,Starr_Texas,0.047
+48429,Stephens_Texas,0.017
+48431,Sterling_Texas,0.004
+48433,Stonewall_Texas,0.001
+48435,Sutton_Texas,0.005
+48437,Swisher_Texas,0.156
+48439,Tarrant_Texas,0.066
+48441,Taylor_Texas,0.005
+48443,Terrell_Texas,0.002
+48445,Terry_Texas,0.317
+48447,Throckmorton_Texas,0.001
+48449,Titus_Texas,1.364
+48451,Tom Green_Texas,0.078
+48453,Travis_Texas,0.153
+48455,Trinity_Texas,0.002
+48457,Tyler_Texas,0.003
+48459,Upshur_Texas,0.006
+48461,Upton_Texas,0.055
+48463,Uvalde_Texas,0.035
+48465,Val Verde_Texas,0.016
+48467,Van Zandt_Texas,0.004
+48469,Victoria_Texas,0.066
+48471,Walker_Texas,0.004
+48473,Waller_Texas,0.02
+48475,Ward_Texas,0.103
+48477,Washington_Texas,0.003
+48479,Webb_Texas,0.045
+48481,Wharton_Texas,0.09
+48483,Wheeler_Texas,0.027
+48485,Wichita_Texas,0.026
+48487,Wilbarger_Texas,0.03
+48489,Willacy_Texas,0.108
+48491,Williamson_Texas,0.031
+48493,Wilson_Texas,0.017
+48495,Winkler_Texas,0.037
+48497,Wise_Texas,0.012
+48499,Wood_Texas,0.006
+48501,Yoakum_Texas,0.489
+48503,Young_Texas,0.035
+48505,Zapata_Texas,0.015
+48507,Zavala_Texas,0.041
+49001,Beaver_Utah,0.471
+49003,Box Elder_Utah,0.317
+49005,Cache_Utah,0.382
+49007,Carbon_Utah,0.142
+49009,Daggett_Utah,0.08
+49011,Davis_Utah,0.412
+49013,Duchesne_Utah,0.276
+49015,Emery_Utah,0.287
+49017,Garfield_Utah,0.072
+49019,Grand_Utah,0.048
+49021,Iron_Utah,0.538
+49023,Juab_Utah,0.163
+49025,Kane_Utah,0.023
+49027,Millard_Utah,0.736
+49029,Morgan_Utah,0.252
+49031,Piute_Utah,0.204
+49033,Rich_Utah,0.266
+49035,Salt Lake_Utah,0.626
+49037,San Juan_Utah,0.017
+49039,Sanpete_Utah,0.493
+49041,Sevier_Utah,0.193
+49043,Summit_Utah,0.065
+49045,Tooele_Utah,0.142
+49047,Uintah_Utah,0.338
+49049,Utah_Utah,0.78
+49051,Wasatch_Utah,0.175
+49053,Washington_Utah,0.42
+49055,Wayne_Utah,0.264
+49057,Weber_Utah,0.463
+50001,Addison_Vermont,0.01
+50003,Bennington_Vermont,0.01
+50005,Caledonia_Vermont,0.006
+50007,Chittenden_Vermont,0.029
+50009,Essex_Vermont,0.001
+50011,Franklin_Vermont,0.009
+50013,Grand Isle_Vermont,0.028
+50015,Lamoille_Vermont,0.004
+50017,Orange_Vermont,0.005
+50019,Orleans_Vermont,0.004
+50021,Rutland_Vermont,0.015
+50023,Washington_Vermont,0.005
+50025,Windham_Vermont,0.005
+50027,Windsor_Vermont,0.006
+51001,Accomack_Virginia,0.03
+51003,Albemarle_Virginia,0.025
+51005,Alleghany_Virginia,0.079
+51007,Amelia_Virginia,0.004
+51009,Amherst_Virginia,0.038
+51011,Appomattox_Virginia,0.004
+51013,Arlington_Virginia,0.006
+51015,Augusta_Virginia,0.016
+51017,Bath_Virginia,0.02
+51019,Bedford County_Virginia,0.029
+51021,Bland_Virginia,0.002
+51023,Botetourt_Virginia,0.014
+51025,Brunswick_Virginia,0.043
+51027,Buchanan_Virginia,0.003
+51029,Buckingham_Virginia,0.008
+51031,Campbell_Virginia,0.018
+51033,Caroline_Virginia,0.016
+51035,Carroll_Virginia,0.01
+51036,Charles City_Virginia,0.012
+51037,Charlotte_Virginia,0.003
+51041,Chesterfield_Virginia,2.392
+51043,Clarke_Virginia,0.01
+51045,Craig_Virginia,0.014
+51047,Culpeper_Virginia,0.015
+51049,Cumberland_Virginia,0.003
+51051,Dickenson_Virginia,0.015
+51053,Dinwiddie_Virginia,0.004
+51057,Essex_Virginia,0.006
+51059,Fairfax City_Virginia,0.005
+51061,Fauquier_Virginia,0.013
+51063,Floyd_Virginia,0.005
+51065,Fluvanna_Virginia,0.232
+51067,Franklin County_Virginia,0.009
+51069,Frederick_Virginia,0.028
+51071,Giles_Virginia,0.334
+51073,Gloucester_Virginia,0.011
+51075,Goochland_Virginia,0.012
+51077,Grayson_Virginia,0.004
+51079,Greene_Virginia,0.011
+51081,Greensville_Virginia,0.005
+51083,Halifax_Virginia,0.018
+51085,Hanover_Virginia,0.023
+51087,Henrico_Virginia,0.114
+51089,Henry_Virginia,0.011
+51091,Highland_Virginia,0.012
+51093,Isle of Wight_Virginia,0.052
+51095,James City_Virginia,0.032
+51097,King and Queen_Virginia,0.007
+51099,King George_Virginia,0.018
+51101,King William_Virginia,0.105
+51103,Lancaster_Virginia,0.004
+51105,Lee_Virginia,0.004
+51107,Loudoun_Virginia,0.028
+51109,Louisa_Virginia,4.447
+51111,Lunenburg_Virginia,0.003
+51113,Madison_Virginia,0.004
+51115,Mathews_Virginia,0.006
+51117,Mecklenburg_Virginia,0.007
+51119,Middlesex_Virginia,0.009
+51121,Montgomery_Virginia,0.089
+51125,Nelson_Virginia,0.003
+51127,New Kent_Virginia,0.116
+51131,Northampton_Virginia,No Data
+51133,Northumberland_Virginia,0.009
+51135,Nottoway_Virginia,0.004
+51137,Orange_Virginia,0.013
+51139,Page_Virginia,0.012
+51141,Patrick_Virginia,0.004
+51143,Pittsylvania_Virginia,0.008
+51145,Powhatan_Virginia,0.01
+51147,Prince Edward_Virginia,0.007
+51149,Prince George_Virginia,0.003
+51153,Prince William_Virginia,0.327
+51155,Pulaski_Virginia,0.021
+51157,Rappahannock_Virginia,0.003
+51159,Richmond County_Virginia,0.006
+51161,Roanoke County_Virginia,0.107
+51163,Rockbridge_Virginia,0.007
+51165,Rockingham_Virginia,0.044
+51167,Russell_Virginia,0.009
+51169,Scott_Virginia,0.002
+51171,Shenandoah_Virginia,0.051
+51173,Smyth_Virginia,0.016
+51175,Southampton_Virginia,0.009
+51177,Spotsylvania_Virginia,0.047
+51179,Stafford_Virginia,0.115
+51181,Surry_Virginia,0.005
+51183,Sussex_Virginia,0.004
+51185,Tazewell_Virginia,0.008
+51187,Warren_Virginia,0.062
+51191,Washington_Virginia,0.115
+51193,Westmoreland_Virginia,0.015
+51195,Wise_Virginia,0.01
+51197,Wythe_Virginia,0.024
+51199,York_Virginia,0.148
+51510,Alexandria_Virginia,0.045
+51520,Bristol_Virginia,0.004
+51530,Buena Vista_Virginia,0.158
+51540,Charlottesville_Virginia,0.045
+51550,Chesapeake_Virginia,0.014
+51570,Colonial Heights_Virginia,0.006
+51580,Covington_Virginia,0.313
+51590,Danville_Virginia,0.127
+51595,Emporia_Virginia,0.093
+51600,Fairfax County_Virginia,0.005
+51610,Falls Church_Virginia,0
+51620,Franklin City_Virginia,0.112
+51630,Fredericksburg_Virginia,0.096
+51640,Galax_Virginia,0.213
+51650,Hampton_Virginia,0.001
+51660,Harrisonburg_Virginia,0.021
+51670,Hopewell_Virginia,14.615
+51678,Lexington_Virginia,0
+51680,Lynchburg_Virginia,0.001
+51683,Manassas_Virginia,0.064
+51685,Manassas Park_Virginia,0.087
+51690,Martinsville_Virginia,0.154
+51700,Newport News_Virginia,0.26
+51710,Norfolk_Virginia,0.007
+51720,Norton_Virginia,0.041
+51730,Petersburg_Virginia,0.007
+51735,Poquoson_Virginia,0
+51740,Portsmouth_Virginia,1.631
+51750,Radford_Virginia,0.322
+51760,Richmond City_Virginia,1.46
+51770,Roanoke City_Virginia,0.101
+51775,Salem_Virginia,0.249
+51790,Staunton_Virginia,0.008
+51800,Suffolk_Virginia,0.102
+51810,Virginia Beach_Virginia,0.009
+51820,Waynesboro_Virginia,0.167
+51830,Williamsburg_Virginia,0.017
+51840,Winchester_Virginia,0
+53001,Adams_Washington,0.304
+53003,Asotin_Washington,0.016
+53005,Benton_Washington,0.949
+53007,Chelan_Washington,0.009
+53009,Clallam_Washington,0.004
+53011,Clark_Washington,0.065
+53013,Columbia_Washington,0.016
+53015,Cowlitz_Washington,0.045
+53017,Douglas_Washington,0.025
+53019,Ferry_Washington,0.003
+53021,Franklin_Washington,1.495
+53023,Garfield_Washington,0.004
+53025,Grant_Washington,0.859
+53027,Grays Harbor_Washington,0.004
+53029,Island_Washington,0.023
+53031,Jefferson_Washington,0.001
+53033,King_Washington,0.048
+53035,Kitsap_Washington,0.031
+53037,Kittitas_Washington,0.046
+53039,Klickitat_Washington,0.015
+53041,Lewis_Washington,0.015
+53043,Lincoln_Washington,0.018
+53045,Mason_Washington,0.009
+53047,Okanogan_Washington,0.013
+53049,Pacific_Washington,0.002
+53051,Pend Oreille_Washington,0.003
+53053,Pierce_Washington,0.045
+53055,San Juan_Washington,No Data
+53057,Skagit_Washington,0.008
+53059,Skamania_Washington,0.004
+53061,Snohomish_Washington,0.02
+53063,Spokane_Washington,0.188
+53065,Stevens_Washington,0.012
+53067,Thurston_Washington,0.028
+53069,Wahkiakum_Washington,0.001
+53071,Walla Walla_Washington,0.401
+53073,Whatcom_Washington,0.018
+53075,Whitman_Washington,0.012
+53077,Yakima_Washington,0.088
+54001,Barbour_West Virginia,0.006
+54003,Berkeley_West Virginia,0.064
+54005,Boone_West Virginia,0.01
+54007,Braxton_West Virginia,0.002
+54009,Brooke_West Virginia,0.118
+54011,Cabell_West Virginia,0.038
+54013,Calhoun_West Virginia,0.002
+54015,Clay_West Virginia,0.002
+54017,Doddridge_West Virginia,0.007
+54019,Fayette_West Virginia,0.013
+54021,Gilmer_West Virginia,0.002
+54023,Grant_West Virginia,1.68
+54025,Greenbrier_West Virginia,0.004
+54027,Hampshire_West Virginia,0.006
+54029,Hancock_West Virginia,0.265
+54031,Hardy_West Virginia,0.012
+54033,Harrison_West Virginia,0.033
+54035,Jackson_West Virginia,0.005
+54037,Jefferson_West Virginia,0.04
+54039,Kanawha_West Virginia,0.292
+54041,Lewis_West Virginia,0.003
+54043,Lincoln_West Virginia,0.002
+54045,Logan_West Virginia,0.019
+54047,McDowell_West Virginia,0.005
+54049,Marion_West Virginia,0.026
+54051,Marshall_West Virginia,0.569
+54053,Mason_West Virginia,0.252
+54055,Mercer_West Virginia,0.01
+54057,Mineral_West Virginia,0.007
+54059,Mingo_West Virginia,0.012
+54061,Monongalia_West Virginia,0.204
+54063,Monroe_West Virginia,0.003
+54065,Morgan_West Virginia,0.028
+54067,Nicholas_West Virginia,0.004
+54069,Ohio_West Virginia,0.079
+54071,Pendleton_West Virginia,0.003
+54073,Pleasants_West Virginia,0.168
+54075,Pocahontas_West Virginia,0.002
+54077,Preston_West Virginia,0.004
+54079,Putnam_West Virginia,0.084
+54081,Raleigh_West Virginia,0.02
+54083,Randolph_West Virginia,0.007
+54085,Ritchie_West Virginia,0.003
+54087,Roane_West Virginia,0.002
+54089,Summers_West Virginia,0.007
+54091,Taylor_West Virginia,0.011
+54093,Tucker_West Virginia,0.002
+54095,Tyler_West Virginia,0.021
+54097,Upshur_West Virginia,0.005
+54099,Wayne_West Virginia,0.007
+54101,Webster_West Virginia,0.001
+54103,Wetzel_West Virginia,0.007
+54105,Wirt_West Virginia,0.002
+54107,Wood_West Virginia,0.121
+54109,Wyoming_West Virginia,0.005
+55001,Adams_Wisconsin,0.131
+55003,Ashland_Wisconsin,0.041
+55005,Barron_Wisconsin,0.019
+55007,Bayfield_Wisconsin,0.008
+55009,Brown_Wisconsin,0.457
+55011,Buffalo_Wisconsin,0.412
+55013,Burnett_Wisconsin,0.005
+55015,Calumet_Wisconsin,0.056
+55017,Chippewa_Wisconsin,0.017
+55019,Clark_Wisconsin,0.008
+55021,Columbia_Wisconsin,0.044
+55023,Crawford_Wisconsin,0.006
+55025,Dane_Wisconsin,0.071
+55027,Dodge_Wisconsin,0.018
+55029,Door_Wisconsin,0.008
+55031,Douglas_Wisconsin,0.004
+55033,Dunn_Wisconsin,0.026
+55035,Eau Claire_Wisconsin,0.025
+55037,Florence_Wisconsin,0
+55039,Fond du Lac_Wisconsin,0.028
+55041,Forest_Wisconsin,0.001
+55043,Grant_Wisconsin,0.122
+55045,Green_Wisconsin,0.013
+55047,Green Lake_Wisconsin,0.033
+55049,Iowa_Wisconsin,0.013
+55051,Iron_Wisconsin,0.001
+55053,Jackson_Wisconsin,0.025
+55055,Jefferson_Wisconsin,0.043
+55057,Juneau_Wisconsin,0.04
+55059,Kenosha_Wisconsin,0.119
+55061,Kewaunee_Wisconsin,0.025
+55063,La Crosse_Wisconsin,0.085
+55065,Lafayette_Wisconsin,0.006
+55067,Langlade_Wisconsin,0.034
+55069,Lincoln_Wisconsin,0.02
+55071,Manitowoc_Wisconsin,2.303
+55073,Marathon_Wisconsin,0.054
+55075,Marinette_Wisconsin,0.011
+55077,Marquette_Wisconsin,0.028
+55078,Menominee_Wisconsin,0.002
+55079,Milwaukee_Wisconsin,8.069
+55081,Monroe_Wisconsin,0.063
+55083,Oconto_Wisconsin,0.009
+55085,Oneida_Wisconsin,0.025
+55087,Outagamie_Wisconsin,0.135
+55089,Ozaukee_Wisconsin,2.397
+55091,Pepin_Wisconsin,0.018
+55093,Pierce_Wisconsin,0.011
+55095,Polk_Wisconsin,0.016
+55097,Portage_Wisconsin,0.143
+55099,Price_Wisconsin,0.02
+55101,Racine_Wisconsin,0.074
+55103,Richland_Wisconsin,0.009
+55105,Rock_Wisconsin,0.045
+55107,Rusk_Wisconsin,0.005
+55109,St. Croix_Wisconsin,0.028
+55111,Sauk_Wisconsin,0.026
+55113,Sawyer_Wisconsin,0.004
+55115,Shawano_Wisconsin,0.011
+55117,Sheboygan_Wisconsin,0.777
+55119,Taylor_Wisconsin,0.003
+55121,Trempealeau_Wisconsin,0.013
+55123,Vernon_Wisconsin,0.186
+55125,Vilas_Wisconsin,0.005
+55127,Walworth_Wisconsin,0.03
+55129,Washburn_Wisconsin,0.009
+55131,Washington_Wisconsin,0.039
+55133,Waukesha_Wisconsin,0.083
+55135,Waupaca_Wisconsin,0.023
+55137,Waushara_Wisconsin,0.113
+55139,Winnebago_Wisconsin,0.07
+55141,Wood_Wisconsin,0.341
+56001,Albany_Wyoming,0.322
+56003,Big Horn_Wyoming,1.186
+56005,Campbell_Wyoming,0.055
+56007,Carbon_Wyoming,0.419
+56009,Converse_Wyoming,0.154
+56011,Crook_Wyoming,0.049
+56013,Fremont_Wyoming,0.329
+56015,Goshen_Wyoming,0.762
+56017,Hot Springs_Wyoming,0.136
+56019,Johnson_Wyoming,0.132
+56021,Laramie_Wyoming,0.166
+56023,Lincoln_Wyoming,0.312
+56025,Natrona_Wyoming,0.108
+56027,Niobrara_Wyoming,0.061
+56029,Park_Wyoming,0.168
+56031,Platte_Wyoming,0.449
+56033,Sheridan_Wyoming,0.353
+56035,Sublette_Wyoming,0.308
+56037,Sweetwater_Wyoming,0.106
+56039,Teton_Wyoming,0.036
+56041,Uinta_Wyoming,0.87
+56043,Washakie_Wyoming,0.851
+56045,Weston_Wyoming,0.043
