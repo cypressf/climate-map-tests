@@ -155,7 +155,6 @@ PublicadministrationPCT
 
 # First Street Flood Risk Data
 
-count_property
 count_fema_sfha
 pct_fema_sfha
 count_fs_risk_2020_5
@@ -173,7 +172,6 @@ pct_fs_risk_2050_500
 count_fs_fema_difference_2020
 pct_fs_fema_difference_2020
 avg_risk_score_all
-avg_risk_score_2_10
 avg_risk_fsf_2020_100
 avg_risk_fsf_2020_500
 avg_risk_score_sfha
