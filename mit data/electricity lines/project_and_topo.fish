@@ -20,5 +20,5 @@ delete d.properties.SUB_2,
 delete d.properties.SHAPE_Length,
 d' >temp-map.ndjson
 geo2topo -n electric_lines=temp-map.ndjson |
-    toposimplify -p -1 -f |
+    toposimplify -p 1 -f |
     topoquantize 1e5 >electric-lines-topo.json
