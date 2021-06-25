@@ -1,10 +1,10 @@
 #!/usr/local/bin/fish
 
 shp2json $argv[1] |
-geoproject -n 'd3.geoAlbersUsa().scale(1300).translate([487.5, 305])' |
-ndjson-split 'd.features' |
-ndjson-filter 'd.properties.sov_a3 === "USA"' |
-ndjson-map 'delete d.properties.featurecla,
+    geoproject -n 'd3.geoAlbersUsa().scale(1300).translate([487.5, 305])' |
+    ndjson-split 'd.features' |
+    ndjson-filter 'd.properties.sov_a3 === "USA"' |
+    ndjson-map 'delete d.properties.featurecla,
 delete d.properties.sov_a3,
 delete d.properties.note,
 delete d.properties.edited,
@@ -31,7 +31,7 @@ delete d.properties.continent,
 delete d.properties.expressway,
 delete d.properties.min_zoom,
 delete d.properties.min_label,
-d' > temp-map.ndjson
+d' >temp-map.ndjson
 geo2topo -n roads=temp-map.ndjson |
-toposimplify -p -1 -f |
-topoquantize 1e5 > roads-topo.json
+    toposimplify -p 1 -f |
+    topoquantize 1e5 >roads-topo.json
