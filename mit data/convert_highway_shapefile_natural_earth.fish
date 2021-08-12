@@ -31,7 +31,10 @@ delete d.properties.continent,
 delete d.properties.expressway,
 delete d.properties.min_zoom,
 delete d.properties.min_label,
+delete d.properties.name,
+delete d.properties.level,
+delete d.properties.type,
 d' >temp-map.ndjson
-geo2topo -n roads=temp-map.ndjson |
+geo2topo -n overlay=temp-map.ndjson |
     toposimplify -p 1 -f |
     topoquantize 1e5 >roads-topo.json
