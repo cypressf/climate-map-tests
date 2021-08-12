@@ -25,6 +25,6 @@ delete d.properties.source_id,
 delete d.properties.objectid,
 delete d.properties.listing_st,
 d' >temp-map.ndjson
-geo2topo -n critical-habitats=temp-map.ndjson |
+geo2topo -n overlay=temp-map.ndjson |
     toposimplify -p 1 -f |
     topoquantize 1e5 >critical-habitats-topo.json
