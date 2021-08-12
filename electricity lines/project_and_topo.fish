@@ -12,13 +12,14 @@ delete d.properties.SOURCEDATE,
 delete d.properties.VAL_METHOD,
 delete d.properties.VAL_DATE,
 delete d.properties.OWNER,
-delete d.properties.VOLTAGE,
 delete d.properties.VOLT_CLASS,
 delete d.properties.INFERRED,
 delete d.properties.SUB_1,
 delete d.properties.SUB_2,
 delete d.properties.SHAPE_Length,
+d.properties.V = d.properties.VOLTAGE,
+delete d.properties.VOLTAGE,
 d' >temp-map.ndjson
-geo2topo -n electric_lines=temp-map.ndjson |
+geo2topo -n overlay=temp-map.ndjson |
     toposimplify -p 1 -f |
     topoquantize 1e5 >electric-lines-topo.json
