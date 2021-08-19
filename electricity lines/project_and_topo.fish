@@ -1,7 +1,8 @@
 #!/usr/local/bin/fish
 geoproject 'd3.geoAlbersUsa().scale(1300).translate([487.5, 305])' $argv[1] |
     ndjson-split 'd.features' |
-    ndjson-map 'delete d.properties.OBJECTID,
+    ndjson-map 'd.id = d.properties.OBJECTID,
+delete d.properties.OBJECTID,
 delete d.properties.ID,
 delete d.properties.TYPE,
 delete d.properties.STATUS,
