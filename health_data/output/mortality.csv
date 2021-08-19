@@ -1,4 +1,4 @@
-mort_0-5,mort_25+,mort_5-25,Population_0-5,Population_25+,Population_5-25,STATEFP,COUNTYFP,mort_0-5_circ,mort_25+_circ,mort_5-25_circ,mort_0-5_resp,mort_25+_resp,mort_5-25_resp
+deaths_0-5,deaths_25+,deaths_5-25,Population_0-5,Population_25+,Population_5-25,STATEFP,COUNTYFP,deaths_0-5_circ,deaths_25+_circ,deaths_5-25_circ,deaths_0-5_resp,deaths_25+_resp,deaths_5-25_resp
 0.0,510.0,0.0,3191.0,37332.0,14893.0,1,1,0.0,157.0,0.0,0.0,46.0,0.0
 11.0,1933.0,23.0,11660.0,147731.0,49172.0,1,3,0.0,631.0,0.0,0.0,173.0,0.0
 0.0,235.0,0.0,1352.0,18326.0,6287.0,1,5,0.0,81.0,0.0,0.0,0.0,0.0
