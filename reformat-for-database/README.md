@@ -1,0 +1,3 @@
+# Reformat csv data for postgres database
+
+This is a quick hack to reformat the csv data for the postgres database. It doesn't do it perfectly, but it outputs something close enough to SQL to be useful to copy-paste into a migration file, with a few modifications. I'm keeping it here mostly in case I need to quickly add csv files to the database before I create an authenticated rust service to do so.
