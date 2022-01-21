@@ -11,11 +11,11 @@ poetry install
 ### yarn
 
 ```
-yarn global add topojson-client shapefile
+yarn global add topojson-client shapefile d3-geo-projection ndjson-cli topojson-server topojson-simplify
 ```
 
 ### npm
 
 ```
-npm install -g topojson-client shapefile
+npm install -g topojson-client shapefile d3-geo-projection ndjson-cli topojson-server topojson-simplify
 ```
