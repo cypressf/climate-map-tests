@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/fish
+#!/usr/bin/env fish
 
 shp2json "shape files/endangerspecies2.shp" |
     geoproject -n 'd3.geoAlbersUsa().scale(1300).translate([487.5, 305])' |

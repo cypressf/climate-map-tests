@@ -1,4 +1,4 @@
-#!/usr/local/bin/fish
+#!/usr/bin/env fish
 
 shp2json $argv[1] |
     geoproject -n 'd3.geoAlbersUsa().scale(1300).translate([487.5, 305])' |
