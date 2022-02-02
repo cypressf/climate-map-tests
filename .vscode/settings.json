@@ -2,6 +2,7 @@
     "python.formatting.provider": "black",
     "jupyter.jupyterServerType": "local",
     "cSpell.words": [
+        "astype",
         "COUNTYFP"
     ],
 }
