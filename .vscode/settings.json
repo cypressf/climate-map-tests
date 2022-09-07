@@ -1,7 +1,12 @@
 {
   "python.formatting.provider": "black",
   "jupyter.jupyterServerType": "local",
-  "cSpell.words": ["astype", "COUNTYFP"],
+  "cSpell.words": [
+    "astype",
+    "COUNTYFP",
+    "pycountry",
+    "seaborn"
+  ],
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#fbed80",
     "activityBar.activeBorder": "#06b9a5",
@@ -19,7 +24,8 @@
     "titleBar.activeBackground": "#f9e64f",
     "titleBar.activeForeground": "#15202b",
     "titleBar.inactiveBackground": "#f9e64f99",
-    "titleBar.inactiveForeground": "#15202b99"
+    "titleBar.inactiveForeground": "#15202b99",
+    "commandCenter.border": "#15202b99"
   },
   "peacock.color": "#f9e64f"
 }
