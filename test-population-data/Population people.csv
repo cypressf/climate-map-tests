@@ -1,0 +1,2828 @@
+fipsCode,state,county,value
+01001,Alabama,Autauga,21397
+01003,Alabama,Baldwin,80930
+01005,Alabama,Barbour,9345
+01007,Alabama,Bibb,6891
+01009,Alabama,Blount,20847
+01011,Alabama,Bullock,3521
+01013,Alabama,Butler,6506
+01015,Alabama,Calhoun,44605
+01017,Alabama,Chambers,13448
+01019,Alabama,Cherokee,10737
+01021,Alabama,Chilton,16927
+01023,Alabama,Choctaw,5300
+01025,Alabama,Clarke,9090
+01027,Alabama,Clay,5198
+01029,Alabama,Cleburne,5680
+01031,Alabama,Coffee,19924
+01033,Alabama,Colbert,21880
+01035,Alabama,Conecuh,4553
+01037,Alabama,Coosa,4032
+01039,Alabama,Covington,14852
+01041,Alabama,Crenshaw,4943
+01043,Alabama,Cullman,31034
+01045,Alabama,Dale,18806
+01047,Alabama,Dallas,15910
+01049,Alabama,DeKalb,26040
+01051,Alabama,Elmore,29708
+01053,Alabama,Escambia,13089
+01055,Alabama,Etowah,38942
+01057,Alabama,Fayette,6802
+01059,Alabama,Franklin,11048
+01061,Alabama,Geneva,10383
+01063,Alabama,Greene,2951
+01065,Alabama,Hale,5650
+01067,Alabama,Henry,6630
+01069,Alabama,Houston,39311
+01071,Alabama,Jackson,20695
+01073,Alabama,Jefferson,261231
+01075,Alabama,Lamar,5856
+01077,Alabama,Lauderdale,38471
+01079,Alabama,Lawrence,12677
+01081,Alabama,Lee,60237
+01083,Alabama,Limestone,32143
+01085,Alabama,Lowndes,4251
+01087,Alabama,Macon,7474
+01089,Alabama,Madison,148189
+01091,Alabama,Marengo,7361
+01093,Alabama,Marion,11997
+01095,Alabama,Marshall,34883
+01097,Alabama,Mobile,156251
+01099,Alabama,Monroe,8166
+01101,Alabama,Montgomery,89527
+01103,Alabama,Morgan,45918
+01105,Alabama,Perry,3070
+01107,Alabama,Pickens,7637
+01109,Alabama,Pike,11601
+01111,Alabama,Randolph,8702
+01113,Alabama,Russell,23262
+01115,Alabama,St. Clair,32036
+01117,Alabama,Shelby,79630
+01119,Alabama,Sumter,5202
+01121,Alabama,Talladega,31395
+01123,Alabama,Tallapoosa,16205
+01125,Alabama,Tuscaloosa,72461
+01127,Alabama,Walker,25019
+01129,Alabama,Washington,5990
+01131,Alabama,Wilcox,3854
+01133,Alabama,Winston,9592
+02016,Alaska,Aleutians West,1187
+02020,Alaska,Anchorage,106567
+02050,Alaska,Bethel,4489
+02090,Alaska,Fairbanks North Star,36188
+02110,Alaska,Juneau,12676
+02122,Alaska,Kenai Peninsula,21630
+02130,Alaska,Ketchikan Gateway,5397
+02150,Alaska,Kodiak Island,4261
+02170,Alaska,Matanuska-Susitna,31217
+02180,Alaska,Nome,2844
+02185,Alaska,North Slope,1979
+02188,Alaska,Northwest Arctic,1795
+02198,Alaska,Prince of Wales-Hyder,2371
+02220,Alaska,Sitka,3547
+02240,Alaska,Southeast Fairbanks,2170
+02261,Alaska,Valdez-Cordova,3177
+02290,Alaska,Yukon-Koyukuk,1856
+04001,Arizona,Apache,20867
+04003,Arizona,Cochise,50163
+04005,Arizona,Coconino,47447
+04007,Arizona,Gila,21945
+04009,Arizona,Graham,11017
+04011,Arizona,Greenlee,3132
+04012,Arizona,La Paz,9346
+04013,Arizona,Maricopa,1552096
+04015,Arizona,Mohave,86889
+04017,Arizona,Navajo,34990
+04019,Arizona,Pima,404739
+04021,Arizona,Pinal,141300
+04023,Arizona,Santa Cruz,15853
+04025,Arizona,Yavapai,98386
+04027,Arizona,Yuma,73098
+05001,Arkansas,Arkansas,7491
+05003,Arkansas,Ashley,7757
+05005,Arkansas,Baxter,18435
+05007,Arkansas,Benton,97249
+05009,Arkansas,Boone,15034
+05011,Arkansas,Bradley,4419
+05013,Arkansas,Calhoun,1850
+05015,Arkansas,Carroll,11139
+05017,Arkansas,Chicot,4068
+05019,Arkansas,Clark,8446
+05021,Arkansas,Clay,6444
+05023,Arkansas,Cleburne,10783
+05025,Arkansas,Cleveland,3217
+05027,Arkansas,Columbia,8562
+05029,Arkansas,Conway,8309
+05031,Arkansas,Craighead,41375
+05033,Arkansas,Crawford,23958
+05035,Arkansas,Crittenden,19074
+05037,Arkansas,Cross,6653
+05039,Arkansas,Dallas,2969
+05041,Arkansas,Desha,5204
+05043,Arkansas,Drew,7157
+05045,Arkansas,Faulkner,44575
+05047,Arkansas,Franklin,6723
+05049,Arkansas,Fulton,4973
+05051,Arkansas,Garland,40209
+05053,Arkansas,Grant,6863
+05055,Arkansas,Greene,17254
+05057,Arkansas,Hempstead,8094
+05059,Arkansas,Hot Spring,12599
+05061,Arkansas,Howard,5142
+05063,Arkansas,Independence,14322
+05065,Arkansas,Izard,4851
+05067,Arkansas,Jackson,6137
+05069,Arkansas,Jefferson,26801
+05071,Arkansas,Johnson,9682
+05073,Arkansas,Lafayette,2784
+05075,Arkansas,Lawrence,6463
+05077,Arkansas,Lee,3206
+05079,Arkansas,Lincoln,3773
+05081,Arkansas,Little River,5363
+05083,Arkansas,Logan,8417
+05085,Arkansas,Lonoke,26895
+05087,Arkansas,Madison,6279
+05089,Arkansas,Marion,6782
+05091,Arkansas,Miller,16426
+05093,Arkansas,Mississippi,16389
+05095,Arkansas,Monroe,3333
+05097,Arkansas,Montgomery,3754
+05099,Arkansas,Nevada,3397
+05101,Arkansas,Newton,2936
+05103,Arkansas,Ouachita,9658
+05105,Arkansas,Perry,3668
+05107,Arkansas,Phillips,7485
+05109,Arkansas,Pike,4280
+05111,Arkansas,Poinsett,9526
+05113,Arkansas,Polk,8243
+05115,Arkansas,Pope,22579
+05117,Arkansas,Prairie,3776
+05119,Arkansas,Pulaski,158051
+05121,Arkansas,Randolph,7355
+05123,Arkansas,St. Francis,9388
+05125,Arkansas,Saline,44075
+05127,Arkansas,Scott,3944
+05129,Arkansas,Searcy,3327
+05131,Arkansas,Sebastian,51228
+05133,Arkansas,Sevier,5885
+05135,Arkansas,Sharp,7447
+05137,Arkansas,Stone,4787
+05139,Arkansas,Union,15726
+05141,Arkansas,Van Buren,6813
+05143,Arkansas,Washington,87325
+05145,Arkansas,White,29055
+05147,Arkansas,Woodruff,2932
+05149,Arkansas,Yell,7503
+06001,California,Alameda,577177
+06005,California,Amador,14594
+06007,California,Butte,85320
+06009,California,Calaveras,16942
+06011,California,Colusa,7227
+06013,California,Contra Costa,394769
+06015,California,Del Norte,9945
+06017,California,El Dorado,70974
+06019,California,Fresno,307906
+06021,California,Glenn,10085
+06023,California,Humboldt,54679
+06025,California,Imperial,44829
+06027,California,Inyo,7950
+06029,California,Kern,270282
+06031,California,Kings,43452
+06033,California,Lake,25660
+06035,California,Lassen,9280
+06037,California,Los Angeles,3316795
+06039,California,Madera,44881
+06041,California,Marin,105432
+06043,California,Mariposa,7643
+06045,California,Mendocino,34408
+06047,California,Merced,80008
+06049,California,Modoc,3616
+06051,California,Mono,4765
+06053,California,Monterey,127155
+06055,California,Napa,48705
+06057,California,Nevada,40855
+06059,California,Orange,1037492
+06061,California,Placer,142855
+06063,California,Plumas,8450
+06065,California,Riverside,724893
+06067,California,Sacramento,543025
+06069,California,San Benito,18135
+06071,California,San Bernardino,636041
+06073,California,San Diego,1125286
+06075,California,San Francisco,362354
+06077,California,San Joaquin,228567
+06079,California,San Luis Obispo,105981
+06081,California,San Mateo,263543
+06083,California,Santa Barbara,145856
+06085,California,Santa Clara,640215
+06087,California,Santa Cruz,95818
+06089,California,Shasta,71181
+06093,California,Siskiyou,19240
+06095,California,Solano,149865
+06097,California,Sonoma,189374
+06099,California,Stanislaus,173898
+06101,California,Sutter,32636
+06103,California,Tehama,24189
+06105,California,Trinity,5939
+06107,California,Tulare,138238
+06109,California,Tuolumne,22502
+06111,California,Ventura,271040
+06113,California,Yolo,74296
+06115,California,Yuba,26354
+08001,Colorado,Adams,166450
+08003,Colorado,Alamosa,6162
+08005,Colorado,Arapahoe,240304
+08007,Colorado,Archuleta,5858
+08011,Colorado,Bent,1767
+08013,Colorado,Boulder,127415
+08014,Colorado,Broomfield,27470
+08015,Colorado,Chaffee,8231
+08019,Colorado,Clear Creek,4395
+08021,Colorado,Conejos,3183
+08025,Colorado,Crowley,1301
+08029,Colorado,Delta,11883
+08031,Colorado,Denver,301501
+08035,Colorado,Douglas,120709
+08037,Colorado,Eagle,18171
+08039,Colorado,Elbert,9280
+08041,Colorado,El Paso,257507
+08043,Colorado,Fremont,17136
+08045,Colorado,Garfield,21498
+08047,Colorado,Gilpin,2802
+08049,Colorado,Grand,5884
+08051,Colorado,Gunnison,6616
+08055,Colorado,Huerfano,3225
+08059,Colorado,Jefferson,232284
+08063,Colorado,Kit Carson,3004
+08065,Colorado,Lake,3392
+08067,Colorado,La Plata,21794
+08069,Colorado,Larimer,137021
+08071,Colorado,Las Animas,6670
+08073,Colorado,Lincoln,1518
+08075,Colorado,Logan,8393
+08077,Colorado,Mesa,61742
+08081,Colorado,Moffat,5366
+08083,Colorado,Montezuma,10655
+08085,Colorado,Montrose,17140
+08087,Colorado,Morgan,10928
+08089,Colorado,Otero,7722
+08093,Colorado,Park,6931
+08097,Colorado,Pitkin,7467
+08099,Colorado,Prowers,4888
+08101,Colorado,Pueblo,64314
+08103,Colorado,Rio Blanco,2301
+08105,Colorado,Rio Grande,4823
+08107,Colorado,Routt,9603
+08109,Colorado,Saguache,2860
+08113,Colorado,San Miguel,3552
+08117,Colorado,Summit,10641
+08119,Colorado,Teller,10248
+08123,Colorado,Weld,104671
+08125,Colorado,Yuma,4028
+09001,Connecticut,Fairfield,340189
+09003,Connecticut,Hartford,350408
+09005,Connecticut,Litchfield,74143
+09007,Connecticut,Middlesex,66971
+09009,Connecticut,New Haven,330572
+09011,Connecticut,New London,107827
+09013,Connecticut,Tolland,55683
+09015,Connecticut,Windham,44953
+10001,Delaware,Kent,65796
+10003,Delaware,New Castle,205829
+10005,Delaware,Sussex,91697
+11001,D.C.,District of Columbia,284386
+12001,Florida,Alachua,97995
+12003,Florida,Baker,8693
+12005,Florida,Bay,71422
+12007,Florida,Bradford,9115
+12009,Florida,Brevard,230417
+12011,Florida,Broward,690050
+12013,Florida,Calhoun,4501
+12015,Florida,Charlotte,76891
+12017,Florida,Citrus,63681
+12019,Florida,Clay,74333
+12021,Florida,Collier,142979
+12023,Florida,Columbia,25133
+12027,Florida,DeSoto,12072
+12029,Florida,Dixie,6504
+12031,Florida,Duval,359544
+12033,Florida,Escambia,120104
+12035,Florida,Flagler,42121
+12037,Florida,Franklin,4444
+12039,Florida,Gadsden,17149
+12041,Florida,Gilchrist,6464
+12043,Florida,Glades,4700
+12045,Florida,Gulf,5757
+12047,Florida,Hamilton,4381
+12049,Florida,Hardee,7863
+12051,Florida,Hendry,12527
+12053,Florida,Hernando,75348
+12055,Florida,Highlands,41740
+12057,Florida,Hillsborough,526175
+12059,Florida,Holmes,7092
+12061,Florida,Indian River,58612
+12063,Florida,Jackson,17149
+12065,Florida,Jefferson,5770
+12067,Florida,Lafayette,2175
+12069,Florida,Lake,134317
+12071,Florida,Lee,275965
+12073,Florida,Leon,113658
+12075,Florida,Levy,16374
+12077,Florida,Liberty,2459
+12079,Florida,Madison,6778
+12081,Florida,Manatee,145356
+12083,Florida,Marion,139172
+12085,Florida,Martin,64528
+12086,Florida,Miami-Dade,883372
+12087,Florida,Monroe,32068
+12089,Florida,Nassau,32603
+12091,Florida,Okaloosa,77962
+12093,Florida,Okeechobee,13904
+12095,Florida,Orange,461705
+12097,Florida,Osceola,103141
+12099,Florida,Palm Beach,554095
+12101,Florida,Pasco,204198
+12103,Florida,Pinellas,407546
+12105,Florida,Polk,235283
+12107,Florida,Putnam,28943
+12109,Florida,St. Johns,88773
+12111,Florida,St. Lucie,114761
+12113,Florida,Santa Rosa,63514
+12115,Florida,Sarasota,182842
+12117,Florida,Seminole,173668
+12119,Florida,Sumter,56230
+12121,Florida,Suwannee,14888
+12123,Florida,Taylor,7405
+12125,Florida,Union,3960
+12127,Florida,Volusia,216495
+12129,Florida,Wakulla,11200
+12131,Florida,Walton,27420
+12133,Florida,Washington,8827
+13001,Georgia,Appling,6656
+13003,Georgia,Atkinson,2880
+13005,Georgia,Bacon,3874
+13009,Georgia,Baldwin,16191
+13011,Georgia,Banks,6740
+13013,Georgia,Barrow,26305
+13015,Georgia,Bartow,37627
+13017,Georgia,Ben Hill,6443
+13019,Georgia,Berrien,7367
+13021,Georgia,Bibb,58116
+13023,Georgia,Bleckley,4176
+13025,Georgia,Brantley,6823
+13027,Georgia,Brooks,6335
+13029,Georgia,Bryan,13048
+13031,Georgia,Bulloch,27375
+13033,Georgia,Burke,8193
+13035,Georgia,Butts,8279
+13037,Georgia,Calhoun,1736
+13039,Georgia,Camden,19338
+13043,Georgia,Candler,4013
+13045,Georgia,Carroll,41903
+13047,Georgia,Catoosa,24778
+13049,Georgia,Charlton,3675
+13051,Georgia,Chatham,108568
+13053,Georgia,Chattahoochee,2570
+13055,Georgia,Chattooga,9260
+13057,Georgia,Cherokee,88137
+13059,Georgia,Clarke,48844
+13063,Georgia,Clayton,94279
+13065,Georgia,Clinch,2477
+13067,Georgia,Cobb,280374
+13069,Georgia,Coffee,14438
+13071,Georgia,Colquitt,15505
+13073,Georgia,Columbia,47215
+13075,Georgia,Cook,6217
+13077,Georgia,Coweta,52035
+13079,Georgia,Crawford,4510
+13081,Georgia,Crisp,8585
+13083,Georgia,Dade,6195
+13085,Georgia,Dawson,9041
+13087,Georgia,Decatur,10084
+13089,Georgia,DeKalb,282436
+13091,Georgia,Dodge,7628
+13093,Georgia,Dooly,5020
+13095,Georgia,Dougherty,34087
+13097,Georgia,Douglas,49187
+13099,Georgia,Early,4074
+13103,Georgia,Effingham,21172
+13105,Georgia,Elbert,7559
+13107,Georgia,Emanuel,8387
+13109,Georgia,Evans,4020
+13111,Georgia,Fannin,10408
+13113,Georgia,Fayette,40285
+13115,Georgia,Floyd,35679
+13117,Georgia,Forsyth,76753
+13119,Georgia,Franklin,8460
+13121,Georgia,Fulton,410576
+13123,Georgia,Gilmer,12021
+13127,Georgia,Glynn,34119
+13129,Georgia,Gordon,20561
+13131,Georgia,Grady,9136
+13133,Georgia,Greene,7132
+13135,Georgia,Gwinnett,293330
+13137,Georgia,Habersham,15139
+13139,Georgia,Hall,64352
+13141,Georgia,Hancock,2974
+13143,Georgia,Haralson,11259
+13145,Georgia,Harris,12156
+13147,Georgia,Hart,9853
+13149,Georgia,Heard,4502
+13151,Georgia,Henry,75984
+13153,Georgia,Houston,57056
+13155,Georgia,Irwin,3329
+13157,Georgia,Jackson,23166
+13159,Georgia,Jasper,5171
+13161,Georgia,Jeff Davis,5279
+13163,Georgia,Jefferson,5664
+13165,Georgia,Jenkins,3443
+13167,Georgia,Johnson,3393
+13169,Georgia,Jones,10701
+13171,Georgia,Lamar,6494
+13173,Georgia,Lanier,3714
+13175,Georgia,Laurens,17142
+13177,Georgia,Lee,10226
+13179,Georgia,Liberty,23485
+13181,Georgia,Lincoln,3475
+13183,Georgia,Long,5695
+13185,Georgia,Lowndes,41282
+13187,Georgia,Lumpkin,11570
+13189,Georgia,McDuffie,8153
+13191,Georgia,McIntosh,6042
+13193,Georgia,Macon,4696
+13195,Georgia,Madison,10744
+13197,Georgia,Marion,3408
+13199,Georgia,Meriwether,8051
+13201,Georgia,Miller,2333
+13205,Georgia,Mitchell,7982
+13207,Georgia,Monroe,9760
+13209,Georgia,Montgomery,3097
+13211,Georgia,Morgan,6942
+13213,Georgia,Murray,14385
+13215,Georgia,Muscogee,72759
+13217,Georgia,Newton,37018
+13219,Georgia,Oconee,13423
+13221,Georgia,Oglethorpe,5651
+13223,Georgia,Paulding,53299
+13225,Georgia,Peach,10136
+13227,Georgia,Pickens,11868
+13229,Georgia,Pierce,7048
+13231,Georgia,Pike,6143
+13233,Georgia,Polk,15038
+13235,Georgia,Pulaski,3687
+13237,Georgia,Putnam,8937
+13241,Georgia,Rabun,6662
+13243,Georgia,Randolph,2553
+13245,Georgia,Richmond,71400
+13247,Georgia,Rockdale,31076
+13249,Georgia,Schley,1864
+13251,Georgia,Screven,5098
+13253,Georgia,Seminole,3363
+13255,Georgia,Spalding,24336
+13257,Georgia,Stephens,9543
+13259,Georgia,Stewart,1816
+13261,Georgia,Sumter,11510
+13263,Georgia,Talbot,2809
+13267,Georgia,Tattnall,8241
+13269,Georgia,Taylor,3473
+13271,Georgia,Telfair,4668
+13273,Georgia,Terrell,3399
+13275,Georgia,Thomas,17595
+13277,Georgia,Tift,15144
+13279,Georgia,Toombs,10030
+13281,Georgia,Towns,4898
+13283,Georgia,Treutlen,2490
+13285,Georgia,Troup,24928
+13287,Georgia,Turner,3169
+13289,Georgia,Twiggs,3044
+13291,Georgia,Union,9743
+13293,Georgia,Upson,10154
+13295,Georgia,Walker,25975
+13297,Georgia,Walton,31670
+13299,Georgia,Ware,13823
+13301,Georgia,Warren,2244
+13303,Georgia,Washington,7503
+13305,Georgia,Wayne,10400
+13309,Georgia,Wheeler,1862
+13311,Georgia,White,11695
+13313,Georgia,Whitfield,35629
+13315,Georgia,Wilcox,2575
+13317,Georgia,Wilkes,3979
+13319,Georgia,Wilkinson,3185
+13321,Georgia,Worth,8002
+15001,Hawaii,Hawaii,69453
+15003,Hawaii,Honolulu,312795
+15007,Hawaii,Kauai,22658
+15009,Hawaii,Maui,54479
+16001,Idaho,Ada,173353
+16005,Idaho,Bannock,31155
+16007,Idaho,Bear Lake,2424
+16009,Idaho,Benewah,3418
+16011,Idaho,Bingham,14989
+16013,Idaho,Blaine,7995
+16015,Idaho,Boise,3205
+16017,Idaho,Bonner,17537
+16019,Idaho,Bonneville,39768
+16021,Idaho,Boundary,4653
+16027,Idaho,Canyon,72807
+16029,Idaho,Caribou,2538
+16031,Idaho,Cassia,7711
+16035,Idaho,Clearwater,3555
+16039,Idaho,Elmore,10606
+16041,Idaho,Franklin,4397
+16043,Idaho,Fremont,4347
+16045,Idaho,Gem,6683
+16047,Idaho,Gooding,5469
+16049,Idaho,Idaho,6407
+16051,Idaho,Jefferson,8791
+16053,Idaho,Jerome,8022
+16055,Idaho,Kootenai,62304
+16057,Idaho,Latah,15422
+16059,Idaho,Lemhi,3582
+16063,Idaho,Lincoln,1724
+16065,Idaho,Madison,11016
+16067,Idaho,Minidoka,7250
+16069,Idaho,Nez Perce,16384
+16073,Idaho,Owyhee,4321
+16075,Idaho,Payette,8876
+16077,Idaho,Power,2633
+16079,Idaho,Shoshone,5466
+16081,Idaho,Teton,3707
+16083,Idaho,Twin Falls,31146
+16085,Idaho,Valley,3869
+16087,Idaho,Washington,4035
+17001,Illinois,Adams,27112
+17003,Illinois,Alexander,2154
+17005,Illinois,Bond,6299
+17007,Illinois,Boone,18571
+17009,Illinois,Brown,2055
+17011,Illinois,Bureau,13698
+17015,Illinois,Carroll,6508
+17017,Illinois,Cass,5043
+17019,Illinois,Champaign,82369
+17021,Illinois,Christian,13901
+17023,Illinois,Clark,6720
+17025,Illinois,Clay,5696
+17027,Illinois,Clinton,14353
+17029,Illinois,Coles,20926
+17031,Illinois,Cook,1972108
+17033,Illinois,Crawford,7666
+17035,Illinois,Cumberland,4299
+17037,Illinois,DeKalb,38150
+17039,Illinois,De Witt,6694
+17041,Illinois,Douglas,7613
+17043,Illinois,DuPage,342791
+17045,Illinois,Edgar,7542
+17047,Illinois,Edwards,2773
+17049,Illinois,Effingham,13877
+17051,Illinois,Fayette,7737
+17053,Illinois,Ford,5771
+17055,Illinois,Franklin,16235
+17057,Illinois,Fulton,13940
+17059,Illinois,Gallatin,2293
+17061,Illinois,Greene,4949
+17063,Illinois,Grundy,19676
+17065,Illinois,Hamilton,3400
+17067,Illinois,Hancock,7409
+17071,Illinois,Henderson,2977
+17073,Illinois,Henry,19856
+17075,Illinois,Iroquois,11741
+17077,Illinois,Jackson,23883
+17079,Illinois,Jasper,3711
+17081,Illinois,Jefferson,14985
+17083,Illinois,Jersey,8499
+17085,Illinois,Jo Daviess,9970
+17087,Illinois,Johnson,4303
+17089,Illinois,Kane,179637
+17091,Illinois,Kankakee,39796
+17093,Illinois,Kendall,40721
+17095,Illinois,Knox,20680
+17097,Illinois,Lake,246122
+17099,Illinois,LaSalle,45095
+17101,Illinois,Lawrence,6306
+17103,Illinois,Lee,13788
+17105,Illinois,Livingston,14307
+17107,Illinois,Logan,10797
+17109,Illinois,McDonough,11408
+17111,Illinois,McHenry,112453
+17113,Illinois,McLean,65845
+17115,Illinois,Macon,43912
+17117,Illinois,Macoupin,18875
+17119,Illinois,Madison,107659
+17121,Illinois,Marion,15946
+17123,Illinois,Marshall,4884
+17125,Illinois,Mason,5977
+17127,Illinois,Massac,5822
+17129,Illinois,Menard,5188
+17131,Illinois,Mercer,6516
+17133,Illinois,Monroe,13586
+17135,Illinois,Montgomery,11522
+17137,Illinois,Morgan,13719
+17139,Illinois,Moultrie,5959
+17141,Illinois,Ogle,21021
+17143,Illinois,Peoria,73253
+17145,Illinois,Perry,8433
+17147,Illinois,Piatt,6692
+17149,Illinois,Pike,6309
+17153,Illinois,Pulaski,2095
+17155,Illinois,Putnam,2413
+17157,Illinois,Randolph,11883
+17159,Illinois,Richland,6452
+17161,Illinois,Rock Island,60546
+17163,Illinois,St. Clair,104105
+17165,Illinois,Saline,9972
+17167,Illinois,Sangamon,83711
+17169,Illinois,Schuyler,2775
+17171,Illinois,Scott,1939
+17173,Illinois,Shelby,9189
+17175,Illinois,Stark,2315
+17177,Illinois,Stephenson,19739
+17179,Illinois,Tazewell,54291
+17181,Illinois,Union,6654
+17183,Illinois,Vermilion,31151
+17185,Illinois,Wabash,4839
+17187,Illinois,Warren,6862
+17189,Illinois,Washington,6020
+17191,Illinois,Wayne,7051
+17193,Illinois,White,6041
+17195,Illinois,Whiteside,23084
+17197,Illinois,Will,229498
+17199,Illinois,Williamson,27029
+17201,Illinois,Winnebago,114779
+17203,Illinois,Woodford,14499
+18001,Indiana,Adams,12481
+18003,Indiana,Allen,145065
+18005,Indiana,Bartholomew,31452
+18007,Indiana,Benton,3432
+18009,Indiana,Blackford,5235
+18011,Indiana,Boone,25485
+18013,Indiana,Brown,6189
+18015,Indiana,Carroll,8002
+18017,Indiana,Cass,14688
+18019,Indiana,Clark,44200
+18021,Indiana,Clay,10543
+18023,Indiana,Clinton,12033
+18025,Indiana,Crawford,3835
+18027,Indiana,Daviess,11227
+18029,Indiana,Dearborn,18870
+18031,Indiana,Decatur,10353
+18033,Indiana,DeKalb,16801
+18035,Indiana,Delaware,46026
+18037,Indiana,Dubois,16893
+18039,Indiana,Elkhart,71718
+18041,Indiana,Fayette,9584
+18043,Indiana,Floyd,29189
+18045,Indiana,Fountain,6974
+18047,Indiana,Franklin,8687
+18049,Indiana,Fulton,7799
+18051,Indiana,Gibson,13340
+18053,Indiana,Grant,26372
+18055,Indiana,Greene,12781
+18057,Indiana,Hamilton,119789
+18059,Indiana,Hancock,28740
+18061,Indiana,Harrison,14403
+18063,Indiana,Hendricks,59015
+18065,Indiana,Henry,18304
+18067,Indiana,Howard,34701
+18069,Indiana,Huntington,14742
+18071,Indiana,Jackson,16753
+18073,Indiana,Jasper,12533
+18075,Indiana,Jay,8174
+18077,Indiana,Jefferson,12632
+18079,Indiana,Jennings,10792
+18081,Indiana,Johnson,56628
+18083,Indiana,Knox,15038
+18085,Indiana,Kosciusko,30997
+18087,Indiana,LaGrange,12325
+18089,Indiana,Lake,186731
+18091,Indiana,LaPorte,43039
+18093,Indiana,Lawrence,18781
+18095,Indiana,Madison,51003
+18097,Indiana,Marion,372358
+18099,Indiana,Marshall,17304
+18101,Indiana,Martin,4187
+18103,Indiana,Miami,13611
+18105,Indiana,Monroe,55624
+18107,Indiana,Montgomery,15382
+18109,Indiana,Morgan,26034
+18111,Indiana,Newton,5573
+18113,Indiana,Noble,18276
+18115,Indiana,Ohio,2555
+18117,Indiana,Orange,7898
+18119,Indiana,Owen,8776
+18121,Indiana,Parke,6057
+18123,Indiana,Perry,7615
+18125,Indiana,Pike,5129
+18127,Indiana,Porter,64517
+18129,Indiana,Posey,10155
+18131,Indiana,Pulaski,5151
+18133,Indiana,Putnam,13543
+18135,Indiana,Randolph,10229
+18137,Indiana,Ripley,10992
+18139,Indiana,Rush,6667
+18141,Indiana,St. Joseph,101872
+18143,Indiana,Scott,8971
+18145,Indiana,Shelby,17823
+18147,Indiana,Spencer,8127
+18149,Indiana,Starke,8549
+18151,Indiana,Steuben,14261
+18153,Indiana,Sullivan,7644
+18155,Indiana,Switzerland,4349
+18157,Indiana,Tippecanoe,70526
+18159,Indiana,Tipton,6376
+18161,Indiana,Union,2823
+18163,Indiana,Vanderburgh,75607
+18165,Indiana,Vermillion,6664
+18167,Indiana,Vigo,41994
+18169,Indiana,Wabash,12862
+18171,Indiana,Warren,3357
+18173,Indiana,Warrick,24514
+18175,Indiana,Washington,10940
+18177,Indiana,Wayne,26644
+18179,Indiana,Wells,10888
+18181,Indiana,White,9879
+18183,Indiana,Whitley,13742
+19001,Iowa,Adair,3200
+19005,Iowa,Allamakee,5953
+19007,Iowa,Appanoose,5353
+19009,Iowa,Audubon,2649
+19011,Iowa,Benton,10306
+19013,Iowa,Black Hawk,52905
+19015,Iowa,Boone,10954
+19017,Iowa,Bremer,9676
+19019,Iowa,Buchanan,8029
+19021,Iowa,Buena Vista,7524
+19023,Iowa,Butler,6254
+19025,Iowa,Calhoun,4146
+19027,Iowa,Carroll,8726
+19029,Iowa,Cass,5921
+19031,Iowa,Cedar,7391
+19033,Iowa,Cerro Gordo,19241
+19035,Iowa,Cherokee,5319
+19037,Iowa,Chickasaw,5173
+19039,Iowa,Clarke,3895
+19041,Iowa,Clay,7212
+19043,Iowa,Clayton,7510
+19045,Iowa,Clinton,19635
+19047,Iowa,Crawford,6437
+19049,Iowa,Dallas,34399
+19051,Iowa,Davis,3176
+19053,Iowa,Decatur,3200
+19055,Iowa,Delaware,6907
+19057,Iowa,Des Moines,16891
+19059,Iowa,Dickinson,8174
+19061,Iowa,Dubuque,38210
+19063,Iowa,Emmet,4036
+19065,Iowa,Fayette,8200
+19067,Iowa,Floyd,6903
+19069,Iowa,Franklin,4192
+19071,Iowa,Fremont,2945
+19073,Iowa,Greene,3971
+19075,Iowa,Grundy,5155
+19077,Iowa,Guthrie,4452
+19079,Iowa,Hamilton,6259
+19081,Iowa,Hancock,4790
+19083,Iowa,Hardin,7148
+19085,Iowa,Harrison,6019
+19087,Iowa,Henry,7743
+19089,Iowa,Howard,3810
+19091,Iowa,Humboldt,4174
+19093,Iowa,Ida,3011
+19095,Iowa,Iowa,6780
+19097,Iowa,Jackson,8239
+19099,Iowa,Jasper,14574
+19101,Iowa,Jefferson,6754
+19103,Iowa,Johnson,59134
+19105,Iowa,Jones,8130
+19107,Iowa,Keokuk,4394
+19109,Iowa,Kossuth,6646
+19111,Iowa,Lee,14233
+19113,Iowa,Linn,90877
+19115,Iowa,Louisa,4335
+19117,Iowa,Lucas,3701
+19119,Iowa,Lyon,4548
+19121,Iowa,Madison,6462
+19123,Iowa,Mahaska,8927
+19125,Iowa,Marion,13365
+19127,Iowa,Marshall,15419
+19129,Iowa,Mills,5554
+19131,Iowa,Mitchell,4355
+19133,Iowa,Monona,4000
+19135,Iowa,Monroe,3294
+19137,Iowa,Montgomery,4554
+19139,Iowa,Muscatine,16660
+19141,Iowa,O'Brien,6169
+19143,Iowa,Osceola,2633
+19145,Iowa,Page,6280
+19147,Iowa,Palo Alto,3702
+19149,Iowa,Plymouth,10250
+19151,Iowa,Pocahontas,3215
+19153,Iowa,Polk,187798
+19155,Iowa,Pottawattamie,36799
+19157,Iowa,Poweshiek,7767
+19161,Iowa,Sac,4313
+19163,Iowa,Scott,67021
+19165,Iowa,Shelby,5030
+19167,Iowa,Sioux,12248
+19169,Iowa,Story,37811
+19171,Iowa,Tama,6767
+19173,Iowa,Taylor,2616
+19175,Iowa,Union,5176
+19177,Iowa,Van Buren,2894
+19179,Iowa,Wapello,14481
+19181,Iowa,Warren,19258
+19183,Iowa,Washington,8832
+19185,Iowa,Wayne,2689
+19187,Iowa,Webster,15306
+19189,Iowa,Winnebago,4577
+19191,Iowa,Winneshiek,8257
+19193,Iowa,Woodbury,39016
+19195,Iowa,Worth,3172
+19197,Iowa,Wright,5718
+20001,Kansas,Allen,5372
+20003,Kansas,Anderson,3101
+20005,Kansas,Atchison,5958
+20009,Kansas,Barton,10624
+20011,Kansas,Bourbon,5636
+20013,Kansas,Brown,3872
+20015,Kansas,Butler,24870
+20021,Kansas,Cherokee,7929
+20027,Kansas,Clay,3514
+20029,Kansas,Cloud,3689
+20031,Kansas,Coffey,3585
+20035,Kansas,Cowley,13499
+20037,Kansas,Crawford,15284
+20041,Kansas,Dickinson,7911
+20043,Kansas,Doniphan,3046
+20045,Kansas,Douglas,46936
+20051,Kansas,Ellis,11544
+20053,Kansas,Ellsworth,2388
+20055,Kansas,Finney,12519
+20057,Kansas,Ford,11344
+20059,Kansas,Franklin,10118
+20061,Kansas,Geary,12684
+20067,Kansas,Grant,2551
+20069,Kansas,Gray,2151
+20073,Kansas,Greenwood,2769
+20077,Kansas,Harper,2265
+20079,Kansas,Harvey,13290
+20085,Kansas,Jackson,5465
+20087,Kansas,Jefferson,7575
+20091,Kansas,Johnson,228592
+20095,Kansas,Kingman,3133
+20099,Kansas,Labette,8176
+20103,Kansas,Leavenworth,27253
+20107,Kansas,Linn,4497
+20111,Kansas,Lyon,13569
+20113,Kansas,McPherson,12334
+20115,Kansas,Marion,4846
+20117,Kansas,Marshall,4085
+20121,Kansas,Miami,12835
+20123,Kansas,Mitchell,2570
+20125,Kansas,Montgomery,13576
+20127,Kansas,Morris,2280
+20131,Kansas,Nemaha,4007
+20133,Kansas,Neosho,6601
+20137,Kansas,Norton,1830
+20139,Kansas,Osage,6607
+20143,Kansas,Ottawa,2446
+20145,Kansas,Pawnee,2448
+20147,Kansas,Phillips,2316
+20149,Kansas,Pottawatomie,8698
+20151,Kansas,Pratt,3652
+20155,Kansas,Reno,25014
+20159,Kansas,Rice,3917
+20161,Kansas,Riley,26490
+20163,Kansas,Rooks,2176
+20167,Kansas,Russell,3015
+20169,Kansas,Saline,21959
+20173,Kansas,Sedgwick,197229
+20175,Kansas,Seward,7321
+20177,Kansas,Shawnee,72267
+20181,Kansas,Sherman,2544
+20189,Kansas,Stevens,1814
+20191,Kansas,Sumner,9416
+20193,Kansas,Thomas,3375
+20197,Kansas,Wabaunsee,2744
+20201,Kansas,Washington,2332
+20205,Kansas,Wilson,3712
+20209,Kansas,Wyandotte,60128
+21001,Kentucky,Adair,6977
+21003,Kentucky,Allen,7605
+21005,Kentucky,Anderson,8694
+21007,Kentucky,Ballard,3065
+21009,Kentucky,Barren,16931
+21011,Kentucky,Bath,4827
+21013,Kentucky,Bell,10624
+21015,Kentucky,Boone,46997
+21017,Kentucky,Bourbon,8106
+21019,Kentucky,Boyd,18210
+21021,Kentucky,Boyle,11023
+21023,Kentucky,Bracken,3318
+21025,Kentucky,Breathitt,5358
+21027,Kentucky,Breckinridge,7598
+21029,Kentucky,Bullitt,29690
+21031,Kentucky,Butler,4958
+21033,Kentucky,Caldwell,5163
+21035,Kentucky,Calloway,14996
+21037,Kentucky,Campbell,36746
+21041,Kentucky,Carroll,4101
+21043,Kentucky,Carter,9606
+21045,Kentucky,Casey,6099
+21047,Kentucky,Christian,25721
+21049,Kentucky,Clark,14509
+21051,Kentucky,Clay,7622
+21053,Kentucky,Clinton,3985
+21055,Kentucky,Crittenden,3567
+21057,Kentucky,Cumberland,2616
+21059,Kentucky,Daviess,40179
+21061,Kentucky,Edmonson,4885
+21063,Kentucky,Elliott,2523
+21065,Kentucky,Estill,5499
+21067,Kentucky,Fayette,129784
+21069,Kentucky,Fleming,5841
+21071,Kentucky,Floyd,15000
+21073,Kentucky,Franklin,21076
+21075,Kentucky,Fulton,2441
+21077,Kentucky,Gallatin,3105
+21079,Kentucky,Garrard,6706
+21081,Kentucky,Grant,9141
+21083,Kentucky,Graves,14316
+21085,Kentucky,Grayson,9758
+21087,Kentucky,Green,4413
+21089,Kentucky,Greenup,14056
+21091,Kentucky,Hancock,3311
+21093,Kentucky,Hardin,41646
+21095,Kentucky,Harlan,11134
+21097,Kentucky,Harrison,7283
+21099,Kentucky,Hart,7351
+21101,Kentucky,Henderson,18643
+21103,Kentucky,Henry,6044
+21107,Kentucky,Hopkins,18588
+21109,Kentucky,Jackson,5484
+21111,Kentucky,Jefferson,312679
+21113,Kentucky,Jessamine,18821
+21115,Kentucky,Johnson,8488
+21117,Kentucky,Kenton,63966
+21119,Kentucky,Knott,6388
+21121,Kentucky,Knox,11961
+21123,Kentucky,Larue,5741
+21125,Kentucky,Laurel,22573
+21127,Kentucky,Lawrence,5784
+21129,Kentucky,Lee,2839
+21131,Kentucky,Leslie,4076
+21133,Kentucky,Letcher,9721
+21135,Kentucky,Lewis,5268
+21137,Kentucky,Lincoln,9697
+21139,Kentucky,Livingston,3857
+21141,Kentucky,Logan,10418
+21143,Kentucky,Lyon,3333
+21145,Kentucky,McCracken,27854
+21147,Kentucky,McCreary,6052
+21149,Kentucky,McLean,3809
+21151,Kentucky,Madison,33359
+21153,Kentucky,Magoffin,5020
+21155,Kentucky,Marion,7405
+21157,Kentucky,Marshall,13121
+21159,Kentucky,Martin,4153
+21161,Kentucky,Mason,6700
+21163,Kentucky,Meade,10685
+21165,Kentucky,Menifee,2651
+21167,Kentucky,Mercer,8556
+21169,Kentucky,Metcalfe,4074
+21171,Kentucky,Monroe,4491
+21173,Kentucky,Montgomery,10481
+21175,Kentucky,Morgan,4865
+21177,Kentucky,Muhlenberg,11351
+21179,Kentucky,Nelson,17853
+21181,Kentucky,Nicholas,2804
+21183,Kentucky,Ohio,9122
+21185,Kentucky,Oldham,20911
+21187,Kentucky,Owen,3995
+21191,Kentucky,Pendleton,5253
+21193,Kentucky,Perry,11226
+21195,Kentucky,Pike,25702
+21197,Kentucky,Powell,4770
+21199,Kentucky,Pulaski,25301
+21203,Kentucky,Rockcastle,6544
+21205,Kentucky,Rowan,8623
+21207,Kentucky,Russell,6922
+21209,Kentucky,Scott,20551
+21211,Kentucky,Shelby,16624
+21213,Kentucky,Simpson,7028
+21215,Kentucky,Spencer,6763
+21217,Kentucky,Taylor,9857
+21219,Kentucky,Todd,4644
+21221,Kentucky,Trigg,5892
+21223,Kentucky,Trimble,3498
+21225,Kentucky,Union,5374
+21227,Kentucky,Warren,48224
+21229,Kentucky,Washington,4581
+21231,Kentucky,Wayne,8231
+21233,Kentucky,Webster,4953
+21235,Kentucky,Whitley,12620
+21237,Kentucky,Wolfe,2898
+21239,Kentucky,Woodford,10355
+22001,Louisiana,Acadia,22236
+22003,Louisiana,Allen,7925
+22005,Louisiana,Ascension,43032
+22007,Louisiana,Assumption,8552
+22009,Louisiana,Avoyelles,15163
+22011,Louisiana,Beauregard,13520
+22013,Louisiana,Bienville,5812
+22015,Louisiana,Bossier,49377
+22017,Louisiana,Caddo,95864
+22019,Louisiana,Calcasieu,77780
+22021,Louisiana,Caldwell,3665
+22023,Louisiana,Cameron,2734
+22025,Louisiana,Catahoula,3364
+22027,Louisiana,Claiborne,5917
+22029,Louisiana,Concordia,7162
+22031,Louisiana,De Soto,10821
+22033,Louisiana,East Baton Rouge,164346
+22035,Louisiana,East Carroll,2037
+22037,Louisiana,East Feliciana,6959
+22039,Louisiana,Evangeline,12172
+22041,Louisiana,Franklin,7423
+22043,Louisiana,Grant,6989
+22045,Louisiana,Iberia,26184
+22047,Louisiana,Iberville,10903
+22049,Louisiana,Jackson,5971
+22051,Louisiana,Jefferson,169452
+22053,Louisiana,Jefferson Davis,11726
+22055,Louisiana,Lafayette,91543
+22057,Louisiana,Lafourche,36895
+22059,Louisiana,La Salle,4814
+22061,Louisiana,Lincoln,17712
+22063,Louisiana,Livingston,48410
+22065,Louisiana,Madison,3832
+22067,Louisiana,Morehouse,9732
+22069,Louisiana,Natchitoches,14659
+22071,Louisiana,Orleans,153819
+22073,Louisiana,Ouachita,56556
+22075,Louisiana,Plaquemines,8919
+22077,Louisiana,Pointe Coupee,8960
+22079,Louisiana,Rapides,48488
+22081,Louisiana,Red River,3372
+22083,Louisiana,Richland,7459
+22085,Louisiana,Sabine,9158
+22087,Louisiana,St. Bernard,15005
+22089,Louisiana,St. Charles,19212
+22091,Louisiana,St. Helena,3857
+22093,Louisiana,St. James,7719
+22095,Louisiana,St. John the Baptist,15270
+22097,Louisiana,St. Landry,30485
+22099,Louisiana,St. Martin,19749
+22101,Louisiana,St. Mary,19856
+22103,Louisiana,St. Tammany,92962
+22105,Louisiana,Tangipahoa,47597
+22109,Louisiana,Terrebonne,39972
+22111,Louisiana,Union,7582
+22113,Louisiana,Vermilion,22086
+22115,Louisiana,Vernon,17696
+22117,Louisiana,Washington,17613
+22119,Louisiana,Webster,16551
+22121,Louisiana,West Baton Rouge,9643
+22123,Louisiana,West Carroll,4084
+22125,Louisiana,West Feliciana,3869
+22127,Louisiana,Winn,5483
+23001,Maine,Androscoggin,45630
+23003,Maine,Aroostook,29516
+23005,Maine,Cumberland,120644
+23007,Maine,Franklin,11848
+23009,Maine,Hancock,23661
+23011,Maine,Kennebec,52105
+23013,Maine,Knox,17020
+23015,Maine,Lincoln,15336
+23017,Maine,Oxford,21338
+23019,Maine,Penobscot,62156
+23021,Maine,Piscataquis,7025
+23023,Maine,Sagadahoc,15980
+23025,Maine,Somerset,21321
+23027,Maine,Waldo,17236
+23029,Maine,Washington,13791
+23031,Maine,York,85314
+24001,Maryland,Allegany,27399
+24003,Maryland,Anne Arundel,209814
+24005,Maryland,Baltimore County,313519
+24009,Maryland,Calvert,31973
+24011,Maryland,Caroline,12024
+24013,Maryland,Carroll,60758
+24015,Maryland,Cecil,37058
+24017,Maryland,Charles,56520
+24019,Maryland,Dorchester,13183
+24021,Maryland,Frederick,92526
+24023,Maryland,Garrett,12425
+24025,Maryland,Harford,93955
+24027,Maryland,Howard,114170
+24029,Maryland,Kent,8025
+24031,Maryland,Montgomery,370950
+24033,Maryland,Prince George's,311343
+24035,Maryland,Queen Anne's,18577
+24037,Maryland,St. Mary's,40552
+24039,Maryland,Somerset,8574
+24041,Maryland,Talbot,16826
+24043,Maryland,Washington,56035
+24045,Maryland,Wicomico,37793
+24047,Maryland,Worcester,22089
+24510,Maryland,Baltimore City,239116
+25001,Massachusetts,Barnstable,94323
+25003,Massachusetts,Berkshire,54813
+25005,Massachusetts,Bristol,217912
+25007,Massachusetts,Dukes,6765
+25009,Massachusetts,Essex,294202
+25011,Massachusetts,Franklin,30569
+25013,Massachusetts,Hampden,179423
+25015,Massachusetts,Hampshire,58838
+25017,Massachusetts,Middlesex,604384
+25019,Massachusetts,Nantucket,3713
+25021,Massachusetts,Norfolk,265300
+25023,Massachusetts,Plymouth,187460
+25025,Massachusetts,Suffolk,309844
+25027,Massachusetts,Worcester,309951
+26001,Michigan,Alcona,4988
+26003,Michigan,Alger,3007
+26005,Michigan,Allegan,43416
+26007,Michigan,Alpena,12752
+26009,Michigan,Antrim,9899
+26011,Michigan,Arenac,6571
+26013,Michigan,Baraga,3107
+26015,Michigan,Barry,24296
+26017,Michigan,Bay,44339
+26019,Michigan,Benzie,6792
+26021,Michigan,Berrien,63665
+26023,Michigan,Branch,16650
+26025,Michigan,Calhoun,53991
+26027,Michigan,Cass,21019
+26029,Michigan,Charlevoix,11503
+26031,Michigan,Cheboygan,11195
+26033,Michigan,Chippewa,13999
+26035,Michigan,Clare,12199
+26037,Michigan,Clinton,29728
+26039,Michigan,Crawford,6141
+26041,Michigan,Delta,16234
+26043,Michigan,Dickinson,11231
+26045,Michigan,Eaton,44480
+26047,Michigan,Emmet,14463
+26049,Michigan,Genesee,167902
+26051,Michigan,Gladwin,11047
+26053,Michigan,Gogebic,6744
+26055,Michigan,Grand Traverse,37319
+26057,Michigan,Gratiot,15035
+26059,Michigan,Hillsdale,18107
+26061,Michigan,Houghton,13386
+26063,Michigan,Huron,13847
+26065,Michigan,Ingham,112840
+26067,Michigan,Ionia,22964
+26069,Michigan,Iosco,11669
+26071,Michigan,Iron,5225
+26073,Michigan,Isabella,24739
+26075,Michigan,Jackson,61805
+26077,Michigan,Kalamazoo,103445
+26079,Michigan,Kalkaska,7145
+26081,Michigan,Kent,241746
+26085,Michigan,Lake,4631
+26087,Michigan,Lapeer,33700
+26089,Michigan,Leelanau,9139
+26091,Michigan,Lenawee,38345
+26093,Michigan,Livingston,72000
+26095,Michigan,Luce,2231
+26097,Michigan,Mackinac,5269
+26099,Michigan,Macomb,346402
+26101,Michigan,Manistee,9426
+26103,Michigan,Marquette,26552
+26105,Michigan,Mason,12186
+26107,Michigan,Mecosta,15808
+26109,Michigan,Menominee,10627
+26111,Michigan,Midland,34199
+26113,Michigan,Missaukee,6055
+26115,Michigan,Monroe,59929
+26117,Michigan,Montcalm,23913
+26119,Michigan,Montmorency,4452
+26121,Michigan,Muskegon,65939
+26123,Michigan,Newaygo,19161
+26125,Michigan,Oakland,504585
+26127,Michigan,Oceana,10156
+26129,Michigan,Ogemaw,9184
+26131,Michigan,Ontonagon,2793
+26133,Michigan,Osceola,9181
+26135,Michigan,Oscoda,3806
+26137,Michigan,Otsego,9944
+26139,Michigan,Ottawa,102610
+26141,Michigan,Presque Isle,5797
+26143,Michigan,Roscommon,11139
+26145,Michigan,Saginaw,78933
+26147,Michigan,St. Clair,64850
+26149,Michigan,St. Joseph,24150
+26151,Michigan,Sanilac,17499
+26153,Michigan,Schoolcraft,3468
+26155,Michigan,Shiawassee,27593
+26157,Michigan,Tuscola,21777
+26159,Michigan,Van Buren,29411
+26161,Michigan,Washtenaw,141245
+26163,Michigan,Wayne,682282
+26165,Michigan,Wexford,12963
+27001,Minnesota,Aitkin,7681
+27003,Minnesota,Anoka,128198
+27005,Minnesota,Becker,13617
+27007,Minnesota,Beltrami,17372
+27009,Minnesota,Benton,16452
+27013,Minnesota,Blue Earth,26091
+27015,Minnesota,Brown,10764
+27017,Minnesota,Carlton,13613
+27019,Minnesota,Carver,36754
+27021,Minnesota,Cass,13164
+27023,Minnesota,Chippewa,5209
+27025,Minnesota,Chisago,20242
+27027,Minnesota,Clay,24364
+27029,Minnesota,Clearwater,3405
+27031,Minnesota,Cook,2691
+27033,Minnesota,Cottonwood,4846
+27035,Minnesota,Crow Wing,26820
+27037,Minnesota,Dakota,161488
+27039,Minnesota,Dodge,7756
+27041,Minnesota,Douglas,16663
+27043,Minnesota,Faribault,6137
+27045,Minnesota,Fillmore,8616
+27047,Minnesota,Freeborn,13009
+27049,Minnesota,Goodhue,19452
+27051,Minnesota,Grant,2612
+27053,Minnesota,Hennepin,508030
+27055,Minnesota,Houston,8253
+27057,Minnesota,Hubbard,8688
+27059,Minnesota,Isanti,14903
+27061,Minnesota,Itasca,19506
+27063,Minnesota,Jackson,4419
+27065,Minnesota,Kanabec,6439
+27067,Minnesota,Kandiyohi,16889
+27071,Minnesota,Koochiching,5538
+27073,Minnesota,Lac qui Parle,3090
+27075,Minnesota,Lake,5192
+27079,Minnesota,Le Sueur,10939
+27081,Minnesota,Lincoln,2468
+27083,Minnesota,Lyon,10018
+27085,Minnesota,McLeod,14714
+27087,Minnesota,Mahnomen,1946
+27089,Minnesota,Marshall,3971
+27091,Minnesota,Martin,8759
+27093,Minnesota,Meeker,9209
+27095,Minnesota,Mille Lacs,10249
+27097,Minnesota,Morrison,13371
+27099,Minnesota,Mower,15565
+27101,Minnesota,Murray,3645
+27103,Minnesota,Nicollet,12885
+27105,Minnesota,Nobles,8033
+27107,Minnesota,Norman,2746
+27109,Minnesota,Olmsted,62108
+27111,Minnesota,Otter Tail,24687
+27113,Minnesota,Pennington,5995
+27115,Minnesota,Pine,10760
+27117,Minnesota,Pipestone,3973
+27119,Minnesota,Polk,12584
+27121,Minnesota,Pope,4981
+27123,Minnesota,Ramsey,209043
+27127,Minnesota,Redwood,6261
+27129,Minnesota,Renville,6085
+27131,Minnesota,Rice,23005
+27133,Minnesota,Rock,3914
+27135,Minnesota,Roseau,5980
+27137,Minnesota,St. Louis,85807
+27139,Minnesota,Scott,49479
+27141,Minnesota,Sherburne,32206
+27143,Minnesota,Sibley,6031
+27145,Minnesota,Stearns,59479
+27147,Minnesota,Steele,14692
+27149,Minnesota,Stevens,3624
+27151,Minnesota,Swift,4263
+27153,Minnesota,Todd,9819
+27157,Minnesota,Wabasha,9020
+27159,Minnesota,Wadena,5666
+27161,Minnesota,Waseca,7425
+27163,Minnesota,Washington,94431
+27165,Minnesota,Watonwan,4310
+27167,Minnesota,Wilkin,2818
+27169,Minnesota,Winona,19442
+27171,Minnesota,Wright,48242
+27173,Minnesota,Yellow Medicine,4087
+28001,Mississippi,Adams,11237
+28003,Mississippi,Alcorn,14649
+28005,Mississippi,Amite,5218
+28007,Mississippi,Attala,6941
+28009,Mississippi,Benton,3149
+28011,Mississippi,Bolivar,12111
+28013,Mississippi,Calhoun,5846
+28015,Mississippi,Carroll,3827
+28017,Mississippi,Chickasaw,6476
+28019,Mississippi,Choctaw,3228
+28021,Mississippi,Claiborne,2908
+28023,Mississippi,Clarke,6237
+28025,Mississippi,Clay,7618
+28027,Mississippi,Coahoma,8782
+28029,Mississippi,Copiah,9414
+28031,Mississippi,Covington,6759
+28033,Mississippi,DeSoto,62890
+28035,Mississippi,Forrest,28086
+28037,Mississippi,Franklin,2928
+28039,Mississippi,George,7592
+28041,Mississippi,Greene,3925
+28043,Mississippi,Grenada,8391
+28045,Mississippi,Hancock,20036
+28047,Mississippi,Harrison,78104
+28049,Mississippi,Hinds,88611
+28051,Mississippi,Holmes,6188
+28053,Mississippi,Humphreys,3186
+28057,Mississippi,Itawamba,8653
+28059,Mississippi,Jackson,52423
+28061,Mississippi,Jasper,6629
+28063,Mississippi,Jefferson,2448
+28065,Mississippi,Jefferson Davis,4713
+28067,Mississippi,Jones,24858
+28069,Mississippi,Kemper,3611
+28071,Mississippi,Lafayette,18721
+28073,Mississippi,Lamar,22116
+28075,Mississippi,Lauderdale,29736
+28077,Mississippi,Lawrence,4849
+28079,Mississippi,Leake,8105
+28081,Mississippi,Lee,32099
+28083,Mississippi,Leflore,9962
+28085,Mississippi,Lincoln,12699
+28087,Mississippi,Lowndes,22436
+28089,Mississippi,Madison,39635
+28091,Mississippi,Marion,9483
+28093,Mississippi,Marshall,12772
+28095,Mississippi,Monroe,13966
+28097,Mississippi,Montgomery,4539
+28099,Mississippi,Neshoba,10657
+28101,Mississippi,Newton,8037
+28103,Mississippi,Noxubee,3986
+28105,Mississippi,Oktibbeha,17798
+28107,Mississippi,Panola,12488
+28109,Mississippi,Pearl River,21020
+28111,Mississippi,Perry,4623
+28113,Mississippi,Pike,14404
+28115,Mississippi,Pontotoc,10783
+28117,Mississippi,Prentiss,9145
+28119,Mississippi,Quitman,3027
+28121,Mississippi,Rankin,55909
+28123,Mississippi,Scott,10180
+28127,Mississippi,Simpson,9486
+28129,Mississippi,Smith,5820
+28131,Mississippi,Stone,6334
+28133,Mississippi,Sunflower,8322
+28135,Mississippi,Tallahatchie,4369
+28137,Mississippi,Tate,10324
+28139,Mississippi,Tippah,7834
+28141,Mississippi,Tishomingo,7635
+28143,Mississippi,Tunica,3930
+28145,Mississippi,Union,9808
+28147,Mississippi,Walthall,5601
+28149,Mississippi,Warren,18235
+28151,Mississippi,Washington,17988
+28153,Mississippi,Wayne,7683
+28155,Mississippi,Webster,3782
+28157,Mississippi,Wilkinson,3170
+28159,Mississippi,Winston,7269
+28161,Mississippi,Yalobusha,5181
+28163,Mississippi,Yazoo,8542
+29001,Missouri,Adair,9258
+29003,Missouri,Andrew,6763
+29005,Missouri,Atchison,2562
+29007,Missouri,Audrain,9286
+29009,Missouri,Barry,13645
+29011,Missouri,Barton,4895
+29013,Missouri,Bates,6547
+29015,Missouri,Benton,7872
+29017,Missouri,Bollinger,4593
+29019,Missouri,Boone,70619
+29021,Missouri,Buchanan,33501
+29023,Missouri,Butler,16390
+29025,Missouri,Caldwell,3639
+29027,Missouri,Callaway,15973
+29029,Missouri,Camden,16031
+29031,Missouri,Cape Girardeau,29594
+29033,Missouri,Carroll,3503
+29035,Missouri,Carter,2333
+29037,Missouri,Cass,39770
+29039,Missouri,Cedar,5842
+29041,Missouri,Chariton,2686
+29043,Missouri,Christian,31645
+29045,Missouri,Clark,2657
+29047,Missouri,Clay,91238
+29049,Missouri,Clinton,8177
+29051,Missouri,Cole,30154
+29053,Missouri,Cooper,6397
+29055,Missouri,Crawford,9578
+29057,Missouri,Dade,3068
+29059,Missouri,Dallas,6209
+29061,Missouri,Daviess,3035
+29063,Missouri,DeKalb,3807
+29065,Missouri,Dent,6371
+29067,Missouri,Douglas,5137
+29069,Missouri,Dunklin,12342
+29071,Missouri,Franklin,40943
+29073,Missouri,Gasconade,6076
+29075,Missouri,Gentry,2555
+29077,Missouri,Greene,125201
+29079,Missouri,Grundy,3936
+29081,Missouri,Harrison,3429
+29083,Missouri,Henry,9328
+29085,Missouri,Hickory,3976
+29089,Missouri,Howard,3471
+29091,Missouri,Howell,15878
+29093,Missouri,Iron,4074
+29095,Missouri,Jackson,286601
+29097,Missouri,Jasper,45759
+29099,Missouri,Jefferson,84444
+29101,Missouri,Johnson,19864
+29105,Missouri,Laclede,14112
+29107,Missouri,Lafayette,13050
+29109,Missouri,Lawrence,14787
+29111,Missouri,Lewis,3752
+29113,Missouri,Lincoln,19286
+29115,Missouri,Linn,5106
+29117,Missouri,Livingston,5915
+29119,Missouri,McDonald,8259
+29121,Missouri,Macon,5845
+29123,Missouri,Madison,5044
+29125,Missouri,Maries,3762
+29127,Missouri,Marion,11565
+29131,Missouri,Miller,10111
+29133,Missouri,Mississippi,5026
+29135,Missouri,Moniteau,5436
+29137,Missouri,Monroe,3702
+29139,Missouri,Montgomery,5014
+29141,Missouri,Morgan,7588
+29143,Missouri,New Madrid,7371
+29145,Missouri,Newton,22202
+29147,Missouri,Nodaway,8395
+29149,Missouri,Oregon,4249
+29151,Missouri,Osage,5120
+29153,Missouri,Ozark,3958
+29155,Missouri,Pemiscot,6730
+29157,Missouri,Perry,7576
+29159,Missouri,Pettis,16033
+29161,Missouri,Phelps,17981
+29163,Missouri,Pike,6589
+29165,Missouri,Platte,39305
+29167,Missouri,Polk,11712
+29169,Missouri,Pulaski,15154
+29173,Missouri,Ralls,4036
+29175,Missouri,Randolph,8626
+29177,Missouri,Ray,8868
+29179,Missouri,Reynolds,2596
+29181,Missouri,Ripley,5059
+29183,Missouri,St. Charles,146631
+29185,Missouri,St. Clair,4139
+29186,Missouri,Ste. Genevieve,7121
+29187,Missouri,St. Francois,24898
+29189,Missouri,St. Louis County,405984
+29195,Missouri,Saline,8272
+29201,Missouri,Scott,15230
+29203,Missouri,Shannon,3064
+29205,Missouri,Shelby,2432
+29207,Missouri,Stoddard,11530
+29209,Missouri,Stone,12783
+29211,Missouri,Sullivan,2128
+29213,Missouri,Taney,22272
+29215,Missouri,Texas,9728
+29217,Missouri,Vernon,8207
+29219,Missouri,Warren,12654
+29221,Missouri,Washington,9231
+29223,Missouri,Wayne,5426
+29225,Missouri,Webster,13575
+29229,Missouri,Wright,7063
+29510,Missouri,St. Louis City,141952
+30001,Montana,Beaverhead,3992
+30003,Montana,Big Horn,3609
+30005,Montana,Blaine,2366
+30007,Montana,Broadwater,2364
+30009,Montana,Carbon,4524
+30013,Montana,Cascade,34329
+30015,Montana,Chouteau,2274
+30017,Montana,Custer,4903
+30021,Montana,Dawson,3930
+30023,Montana,Deer Lodge,3903
+30027,Montana,Fergus,4912
+30029,Montana,Flathead,38773
+30031,Montana,Gallatin,43777
+30035,Montana,Glacier,4163
+30041,Montana,Hill,6369
+30043,Montana,Jefferson,4484
+30047,Montana,Lake,11802
+30049,Montana,Lewis and Clark,27893
+30053,Montana,Lincoln,8122
+30057,Montana,Madison,3570
+30063,Montana,Missoula,49313
+30067,Montana,Park,7782
+30073,Montana,Pondera,2103
+30077,Montana,Powell,2426
+30081,Montana,Ravalli,17354
+30083,Montana,Richland,4535
+30085,Montana,Roosevelt,3150
+30087,Montana,Rosebud,3166
+30089,Montana,Sanders,5036
+30093,Montana,Silver Bow,14960
+30095,Montana,Stillwater,3761
+30099,Montana,Teton,2464
+30105,Montana,Valley,3386
+30111,Montana,Yellowstone,66385
+31001,Nebraska,Adams,12712
+31003,Nebraska,Antelope,2714
+31011,Nebraska,Boone,2311
+31013,Nebraska,Box Butte,4743
+31019,Nebraska,Buffalo,19062
+31021,Nebraska,Burt,2856
+31023,Nebraska,Butler,3363
+31025,Nebraska,Cass,9945
+31027,Nebraska,Cedar,3506
+31031,Nebraska,Cherry,2537
+31033,Nebraska,Cheyenne,4395
+31035,Nebraska,Clay,2539
+31037,Nebraska,Colfax,3731
+31039,Nebraska,Cuming,3727
+31041,Nebraska,Custer,4862
+31043,Nebraska,Dakota,7404
+31045,Nebraska,Dawes,3525
+31047,Nebraska,Dawson,8965
+31051,Nebraska,Dixon,2352
+31053,Nebraska,Dodge,15261
+31055,Nebraska,Douglas,218061
+31059,Nebraska,Fillmore,2510
+31067,Nebraska,Gage,8979
+31079,Nebraska,Hall,23096
+31081,Nebraska,Hamilton,3713
+31089,Nebraska,Holt,4487
+31093,Nebraska,Howard,2720
+31095,Nebraska,Jefferson,3302
+31097,Nebraska,Johnson,1809
+31099,Nebraska,Kearney,2666
+31101,Nebraska,Keith,3882
+31107,Nebraska,Knox,3586
+31109,Nebraska,Lancaster,124324
+31111,Nebraska,Lincoln,14856
+31119,Nebraska,Madison,14205
+31121,Nebraska,Merrick,3373
+31127,Nebraska,Nemaha,2977
+31131,Nebraska,Otoe,6510
+31137,Nebraska,Phelps,3905
+31139,Nebraska,Pierce,3022
+31141,Nebraska,Platte,12947
+31143,Nebraska,Polk,2052
+31145,Nebraska,Red Willow,4519
+31147,Nebraska,Richardson,3704
+31151,Nebraska,Saline,5157
+31153,Nebraska,Sarpy,66260
+31155,Nebraska,Saunders,8501
+31157,Nebraska,Scotts Bluff,14732
+31159,Nebraska,Seward,6600
+31161,Nebraska,Sheridan,2273
+31167,Nebraska,Stanton,2418
+31169,Nebraska,Thayer,2244
+31173,Nebraska,Thurston,2176
+31177,Nebraska,Washington,8185
+31179,Nebraska,Wayne,3708
+31185,Nebraska,York,5656
+32001,Nevada,Churchill,9940
+32003,Nevada,Clark,783524
+32005,Nevada,Douglas,20741
+32007,Nevada,Elko,18065
+32013,Nevada,Humboldt,6500
+32015,Nevada,Lander,2198
+32017,Nevada,Lincoln,2018
+32019,Nevada,Lyon,21189
+32023,Nevada,Nye,19088
+32027,Nevada,Pershing,1948
+32031,Nevada,Washoe,182180
+32033,Nevada,White Pine,3516
+32510,Nevada,Carson City,22755
+33001,New Hampshire,Belknap,25052
+33003,New Hampshire,Carroll,21456
+33005,New Hampshire,Cheshire,30141
+33007,New Hampshire,Coos,13768
+33009,New Hampshire,Grafton,34727
+33011,New Hampshire,Hillsborough,161086
+33013,New Hampshire,Merrimack,58452
+33015,New Hampshire,Rockingham,121045
+33017,New Hampshire,Strafford,48982
+33019,New Hampshire,Sullivan,17328
+34001,New Jersey,Atlantic,99850
+34003,New Jersey,Bergen,339856
+34005,New Jersey,Burlington,166391
+34007,New Jersey,Camden,187383
+34009,New Jersey,Cape May,40171
+34011,New Jersey,Cumberland,50729
+34013,New Jersey,Essex,285908
+34015,New Jersey,Gloucester,104908
+34017,New Jersey,Hudson,258591
+34019,New Jersey,Hunterdon,47175
+34021,New Jersey,Mercer,129936
+34023,New Jersey,Middlesex,285005
+34025,New Jersey,Monmouth,235362
+34027,New Jersey,Morris,181884
+34029,New Jersey,Ocean,226160
+34031,New Jersey,Passaic,165429
+34033,New Jersey,Salem,23933
+34035,New Jersey,Somerset,118193
+34037,New Jersey,Sussex,53322
+34039,New Jersey,Union,190101
+34041,New Jersey,Warren,41587
+35001,New Mexico,Bernalillo,267699
+35005,New Mexico,Chaves,23284
+35006,New Mexico,Cibola,8708
+35007,New Mexico,Colfax,5853
+35009,New Mexico,Curry,18548
+35013,New Mexico,Dona Ana,77842
+35015,New Mexico,Eddy,21251
+35017,New Mexico,Grant,11851
+35025,New Mexico,Lea,22523
+35027,New Mexico,Lincoln,7566
+35028,New Mexico,Los Alamos,7931
+35029,New Mexico,Luna,8904
+35031,New Mexico,McKinley,20942
+35035,New Mexico,Otero,23634
+35037,New Mexico,Quay,3040
+35039,New Mexico,Rio Arriba,12730
+35041,New Mexico,Roosevelt,6814
+35043,New Mexico,Sandoval,51001
+35045,New Mexico,San Juan,43387
+35047,New Mexico,San Miguel,11609
+35049,New Mexico,Santa Fe,61921
+35051,New Mexico,Sierra,5555
+35053,New Mexico,Socorro,4520
+35055,New Mexico,Taos,12103
+35057,New Mexico,Torrance,5644
+35061,New Mexico,Valencia,27010
+36001,New York,Albany,126540
+36003,New York,Allegany,17948
+36005,New York,Bronx,503829
+36007,New York,Broome,78549
+36009,New York,Cattaraugus,31779
+36011,New York,Cayuga,31221
+36013,New York,Chautauqua,53075
+36015,New York,Chemung,33989
+36017,New York,Chenango,20697
+36019,New York,Clinton,31301
+36021,New York,Columbia,24966
+36023,New York,Cortland,17745
+36025,New York,Delaware,18968
+36027,New York,Dutchess,108413
+36029,New York,Erie,389585
+36031,New York,Essex,15790
+36033,New York,Franklin,19015
+36035,New York,Fulton,22557
+36037,New York,Genesee,23759
+36039,New York,Greene,17100
+36043,New York,Herkimer,24524
+36045,New York,Jefferson,42734
+36047,New York,Kings,958567
+36049,New York,Lewis,10247
+36051,New York,Livingston,24176
+36053,New York,Madison,25877
+36055,New York,Monroe,301948
+36057,New York,Montgomery,19660
+36059,New York,Nassau,446977
+36061,New York,New York,759460
+36063,New York,Niagara,88519
+36065,New York,Oneida,89729
+36067,New York,Onondaga,185324
+36069,New York,Ontario,44787
+36071,New York,Orange,128016
+36073,New York,Orleans,16563
+36075,New York,Oswego,46079
+36077,New York,Otsego,23409
+36079,New York,Putnam,34854
+36081,New York,Queens,778932
+36083,New York,Rensselaer,64906
+36085,New York,Richmond,166246
+36087,New York,Rockland,100438
+36089,New York,St. Lawrence,41933
+36091,New York,Saratoga,94406
+36093,New York,Schenectady,54302
+36095,New York,Schoharie,12559
+36097,New York,Schuyler,7324
+36099,New York,Seneca,13564
+36101,New York,Steuben,39861
+36103,New York,Suffolk,489301
+36105,New York,Sullivan,28184
+36107,New York,Tioga,20030
+36109,New York,Tompkins,39618
+36111,New York,Ulster,69320
+36113,New York,Warren,28015
+36115,New York,Washington,24014
+36117,New York,Wayne,36720
+36119,New York,Westchester,349292
+36121,New York,Wyoming,15917
+36123,New York,Yates,8919
+37001,North Carolina,Alamance,64439
+37003,North Carolina,Alexander,14169
+37005,North Carolina,Alleghany,4920
+37007,North Carolina,Anson,9521
+37009,North Carolina,Ashe,11938
+37011,North Carolina,Avery,6551
+37013,North Carolina,Beaufort,19701
+37015,North Carolina,Bertie,7909
+37017,North Carolina,Bladen,13636
+37019,North Carolina,Brunswick,56056
+37021,North Carolina,Buncombe,107479
+37023,North Carolina,Burke,35156
+37025,North Carolina,Cabarrus,72238
+37027,North Carolina,Caldwell,32864
+37029,North Carolina,Camden,3933
+37031,North Carolina,Carteret,29755
+37033,North Carolina,Caswell,9145
+37035,North Carolina,Catawba,62319
+37037,North Carolina,Chatham,29033
+37039,North Carolina,Cherokee,12471
+37041,North Carolina,Chowan,6133
+37043,North Carolina,Clay,4996
+37045,North Carolina,Cleveland,35638
+37047,North Carolina,Columbus,21580
+37049,North Carolina,Craven,41226
+37051,North Carolina,Cumberland,125427
+37053,North Carolina,Currituck,10522
+37055,North Carolina,Dare,15529
+37057,North Carolina,Davidson,66653
+37059,North Carolina,Davie,16405
+37061,North Carolina,Duplin,21466
+37063,North Carolina,Durham,125953
+37065,North Carolina,Edgecombe,21151
+37067,North Carolina,Forsyth,146816
+37069,North Carolina,Franklin,25381
+37071,North Carolina,Gaston,83735
+37073,North Carolina,Gates,4638
+37075,North Carolina,Graham,3393
+37077,North Carolina,Granville,21400
+37079,North Carolina,Greene,7164
+37081,North Carolina,Guilford,203987
+37083,North Carolina,Halifax,21017
+37085,North Carolina,Harnett,45416
+37087,North Carolina,Haywood,26653
+37089,North Carolina,Henderson,49221
+37091,North Carolina,Hertford,8845
+37093,North Carolina,Hoke,17799
+37095,North Carolina,Hyde,1947
+37097,North Carolina,Iredell,66369
+37099,North Carolina,Jackson,16773
+37101,North Carolina,Johnston,68968
+37103,North Carolina,Jones,4045
+37105,North Carolina,Lee,21894
+37107,North Carolina,Lenoir,23148
+37109,North Carolina,Lincoln,32894
+37111,North Carolina,McDowell,18173
+37113,North Carolina,Macon,15921
+37115,North Carolina,Madison,8403
+37117,North Carolina,Martin,9378
+37119,North Carolina,Mecklenburg,411097
+37121,North Carolina,Mitchell,6344
+37123,North Carolina,Montgomery,10195
+37125,North Carolina,Moore,39821
+37127,North Carolina,Nash,37011
+37129,North Carolina,New Hanover,95638
+37131,North Carolina,Northampton,8547
+37133,North Carolina,Onslow,64386
+37135,North Carolina,Orange,53376
+37137,North Carolina,Pamlico,5416
+37139,North Carolina,Pasquotank,14697
+37141,North Carolina,Pender,21740
+37143,North Carolina,Perquimans,5936
+37145,North Carolina,Person,15896
+37147,North Carolina,Pitt,69799
+37149,North Carolina,Polk,9071
+37151,North Carolina,Randolph,56541
+37153,North Carolina,Richmond,18380
+37155,North Carolina,Robeson,45927
+37157,North Carolina,Rockingham,37388
+37159,North Carolina,Rowan,52843
+37161,North Carolina,Rutherford,26683
+37163,North Carolina,Sampson,23416
+37165,North Carolina,Scotland,12922
+37167,North Carolina,Stanly,23332
+37169,North Carolina,Stokes,19578
+37171,North Carolina,Surry,29153
+37173,North Carolina,Swain,5620
+37175,North Carolina,Transylvania,14567
+37179,North Carolina,Union,76346
+37181,North Carolina,Vance,16875
+37183,North Carolina,Wake,400172
+37185,North Carolina,Warren,7786
+37187,North Carolina,Washington,4977
+37189,North Carolina,Watauga,21077
+37191,North Carolina,Wayne,48343
+37193,North Carolina,Wilkes,28753
+37195,North Carolina,Wilson,32014
+37197,North Carolina,Yadkin,15425
+37199,North Carolina,Yancey,7510
+38003,North Dakota,Barnes,5074
+38005,North Dakota,Benson,2248
+38009,North Dakota,Bottineau,2992
+38015,North Dakota,Burleigh,39507
+38017,North Dakota,Cass,75843
+38035,North Dakota,Grand Forks,30502
+38049,North Dakota,McHenry,2594
+38053,North Dakota,McKenzie,4302
+38055,North Dakota,McLean,4334
+38057,North Dakota,Mercer,3709
+38059,North Dakota,Morton,13565
+38061,North Dakota,Mountrail,3360
+38067,North Dakota,Pembina,3158
+38071,North Dakota,Ramsey,4828
+38073,North Dakota,Ransom,2371
+38077,North Dakota,Richland,6777
+38079,North Dakota,Rolette,4608
+38089,North Dakota,Stark,12524
+38093,North Dakota,Stutsman,8908
+38097,North Dakota,Traill,3383
+38099,North Dakota,Walsh,4780
+38101,North Dakota,Ward,28277
+38105,North Dakota,Williams,14320
+39001,Ohio,Adams,10673
+39003,Ohio,Allen,40650
+39005,Ohio,Ashland,20417
+39007,Ohio,Ashtabula,37832
+39009,Ohio,Athens,22557
+39011,Ohio,Auglaize,18888
+39013,Ohio,Belmont,25919
+39015,Ohio,Brown,17829
+39017,Ohio,Butler,139113
+39019,Ohio,Carroll,11298
+39021,Ohio,Champaign,15159
+39023,Ohio,Clark,54696
+39025,Ohio,Clermont,78009
+39027,Ohio,Clinton,16528
+39029,Ohio,Columbiana,41537
+39031,Ohio,Coshocton,14476
+39033,Ohio,Crawford,17782
+39035,Ohio,Cuyahoga,540965
+39037,Ohio,Darke,20861
+39039,Ohio,Defiance,15297
+39041,Ohio,Delaware,69985
+39043,Ohio,Erie,31183
+39045,Ohio,Fairfield,56339
+39047,Ohio,Fayette,11773
+39049,Ohio,Franklin,511447
+39051,Ohio,Fulton,16506
+39053,Ohio,Gallia,11588
+39055,Ohio,Geauga,35298
+39057,Ohio,Greene,65604
+39059,Ohio,Guernsey,16220
+39061,Ohio,Hamilton,341873
+39063,Ohio,Hancock,31937
+39065,Ohio,Hardin,11678
+39067,Ohio,Harrison,6223
+39069,Ohio,Henry,10992
+39071,Ohio,Highland,16772
+39073,Ohio,Hocking,11286
+39075,Ohio,Holmes,12342
+39077,Ohio,Huron,22935
+39079,Ohio,Jackson,12780
+39081,Ohio,Jefferson,27428
+39083,Ohio,Knox,23248
+39085,Ohio,Lake,96361
+39087,Ohio,Lawrence,23221
+39089,Ohio,Licking,64035
+39091,Ohio,Logan,18677
+39093,Ohio,Lorain,120281
+39095,Ohio,Lucas,179930
+39097,Ohio,Madison,15013
+39099,Ohio,Mahoning,98472
+39101,Ohio,Marion,24737
+39103,Ohio,Medina,69007
+39105,Ohio,Meigs,9045
+39107,Ohio,Mercer,16234
+39109,Ohio,Miami,41043
+39111,Ohio,Monroe,5745
+39113,Ohio,Montgomery,224328
+39115,Ohio,Morgan,6108
+39117,Ohio,Morrow,12922
+39119,Ohio,Muskingum,33878
+39121,Ohio,Noble,5067
+39123,Ohio,Ottawa,18051
+39125,Ohio,Paulding,7705
+39127,Ohio,Perry,13500
+39129,Ohio,Pickaway,19710
+39131,Ohio,Pike,10959
+39133,Ohio,Portage,61817
+39135,Ohio,Preble,16251
+39137,Ohio,Putnam,13327
+39139,Ohio,Richland,48449
+39141,Ohio,Ross,28802
+39143,Ohio,Sandusky,23574
+39145,Ohio,Scioto,29858
+39147,Ohio,Seneca,21648
+39149,Ohio,Shelby,18608
+39151,Ohio,Stark,153460
+39153,Ohio,Summit,224726
+39155,Ohio,Trumbull,85621
+39157,Ohio,Tuscarawas,36631
+39159,Ohio,Union,20212
+39161,Ohio,Van Wert,11544
+39163,Ohio,Vinton,5140
+39165,Ohio,Warren,82957
+39167,Ohio,Washington,25197
+39169,Ohio,Wayne,43824
+39171,Ohio,Williams,15090
+39173,Ohio,Wood,50589
+39175,Ohio,Wyandot,9081
+40001,Oklahoma,Adair,7733
+40003,Oklahoma,Alfalfa,1870
+40005,Oklahoma,Atoka,5284
+40007,Oklahoma,Beaver,1971
+40009,Oklahoma,Beckham,7578
+40011,Oklahoma,Blaine,3898
+40013,Oklahoma,Bryan,17253
+40015,Oklahoma,Caddo,10320
+40017,Oklahoma,Canadian,44906
+40019,Oklahoma,Carter,18339
+40021,Oklahoma,Cherokee,16665
+40023,Oklahoma,Choctaw,5971
+40027,Oklahoma,Cleveland,106172
+40029,Oklahoma,Coal,2227
+40031,Oklahoma,Comanche,42842
+40033,Oklahoma,Cotton,2195
+40035,Oklahoma,Craig,5422
+40037,Oklahoma,Creek,26427
+40039,Oklahoma,Custer,10653
+40041,Oklahoma,Delaware,16739
+40047,Oklahoma,Garfield,23541
+40049,Oklahoma,Garvin,10447
+40051,Oklahoma,Grady,19857
+40055,Oklahoma,Greer,2054
+40061,Oklahoma,Haskell,4931
+40063,Oklahoma,Hughes,4132
+40065,Oklahoma,Jackson,9762
+40067,Oklahoma,Jefferson,2371
+40069,Oklahoma,Johnston,4267
+40071,Oklahoma,Kay,17610
+40073,Oklahoma,Kingfisher,5609
+40075,Oklahoma,Kiowa,3571
+40077,Oklahoma,Latimer,4088
+40079,Oklahoma,Le Flore,18261
+40081,Oklahoma,Lincoln,12763
+40083,Oklahoma,Logan,15512
+40085,Oklahoma,Love,3268
+40087,Oklahoma,McClain,14428
+40089,Oklahoma,McCurtain,12646
+40091,Oklahoma,McIntosh,8327
+40093,Oklahoma,Major,3123
+40095,Oklahoma,Marshall,6195
+40097,Oklahoma,Mayes,15983
+40099,Oklahoma,Murray,5238
+40101,Oklahoma,Muskogee,26234
+40103,Oklahoma,Noble,4515
+40105,Oklahoma,Nowata,4099
+40107,Oklahoma,Okfuskee,3976
+40109,Oklahoma,Oklahoma,301570
+40111,Oklahoma,Okmulgee,14724
+40113,Oklahoma,Osage,18263
+40115,Oklahoma,Ottawa,11847
+40117,Oklahoma,Pawnee,6179
+40119,Oklahoma,Payne,30788
+40121,Oklahoma,Pittsburg,17816
+40123,Oklahoma,Pontotoc,14278
+40125,Oklahoma,Pottawatomie,25917
+40127,Oklahoma,Pushmataha,4477
+40131,Oklahoma,Rogers,34755
+40133,Oklahoma,Seminole,9317
+40135,Oklahoma,Sequoyah,15474
+40137,Oklahoma,Stephens,16720
+40139,Oklahoma,Texas,6768
+40141,Oklahoma,Tillman,2807
+40143,Oklahoma,Tulsa,252661
+40145,Oklahoma,Wagoner,29208
+40147,Oklahoma,Washington,20455
+40149,Oklahoma,Washita,4224
+40151,Oklahoma,Woods,3281
+40153,Oklahoma,Woodward,7495
+41001,Oregon,Baker,6921
+41003,Oregon,Benton,35718
+41005,Oregon,Clackamas,157408
+41007,Oregon,Clatsop,15800
+41009,Oregon,Columbia,19671
+41011,Oregon,Coos,27025
+41013,Oregon,Crook,9588
+41015,Oregon,Curry,10546
+41017,Oregon,Deschutes,74397
+41019,Oregon,Douglas,45456
+41023,Oregon,Grant,3381
+41025,Oregon,Harney,3244
+41027,Oregon,Hood River,8600
+41029,Oregon,Jackson,88241
+41031,Oregon,Jefferson,8094
+41033,Oregon,Josephine,36367
+41035,Oregon,Klamath,27886
+41037,Oregon,Lake,3515
+41039,Oregon,Lane,152312
+41041,Oregon,Lincoln,21298
+41043,Oregon,Linn,47762
+41045,Oregon,Malheur,10062
+41047,Oregon,Marion,118038
+41049,Oregon,Morrow,4108
+41051,Oregon,Multnomah,326229
+41053,Oregon,Polk,30305
+41057,Oregon,Tillamook,10784
+41059,Oregon,Umatilla,26908
+41061,Oregon,Union,10708
+41063,Oregon,Wallowa,3214
+41065,Oregon,Wasco,10305
+41067,Oregon,Washington,219053
+41071,Oregon,Yamhill,36808
+42001,Pennsylvania,Adams,39345
+42003,Pennsylvania,Allegheny,541541
+42005,Pennsylvania,Armstrong,28137
+42007,Pennsylvania,Beaver,71167
+42009,Pennsylvania,Bedford,19882
+42011,Pennsylvania,Berks,154712
+42013,Pennsylvania,Blair,52126
+42015,Pennsylvania,Bradford,25021
+42017,Pennsylvania,Bucks,238830
+42019,Pennsylvania,Butler,76502
+42021,Pennsylvania,Cambria,56674
+42025,Pennsylvania,Carbon,26043
+42027,Pennsylvania,Centre,58201
+42029,Pennsylvania,Chester,190980
+42031,Pennsylvania,Clarion,16021
+42033,Pennsylvania,Clearfield,31248
+42035,Pennsylvania,Clinton,14690
+42037,Pennsylvania,Columbia,26372
+42039,Pennsylvania,Crawford,35164
+42041,Pennsylvania,Cumberland,99804
+42043,Pennsylvania,Dauphin,112212
+42045,Pennsylvania,Delaware,207257
+42047,Pennsylvania,Elk,14020
+42049,Pennsylvania,Erie,110318
+42051,Pennsylvania,Fayette,54837
+42053,Pennsylvania,Forest,1839
+42055,Pennsylvania,Franklin,60438
+42057,Pennsylvania,Fulton,5989
+42059,Pennsylvania,Greene,14230
+42061,Pennsylvania,Huntingdon,16779
+42063,Pennsylvania,Indiana,33246
+42065,Pennsylvania,Jefferson,18427
+42067,Pennsylvania,Juniata,9372
+42069,Pennsylvania,Lackawanna,87161
+42071,Pennsylvania,Lancaster,201620
+42073,Pennsylvania,Lawrence,37055
+42075,Pennsylvania,Lebanon,53579
+42077,Pennsylvania,Lehigh,138714
+42079,Pennsylvania,Luzerne,128660
+42081,Pennsylvania,Lycoming,45608
+42083,Pennsylvania,McKean,17147
+42085,Pennsylvania,Mercer,46340
+42087,Pennsylvania,Mifflin,19043
+42089,Pennsylvania,Monroe,57098
+42091,Pennsylvania,Montgomery,316206
+42093,Pennsylvania,Montour,7404
+42095,Pennsylvania,Northampton,114185
+42097,Pennsylvania,Northumberland,39075
+42099,Pennsylvania,Perry,18231
+42101,Pennsylvania,Philadelphia,601337
+42103,Pennsylvania,Pike,22119
+42105,Pennsylvania,Potter,6480
+42107,Pennsylvania,Schuylkill,58749
+42109,Pennsylvania,Snyder,14794
+42111,Pennsylvania,Somerset,29644
+42113,Pennsylvania,Sullivan,2723
+42115,Pennsylvania,Susquehanna,17235
+42117,Pennsylvania,Tioga,16310
+42119,Pennsylvania,Union,14533
+42121,Pennsylvania,Venango,22050
+42123,Pennsylvania,Warren,17115
+42125,Pennsylvania,Washington,84948
+42127,Pennsylvania,Wayne,18841
+42129,Pennsylvania,Westmoreland,152283
+42131,Pennsylvania,Wyoming,10790
+42133,Pennsylvania,York,172421
+44001,Rhode Island,Bristol,19217
+44003,Rhode Island,Kent,69422
+44005,Rhode Island,Newport,34777
+44007,Rhode Island,Providence,237971
+44009,Rhode Island,Washington,49102
+45001,South Carolina,Abbeville,9660
+45003,South Carolina,Aiken,67598
+45005,South Carolina,Allendale,3365
+45007,South Carolina,Anderson,76798
+45009,South Carolina,Bamberg,5334
+45011,South Carolina,Barnwell,8360
+45013,South Carolina,Beaufort,71477
+45015,South Carolina,Berkeley,76881
+45017,South Carolina,Calhoun,6179
+45019,South Carolina,Charleston,159195
+45021,South Carolina,Cherokee,20699
+45023,South Carolina,Chester,12653
+45025,South Carolina,Chesterfield,17900
+45027,South Carolina,Clarendon,13161
+45029,South Carolina,Colleton,15075
+45031,South Carolina,Darlington,26484
+45033,South Carolina,Dillon,11029
+45035,South Carolina,Dorchester,55351
+45037,South Carolina,Edgefield,9176
+45039,South Carolina,Fairfield,9191
+45041,South Carolina,Florence,52188
+45043,South Carolina,Georgetown,25498
+45045,South Carolina,Greenville,192975
+45047,South Carolina,Greenwood,27612
+45049,South Carolina,Hampton,6993
+45051,South Carolina,Horry,131143
+45053,South Carolina,Jasper,10269
+45055,South Carolina,Kershaw,24980
+45057,South Carolina,Lancaster,33899
+45059,South Carolina,Laurens,25563
+45061,South Carolina,Lee,6423
+45063,South Carolina,Lexington,113104
+45065,South Carolina,McCormick,3957
+45067,South Carolina,Marion,11600
+45069,South Carolina,Marlboro,9613
+45071,South Carolina,Newberry,14810
+45073,South Carolina,Oconee,31978
+45075,South Carolina,Orangeburg,33060
+45077,South Carolina,Pickens,47934
+45079,South Carolina,Richland,151853
+45081,South Carolina,Saluda,7094
+45083,South Carolina,Spartanburg,116645
+45085,South Carolina,Sumter,41776
+45087,South Carolina,Union,11432
+45089,South Carolina,Williamsburg,12686
+45091,South Carolina,York,101211
+46005,South Dakota,Beadle,7557
+46009,South Dakota,Bon Homme,2536
+46011,South Dakota,Brookings,12896
+46013,South Dakota,Brown,16305
+46015,South Dakota,Brule,2231
+46019,South Dakota,Butte,4164
+46023,South Dakota,Charles Mix,3166
+46027,South Dakota,Clay,5233
+46029,South Dakota,Codington,12075
+46033,South Dakota,Custer,3876
+46035,South Dakota,Davison,8660
+46037,South Dakota,Day,2574
+46041,South Dakota,Dewey,1651
+46047,South Dakota,Fall River,2986
+46051,South Dakota,Grant,3218
+46057,South Dakota,Hamlin,2256
+46065,South Dakota,Hughes,7460
+46067,South Dakota,Hutchinson,2903
+46079,South Dakota,Lake,4700
+46081,South Dakota,Lawrence,11048
+46083,South Dakota,Lincoln,19749
+46087,South Dakota,McCook,2228
+46093,South Dakota,Meade,11027
+46099,South Dakota,Minnehaha,76819
+46101,South Dakota,Moody,2640
+46103,South Dakota,Pennington,44074
+46109,South Dakota,Roberts,3873
+46115,South Dakota,Spink,2624
+46121,South Dakota,Todd,2700
+46123,South Dakota,Tripp,2356
+46125,South Dakota,Turner,3498
+46127,South Dakota,Union,6619
+46129,South Dakota,Walworth,2258
+46135,South Dakota,Yankton,9445
+47001,Tennessee,Anderson,30541
+47003,Tennessee,Bedford,17029
+47005,Tennessee,Benton,6762
+47007,Tennessee,Bledsoe,4894
+47009,Tennessee,Blount,50557
+47011,Tennessee,Bradley,40192
+47013,Tennessee,Campbell,16192
+47015,Tennessee,Cannon,5488
+47017,Tennessee,Carroll,10962
+47019,Tennessee,Carter,23784
+47021,Tennessee,Cheatham,15089
+47023,Tennessee,Chester,6060
+47025,Tennessee,Claiborne,13281
+47027,Tennessee,Clay,3039
+47029,Tennessee,Cocke,14060
+47031,Tennessee,Coffee,21646
+47033,Tennessee,Crockett,5491
+47035,Tennessee,Cumberland,25801
+47037,Tennessee,Davidson,282366
+47039,Tennessee,Decatur,4440
+47041,Tennessee,DeKalb,7704
+47043,Tennessee,Dickson,19198
+47045,Tennessee,Dyer,15120
+47047,Tennessee,Fayette,15596
+47049,Tennessee,Fentress,7443
+47051,Tennessee,Franklin,16326
+47053,Tennessee,Gibson,19320
+47055,Tennessee,Giles,11904
+47057,Tennessee,Grainger,8959
+47059,Tennessee,Greene,27396
+47061,Tennessee,Grundy,4820
+47063,Tennessee,Hamblen,24456
+47065,Tennessee,Hamilton,145213
+47067,Tennessee,Hancock,2742
+47069,Tennessee,Hardeman,8891
+47071,Tennessee,Hardin,10137
+47073,Tennessee,Hawkins,23135
+47075,Tennessee,Haywood,7181
+47077,Tennessee,Henderson,10711
+47079,Tennessee,Henry,13394
+47081,Tennessee,Hickman,8636
+47083,Tennessee,Houston,2878
+47085,Tennessee,Humphreys,6763
+47087,Tennessee,Jackson,4566
+47089,Tennessee,Jefferson,20154
+47091,Tennessee,Johnson,6794
+47093,Tennessee,Knox,187319
+47095,Tennessee,Lake,2243
+47097,Tennessee,Lauderdale,9675
+47099,Tennessee,Lawrence,15960
+47101,Tennessee,Lewis,4715
+47103,Tennessee,Lincoln,13548
+47105,Tennessee,Loudon,20669
+47107,Tennessee,McMinn,20804
+47109,Tennessee,McNairy,10022
+47111,Tennessee,Macon,9170
+47113,Tennessee,Madison,37944
+47115,Tennessee,Marion,11477
+47117,Tennessee,Marshall,12324
+47119,Tennessee,Maury,34688
+47121,Tennessee,Meigs,4938
+47123,Tennessee,Monroe,17987
+47125,Tennessee,Montgomery,72617
+47127,Tennessee,Moore,2592
+47129,Tennessee,Morgan,7625
+47131,Tennessee,Obion,12717
+47133,Tennessee,Overton,9140
+47135,Tennessee,Perry,3073
+47137,Tennessee,Pickett,2281
+47139,Tennessee,Polk,7383
+47141,Tennessee,Putnam,31424
+47143,Tennessee,Rhea,12177
+47145,Tennessee,Roane,20901
+47147,Tennessee,Robertson,25713
+47149,Tennessee,Rutherford,111676
+47151,Tennessee,Scott,8664
+47153,Tennessee,Sequatchie,5528
+47155,Tennessee,Sevier,37210
+47157,Tennessee,Shelby,351194
+47159,Tennessee,Smith,7603
+47161,Tennessee,Stewart,5178
+47163,Tennessee,Sullivan,66511
+47165,Tennessee,Sumner,67089
+47167,Tennessee,Tipton,21452
+47169,Tennessee,Trousdale,3189
+47171,Tennessee,Unicoi,7658
+47173,Tennessee,Union,7405
+47175,Tennessee,Van Buren,2141
+47177,Tennessee,Warren,15727
+47179,Tennessee,Washington,53859
+47181,Tennessee,Wayne,5764
+47183,Tennessee,Weakley,13640
+47185,Tennessee,White,10048
+47187,Tennessee,Williamson,77855
+47189,Tennessee,Wilson,49664
+48001,Texas,Anderson,16677
+48003,Texas,Andrews,5573
+48005,Texas,Angelina,31035
+48007,Texas,Aransas,9548
+48009,Texas,Archer,3452
+48013,Texas,Atascosa,15546
+48015,Texas,Austin,11301
+48017,Texas,Bailey,2054
+48019,Texas,Bandera,8399
+48021,Texas,Bastrop,25571
+48025,Texas,Bee,8269
+48027,Texas,Bell,122689
+48029,Texas,Bexar,636245
+48031,Texas,Blanco,4343
+48035,Texas,Bosque,7211
+48037,Texas,Bowie,34076
+48039,Texas,Brazoria,121523
+48041,Texas,Brazos,79412
+48043,Texas,Brewster,4088
+48047,Texas,Brooks,2120
+48049,Texas,Brown,14409
+48051,Texas,Burleson,6810
+48053,Texas,Burnet,16743
+48055,Texas,Caldwell,13460
+48057,Texas,Calhoun,7582
+48059,Texas,Callahan,5367
+48061,Texas,Cameron,124605
+48063,Texas,Camp,4605
+48065,Texas,Carson,2288
+48067,Texas,Cass,11934
+48069,Texas,Castro,2532
+48071,Texas,Chambers,14069
+48073,Texas,Cherokee,18138
+48075,Texas,Childress,2407
+48077,Texas,Clay,4105
+48083,Texas,Coleman,3423
+48085,Texas,Collin,341163
+48089,Texas,Colorado,7450
+48091,Texas,Comal,51367
+48093,Texas,Comanche,5487
+48097,Texas,Cooke,15351
+48099,Texas,Coryell,22322
+48107,Texas,Crosby,2061
+48111,Texas,Dallam,2364
+48113,Texas,Dallas,928341
+48115,Texas,Dawson,4322
+48117,Texas,Deaf Smith,6145
+48119,Texas,Delta,1999
+48121,Texas,Denton,290229
+48123,Texas,DeWitt,7048
+48127,Texas,Dimmit,3148
+48131,Texas,Duval,3511
+48133,Texas,Eastland,6492
+48135,Texas,Ector,52530
+48139,Texas,Ellis,57307
+48141,Texas,El Paso,268310
+48143,Texas,Erath,13595
+48145,Texas,Falls,5199
+48147,Texas,Fannin,12453
+48149,Texas,Fayette,9135
+48153,Texas,Floyd,2271
+48157,Texas,Fort Bend,237883
+48159,Texas,Franklin,3965
+48161,Texas,Freestone,6758
+48163,Texas,Frio,4542
+48165,Texas,Gaines,5812
+48167,Texas,Galveston,121438
+48169,Texas,Garza,1543
+48171,Texas,Gillespie,10694
+48175,Texas,Goliad,2727
+48177,Texas,Gonzales,7364
+48179,Texas,Gray,7884
+48181,Texas,Grayson,48454
+48183,Texas,Gregg,45460
+48185,Texas,Grimes,9011
+48187,Texas,Guadalupe,54110
+48189,Texas,Hale,10933
+48193,Texas,Hamilton,2989
+48195,Texas,Hansford,1838
+48199,Texas,Hardin,20626
+48201,Texas,Harris,1605368
+48203,Texas,Harrison,23292
+48205,Texas,Hartley,1678
+48207,Texas,Haskell,2146
+48209,Texas,Hays,73437
+48213,Texas,Henderson,30757
+48215,Texas,Hidalgo,238345
+48217,Texas,Hill,12992
+48219,Texas,Hockley,7997
+48221,Texas,Hood,22152
+48223,Texas,Hopkins,13424
+48225,Texas,Houston,8252
+48227,Texas,Howard,11064
+48231,Texas,Hunt,33189
+48233,Texas,Hutchinson,6929
+48237,Texas,Jack,3168
+48239,Texas,Jackson,4917
+48241,Texas,Jasper,12936
+48245,Texas,Jefferson,92988
+48247,Texas,Jim Hogg,1626
+48249,Texas,Jim Wells,12987
+48251,Texas,Johnson,57310
+48253,Texas,Jones,5696
+48255,Texas,Karnes,4282
+48257,Texas,Kaufman,38015
+48259,Texas,Kendall,14253
+48265,Texas,Kerr,21403
+48273,Texas,Kleberg,10955
+48277,Texas,Lamar,19793
+48279,Texas,Lamb,4728
+48281,Texas,Lampasas,7807
+48283,Texas,La Salle,2269
+48285,Texas,Lavaca,7826
+48287,Texas,Lee,6036
+48289,Texas,Leon,6443
+48291,Texas,Liberty,26873
+48293,Texas,Limestone,8377
+48297,Texas,Live Oak,3752
+48299,Texas,Llano,8678
+48303,Texas,Lubbock,113488
+48305,Texas,Lynn,2154
+48307,Texas,McCulloch,3143
+48309,Texas,McLennan,90054
+48313,Texas,Madison,4269
+48315,Texas,Marion,4715
+48317,Texas,Martin,1694
+48321,Texas,Matagorda,13848
+48323,Texas,Maverick,16286
+48325,Texas,Medina,15682
+48329,Texas,Midland,56998
+48331,Texas,Milam,9228
+48335,Texas,Mitchell,2382
+48337,Texas,Montague,7800
+48339,Texas,Montgomery,198649
+48341,Texas,Moore,6733
+48343,Texas,Morris,5117
+48347,Texas,Nacogdoches,23757
+48349,Texas,Navarro,17338
+48351,Texas,Newton,5315
+48353,Texas,Nolan,5407
+48355,Texas,Nueces,129451
+48357,Texas,Ochiltree,3483
+48361,Texas,Orange,31694
+48363,Texas,Palo Pinto,10255
+48365,Texas,Panola,8637
+48367,Texas,Parker,44263
+48369,Texas,Parmer,3203
+48371,Texas,Pecos,4656
+48373,Texas,Polk,18033
+48375,Texas,Potter,44380
+48377,Texas,Presidio,2543
+48379,Texas,Rains,4330
+48381,Texas,Randall,49389
+48387,Texas,Red River,4963
+48389,Texas,Reeves,3518
+48391,Texas,Refugio,2547
+48395,Texas,Robertson,6444
+48397,Texas,Rockwall,33032
+48399,Texas,Runnels,3896
+48401,Texas,Rusk,18108
+48403,Texas,Sabine,4311
+48405,Texas,San Augustine,3451
+48407,Texas,San Jacinto,10043
+48409,Texas,San Patricio,22898
+48411,Texas,San Saba,2082
+48415,Texas,Scurry,5941
+48419,Texas,Shelby,9293
+48423,Texas,Smith,77678
+48425,Texas,Somervell,3123
+48427,Texas,Starr,16188
+48429,Texas,Stephens,3247
+48437,Texas,Swisher,2505
+48439,Texas,Tarrant,708252
+48441,Texas,Taylor,49868
+48445,Texas,Terry,4061
+48449,Texas,Titus,10893
+48451,Texas,Tom Green,43314
+48453,Texas,Travis,472361
+48455,Texas,Trinity,6030
+48457,Texas,Tyler,7100
+48459,Texas,Upshur,14108
+48463,Texas,Uvalde,8841
+48465,Texas,Val Verde,15779
+48467,Texas,Van Zandt,20156
+48469,Texas,Victoria,32255
+48471,Texas,Walker,21963
+48473,Texas,Waller,15171
+48475,Texas,Ward,3978
+48477,Texas,Washington,12625
+48479,Texas,Webb,74789
+48481,Texas,Wharton,15199
+48483,Texas,Wheeler,2183
+48485,Texas,Wichita,48356
+48487,Texas,Wilbarger,5180
+48489,Texas,Willacy,5782
+48491,Texas,Williamson,180160
+48493,Texas,Wilson,15733
+48495,Texas,Winkler,2619
+48497,Texas,Wise,22369
+48499,Texas,Wood,16510
+48501,Texas,Yoakum,2617
+48503,Texas,Young,7307
+48505,Texas,Zapata,4503
+48507,Texas,Zavala,3571
+49001,Utah,Beaver,2282
+49003,Utah,Box Elder,17569
+49005,Utah,Cache,38393
+49007,Utah,Carbon,7829
+49011,Utah,Davis,104551
+49013,Utah,Duchesne,6868
+49015,Utah,Emery,3665
+49019,Utah,Grand,4191
+49021,Utah,Iron,17015
+49023,Utah,Juab,3464
+49025,Utah,Kane,2643
+49027,Utah,Millard,4337
+49029,Utah,Morgan,3365
+49035,Utah,Salt Lake,374820
+49037,Utah,San Juan,4311
+49039,Utah,Sanpete,8643
+49041,Utah,Sevier,7364
+49043,Utah,Summit,14220
+49045,Utah,Tooele,20478
+49047,Utah,Uintah,10569
+49049,Utah,Utah,165991
+49051,Utah,Wasatch,9879
+49053,Utah,Washington,57144
+49057,Utah,Weber,83632
+50001,Vermont,Addison,14584
+50003,Vermont,Bennington,14581
+50005,Vermont,Caledonia,12434
+50007,Vermont,Chittenden,66160
+50009,Vermont,Essex,2740
+50011,Vermont,Franklin,18563
+50013,Vermont,Grand Isle,2956
+50015,Vermont,Lamoille,10546
+50017,Vermont,Orange,12279
+50019,Vermont,Orleans,11779
+50021,Vermont,Rutland,25338
+50023,Vermont,Washington,24828
+50025,Vermont,Windham,18943
+50027,Vermont,Windsor,24298
+51001,Virginia,Accomack,13438
+51003,Virginia,Albemarle,41496
+51005,Virginia,Alleghany,6600
+51007,Virginia,Amelia,4954
+51009,Virginia,Amherst,12160
+51011,Virginia,Appomattox,6091
+51013,Virginia,Arlington,107032
+51015,Virginia,Augusta,29539
+51019,Virginia,Bedford County,31317
+51021,Virginia,Bland,2367
+51023,Virginia,Botetourt,13264
+51025,Virginia,Brunswick,6037
+51027,Virginia,Buchanan,8569
+51029,Virginia,Buckingham,5826
+51031,Virginia,Campbell,23071
+51033,Virginia,Caroline,10946
+51035,Virginia,Carroll,12357
+51036,Virginia,Charles City,2896
+51037,Virginia,Charlotte,4661
+51041,Virginia,Chesterfield,124971
+51043,Virginia,Clarke,5612
+51045,Virginia,Craig,2297
+51047,Virginia,Culpeper,17071
+51049,Virginia,Cumberland,3975
+51051,Virginia,Dickenson,5778
+51053,Virginia,Dinwiddie,10401
+51057,Virginia,Essex,4555
+51059,Virginia,Fairfax,396501
+51061,Virginia,Fauquier,24562
+51063,Virginia,Floyd,6493
+51065,Virginia,Fluvanna,9923
+51067,Virginia,Franklin County,22997
+51069,Virginia,Frederick,31503
+51071,Virginia,Giles,6910
+51073,Virginia,Gloucester,14786
+51075,Virginia,Goochland,8506
+51077,Virginia,Grayson,6498
+51079,Virginia,Greene,7548
+51081,Virginia,Greensville,3647
+51083,Virginia,Halifax,14158
+51085,Virginia,Hanover,38987
+51087,Virginia,Henrico,128464
+51089,Virginia,Henry,21218
+51093,Virginia,Isle of Wight,14587
+51095,Virginia,James City,28920
+51097,Virginia,King and Queen,2707
+51099,Virginia,King George,9202
+51101,Virginia,King William,6078
+51103,Virginia,Lancaster,5062
+51105,Virginia,Lee,9149
+51107,Virginia,Loudoun,128637
+51109,Virginia,Louisa,13871
+51111,Virginia,Lunenburg,4293
+51113,Virginia,Madison,4949
+51115,Virginia,Mathews,3920
+51117,Virginia,Mecklenburg,12075
+51119,Virginia,Middlesex,4603
+51121,Virginia,Montgomery,35685
+51125,Virginia,Nelson,6419
+51127,Virginia,New Kent,7961
+51131,Virginia,Northampton,5148
+51133,Virginia,Northumberland,5584
+51135,Virginia,Nottoway,5446
+51137,Virginia,Orange,13679
+51139,Virginia,Page,9286
+51141,Virginia,Patrick,7755
+51143,Virginia,Pittsylvania,26267
+51145,Virginia,Powhatan,10265
+51147,Virginia,Prince Edward,7185
+51149,Virginia,Prince George,11507
+51153,Virginia,Prince William,142000
+51155,Virginia,Pulaski,14533
+51157,Virginia,Rappahannock,2913
+51159,Virginia,Richmond County,3069
+51161,Virginia,Roanoke County,38222
+51163,Virginia,Rockbridge,9248
+51165,Virginia,Rockingham,30994
+51167,Virginia,Russell,10812
+51169,Virginia,Scott,8773
+51171,Virginia,Shenandoah,17402
+51173,Virginia,Smyth,12686
+51175,Virginia,Southampton,6562
+51177,Virginia,Spotsylvania,44436
+51179,Virginia,Stafford,47075
+51181,Virginia,Surry,2730
+51183,Virginia,Sussex,3794
+51185,Virginia,Tazewell,16531
+51187,Virginia,Warren,14651
+51191,Virginia,Washington,22321
+51193,Virginia,Westmoreland,7923
+51195,Virginia,Wise,14925
+51197,Virginia,Wythe,11983
+51199,Virginia,York,25103
+51510,Virginia,Alexandria,70598
+51520,Virginia,Bristol,7334
+51530,Virginia,Buena Vista,2517
+51540,Virginia,Charlottesville,18617
+51550,Virginia,Chesapeake,84849
+51570,Virginia,Colonial Heights,7036
+51580,Virginia,Covington,2384
+51590,Virginia,Danville,18293
+51595,Virginia,Emporia,2086
+51600,Virginia,Fairfax City,8577
+51610,Virginia,Falls Church,5493
+51620,Virginia,Franklin City,3522
+51630,Virginia,Fredericksburg,10762
+51640,Virginia,Galax,2663
+51650,Virginia,Hampton,54050
+51660,Virginia,Harrisonburg,16723
+51670,Virginia,Hopewell,9224
+51678,Virginia,Lexington,2158
+51680,Virginia,Lynchburg,28273
+51683,Virginia,Manassas,12898
+51685,Virginia,Manassas Park,4641
+51690,Virginia,Martinsville,5532
+51700,Virginia,Newport News,69835
+51710,Virginia,Norfolk,88353
+51730,Virginia,Petersburg,13165
+51735,Virginia,Poquoson,4593
+51740,Virginia,Portsmouth,36370
+51750,Virginia,Radford,5573
+51760,Virginia,Richmond City,90301
+51770,Virginia,Roanoke City,41740
+51775,Virginia,Salem,9912
+51790,Virginia,Staunton,10597
+51800,Virginia,Suffolk,33774
+51810,Virginia,Virginia Beach,170798
+51820,Virginia,Waynesboro,9193
+51830,Virginia,Williamsburg,4706
+51840,Virginia,Winchester,10490
+53001,Washington,Adams,5973
+53003,Washington,Asotin,9101
+53005,Washington,Benton,72121
+53007,Washington,Chelan,28384
+53009,Washington,Clallam,32958
+53011,Washington,Clark,174661
+53015,Washington,Cowlitz,41952
+53017,Washington,Douglas,15263
+53019,Washington,Ferry,3060
+53021,Washington,Franklin,26723
+53025,Washington,Grant,30818
+53027,Washington,Grays Harbor,28722
+53029,Washington,Island,34768
+53031,Washington,Jefferson,14705
+53033,Washington,King,882028
+53035,Washington,Kitsap,103913
+53037,Washington,Kittitas,18347
+53039,Washington,Klickitat,8877
+53041,Washington,Lewis,30618
+53043,Washington,Lincoln,4525
+53045,Washington,Mason,24278
+53047,Washington,Okanogan,17675
+53049,Washington,Pacific,9279
+53051,Washington,Pend Oreille,5727
+53053,Washington,Pierce,323296
+53055,Washington,San Juan,8252
+53057,Washington,Skagit,48493
+53059,Washington,Skamania,4816
+53061,Washington,Snohomish,293823
+53063,Washington,Spokane,202811
+53065,Washington,Stevens,17554
+53067,Washington,Thurston,109983
+53071,Washington,Walla Walla,22646
+53073,Washington,Whatcom,86523
+53075,Washington,Whitman,17999
+53077,Washington,Yakima,83048
+54001,West Virginia,Barbour,6324
+54003,West Virginia,Berkeley,44221
+54005,West Virginia,Boone,8932
+54007,West Virginia,Braxton,5624
+54009,West Virginia,Brooke,9805
+54011,West Virginia,Cabell,39064
+54013,West Virginia,Calhoun,2826
+54015,West Virginia,Clay,3274
+54017,West Virginia,Doddridge,2685
+54019,West Virginia,Fayette,17441
+54021,West Virginia,Gilmer,2587
+54023,West Virginia,Grant,4607
+54025,West Virginia,Greenbrier,15188
+54027,West Virginia,Hampshire,9288
+54029,West Virginia,Hancock,12678
+54031,West Virginia,Hardy,5674
+54033,West Virginia,Harrison,27098
+54035,West Virginia,Jackson,11334
+54037,West Virginia,Jefferson,20891
+54039,West Virginia,Kanawha,79070
+54041,West Virginia,Lewis,6574
+54043,West Virginia,Lincoln,8208
+54045,West Virginia,Logan,13816
+54047,West Virginia,McDowell,7607
+54049,West Virginia,Marion,22926
+54051,West Virginia,Marshall,12308
+54053,West Virginia,Mason,11034
+54055,West Virginia,Mercer,25216
+54057,West Virginia,Mineral,10916
+54059,West Virginia,Mingo,10501
+54061,West Virginia,Monongalia,39466
+54063,West Virginia,Monroe,5718
+54065,West Virginia,Morgan,7185
+54067,West Virginia,Nicholas,10069
+54069,West Virginia,Ohio,17193
+54071,West Virginia,Pendleton,3174
+54073,West Virginia,Pleasants,2835
+54075,West Virginia,Pocahontas,3530
+54077,West Virginia,Preston,12429
+54079,West Virginia,Putnam,21613
+54081,West Virginia,Raleigh,31203
+54083,West Virginia,Randolph,11135
+54085,West Virginia,Ritchie,4049
+54087,West Virginia,Roane,5562
+54089,West Virginia,Summers,5566
+54091,West Virginia,Taylor,6614
+54093,West Virginia,Tucker,3142
+54095,West Virginia,Tyler,3207
+54097,West Virginia,Upshur,9713
+54099,West Virginia,Wayne,15124
+54101,West Virginia,Webster,3781
+54103,West Virginia,Wetzel,5762
+54105,West Virginia,Wirt,2505
+54107,West Virginia,Wood,35488
+54109,West Virginia,Wyoming,8805
+55001,Wisconsin,Adams,9062
+55003,Wisconsin,Ashland,6565
+55005,Wisconsin,Barron,18907
+55007,Wisconsin,Bayfield,7057
+55009,Wisconsin,Brown,105271
+55011,Wisconsin,Buffalo,5772
+55013,Wisconsin,Burnett,7305
+55015,Wisconsin,Calumet,19807
+55017,Wisconsin,Chippewa,25601
+55019,Wisconsin,Clark,12791
+55021,Wisconsin,Columbia,24112
+55023,Wisconsin,Crawford,6654
+55025,Wisconsin,Dane,222929
+55027,Wisconsin,Dodge,34980
+55029,Wisconsin,Door,13191
+55031,Wisconsin,Douglas,19011
+55033,Wisconsin,Dunn,16859
+55035,Wisconsin,Eau Claire,40981
+55039,Wisconsin,Fond du Lac,41542
+55041,Wisconsin,Forest,4008
+55043,Wisconsin,Grant,19583
+55045,Wisconsin,Green,15047
+55047,Wisconsin,Green Lake,7979
+55049,Wisconsin,Iowa,9850
+55051,Wisconsin,Iron,2898
+55053,Wisconsin,Jackson,8199
+55055,Wisconsin,Jefferson,32965
+55057,Wisconsin,Juneau,10752
+55059,Wisconsin,Kenosha,64111
+55061,Wisconsin,Kewaunee,8341
+55063,Wisconsin,La Crosse,47518
+55065,Wisconsin,Lafayette,6722
+55067,Wisconsin,Langlade,8612
+55069,Wisconsin,Lincoln,12625
+55071,Wisconsin,Manitowoc,34563
+55073,Wisconsin,Marathon,55466
+55075,Wisconsin,Marinette,18473
+55077,Wisconsin,Marquette,6648
+55079,Wisconsin,Milwaukee,382175
+55081,Wisconsin,Monroe,17915
+55083,Wisconsin,Oconto,16036
+55085,Wisconsin,Oneida,15421
+55087,Wisconsin,Outagamie,73648
+55089,Wisconsin,Ozaukee,35807
+55091,Wisconsin,Pepin,3070
+55093,Wisconsin,Pierce,15593
+55095,Wisconsin,Polk,18450
+55097,Wisconsin,Portage,28675
+55099,Wisconsin,Price,6688
+55101,Wisconsin,Racine,76974
+55103,Wisconsin,Richland,7538
+55105,Wisconsin,Rock,64739
+55107,Wisconsin,Rusk,6376
+55109,Wisconsin,St. Croix,34182
+55111,Wisconsin,Sauk,26222
+55113,Wisconsin,Sawyer,7796
+55115,Wisconsin,Shawano,17004
+55117,Wisconsin,Sheboygan,47738
+55119,Wisconsin,Taylor,8614
+55121,Wisconsin,Trempealeau,12005
+55123,Wisconsin,Vernon,12071
+55125,Wisconsin,Vilas,10921
+55127,Wisconsin,Walworth,40874
+55129,Wisconsin,Washburn,7236
+55131,Wisconsin,Washington,54302
+55133,Wisconsin,Waukesha,158808
+55135,Wisconsin,Waupaca,22305
+55137,Wisconsin,Waushara,9934
+55139,Wisconsin,Winnebago,70594
+55141,Wisconsin,Wood,32332
+56001,Wyoming,Albany,15944
+56003,Wyoming,Big Horn,4475
+56005,Wyoming,Campbell,17574
+56007,Wyoming,Carbon,6204
+56009,Wyoming,Converse,5378
+56011,Wyoming,Crook,2919
+56013,Wyoming,Fremont,14907
+56015,Wyoming,Goshen,5207
+56019,Wyoming,Johnson,3845
+56021,Wyoming,Laramie,39683
+56023,Wyoming,Lincoln,6908
+56025,Wyoming,Natrona,32799
+56029,Wyoming,Park,12160
+56031,Wyoming,Platte,4030
+56033,Wyoming,Sheridan,13251
+56035,Wyoming,Sublette,3340
+56037,Wyoming,Sweetwater,15523
+56039,Wyoming,Teton,9019
+56041,Wyoming,Uinta,7597
+56043,Wyoming,Washakie,3365
+56045,Wyoming,Weston,2891
