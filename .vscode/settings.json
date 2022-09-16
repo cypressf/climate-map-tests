@@ -4,8 +4,11 @@
   "cSpell.words": [
     "astype",
     "COUNTYFP",
+    "dropna",
+    "notna",
     "pycountry",
-    "seaborn"
+    "seaborn",
+    "sqlalchemy"
   ],
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#fbed80",
