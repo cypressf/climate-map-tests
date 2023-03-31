@@ -1,4 +1,4 @@
-ISO3,Recipient name (EN),Year,USD_Received,total_area,Valuepa,id
+iso3,recipient name (en),year,usd_received,total_area,valuepa,id
 AFG,Afghanistan,2008,0.0,652230.0,0.0,4
 AFG,Afghanistan,2009,0.0,652230.0,0.0,4
 AFG,Afghanistan,2010,0.40362,652230.0,6.188307805528724e-07,4
